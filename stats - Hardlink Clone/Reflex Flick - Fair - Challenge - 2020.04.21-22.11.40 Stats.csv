@@ -1,0 +1,74 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:10:41:062,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,22:10:42:666,target_decay,pistol,0.879s,2,1,0.5,25,100,0.25,false
+3,22:10:43:407,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,22:10:44:187,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,22:10:45:747,target_decay,pistol,0.821s,2,1,0.5,25,100,0.25,false
+6,22:10:49:112,target_decay,pistol,2.605s,4,1,0.25,25,200,0.125,false
+7,22:10:50:702,target_decay,pistol,0.805s,2,1,0.5,25,100,0.25,false
+8,22:10:54:122,target_decay,pistol,2.655s,4,1,0.25,25,200,0.125,false
+9,22:10:55:713,target_decay,pistol,0.899s,2,1,0.5,25,100,0.25,false
+10,22:10:57:352,target_decay,pistol,0.934s,2,1,0.5,25,100,0.25,false
+11,22:10:58:118,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+12,22:10:59:708,target_decay,pistol,0.89s,2,1,0.5,25,100,0.25,false
+13,22:11:00:508,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+14,22:11:01:198,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+15,22:11:01:932,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,22:11:02:648,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+17,22:11:03:404,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+18,22:11:05:049,target_decay,pistol,0.89s,2,1,0.5,25,100,0.25,false
+19,22:11:08:379,target_decay,pistol,2.555s,4,1,0.25,25,200,0.125,false
+20,22:11:09:939,target_decay,pistol,0.74s,2,1,0.5,25,100,0.25,false
+21,22:11:10:624,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+22,22:11:11:394,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+23,22:11:13:889,target_decay,pistol,1.794s,3,1,0.333,25,150,0.167,false
+24,22:11:14:714,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+25,22:11:15:479,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+26,22:11:16:324,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+27,22:11:19:780,target_decay,pistol,2.73s,4,1,0.25,25,200,0.125,false
+28,22:11:21:454,target_decay,pistol,0.94s,2,1,0.5,25,100,0.25,false
+29,22:11:22:119,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+30,22:11:22:880,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+31,22:11:23:624,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+32,22:11:26:064,target_decay,pistol,1.625s,3,1,0.333,25,150,0.167,false
+33,22:11:26:765,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+34,22:11:28:410,target_decay,pistol,0.895s,2,1,0.5,25,100,0.25,false
+35,22:11:30:054,target_decay,pistol,0.934s,2,1,0.5,25,100,0.25,false
+36,22:11:30:884,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+37,22:11:31:695,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+38,22:11:32:396,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+39,22:11:34:850,target_decay,pistol,1.626s,3,1,0.333,25,150,0.167,false
+40,22:11:37:335,target_decay,pistol,1.66s,3,1,0.333,25,150,0.167,false
+41,22:11:38:125,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+42,22:11:38:825,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+43,22:11:39:555,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,75,43,1075.0,3750.0,
+
+Kills:,43
+Deaths:,0
+Fight Time:,26.879999
+Avg TTK:,0.625
+Damage Done:,1075.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2465.333252
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,200.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

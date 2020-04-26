@@ -1,0 +1,51 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:57:06:118,target_decay,pistol,1.764s,3,1,0.333,25,150,0.167,false
+2,23:57:13:113,target_decay,pistol,6.299s,8,1,0.125,25,400,0.062,false
+3,23:57:18:327,target_decay,pistol,4.48s,6,1,0.167,25,300,0.083,false
+4,23:57:23:592,target_decay,pistol,4.555s,6,1,0.167,25,300,0.083,false
+5,23:57:25:165,target_decay,pistol,0.812s,2,1,0.5,25,100,0.25,false
+6,23:57:25:903,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,23:57:26:603,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+8,23:57:27:325,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,23:57:29:821,target_decay,pistol,1.781s,3,1,0.333,25,150,0.167,false
+10,23:57:30:540,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,23:57:39:269,target_decay,pistol,8.067s,10,1,0.1,25,500,0.05,false
+12,23:57:41:785,target_decay,pistol,1.828s,3,1,0.333,25,150,0.167,false
+13,23:57:47:050,target_decay,pistol,4.528s,6,1,0.167,25,300,0.083,false
+14,23:57:48:609,target_decay,pistol,0.82s,2,1,0.5,25,100,0.25,false
+15,23:57:52:026,target_decay,pistol,2.615s,4,1,0.25,25,200,0.125,false
+16,23:57:52:781,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+17,23:57:53:502,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+18,23:57:54:192,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,23:57:56:590,target_decay,pistol,1.661s,3,1,0.333,25,150,0.167,false
+20,23:57:59:065,target_decay,pistol,1.754s,3,1,0.333,25,150,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,71,20,500.0,3550.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,40.964001
+Avg TTK:,2.048
+Damage Done:,500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,563.38031
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

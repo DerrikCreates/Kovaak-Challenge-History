@@ -1,0 +1,52 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:59:17:048,target_decay,pistol,5.492s,8,1,0.125,25,400,0.062,false
+2,23:59:20:403,target_decay,pistol,2.661s,4,1,0.25,25,200,0.125,false
+3,23:59:21:919,target_decay,pistol,0.781s,2,1,0.5,25,100,0.25,false
+4,23:59:22:591,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,23:59:32:221,target_decay,pistol,8.951s,11,1,0.091,25,550,0.045,false
+6,23:59:34:731,target_decay,pistol,1.814s,3,1,0.333,25,150,0.167,false
+7,23:59:38:979,target_decay,pistol,3.465s,6,1,0.167,25,300,0.083,false
+8,23:59:39:719,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,23:59:40:398,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,23:59:41:058,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,23:59:41:710,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+12,23:59:42:355,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,23:59:43:944,target_decay,pistol,0.904s,2,1,0.5,25,100,0.25,false
+14,23:59:44:652,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+15,23:59:48:055,target_decay,pistol,2.719s,4,1,0.25,25,200,0.125,false
+16,23:59:48:749,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+17,23:59:51:191,target_decay,pistol,1.71s,3,1,0.333,25,150,0.167,false
+18,23:59:51:828,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,23:59:56:105,target_decay,pistol,3.604s,5,1,0.2,25,250,0.1,false
+20,00:00:04:912,target_decay,pistol,8.104s,10,1,0.1,25,500,0.05,false
+21,00:00:11:073,target_decay,pistol,5.473s,7,1,0.143,25,350,0.071,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,74,21,525.0,3700.0,
+
+Kills:,21
+Deaths:,0
+Fight Time:,45.679001
+Avg TTK:,2.175
+Damage Done:,525.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,595.945984
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

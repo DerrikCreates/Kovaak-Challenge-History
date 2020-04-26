@@ -1,0 +1,52 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:29:54:183,Pigeon,LG,2.898s,64,17,0.266,102,384,0.266,false
+2,00:29:56:949,Pigeon,LG,1.562s,35,18,0.514,108,210,0.514,false
+3,00:29:58:763,Pigeon,LG,1.481s,33,16,0.485,96,198,0.485,false
+4,00:30:00:741,Pigeon,LG,1.194s,27,17,0.63,102,162,0.63,false
+5,00:30:03:180,Pigeon,LG,1.885s,42,17,0.405,102,252,0.405,false
+6,00:30:07:849,Pigeon,LG,3.679s,81,23,0.284,138,486,0.284,false
+7,00:30:09:302,Pigeon,LG,1.2s,27,11,0.407,66,162,0.407,false
+8,00:30:11:261,Pigeon,LG,1.055s,24,17,0.708,102,144,0.708,false
+9,00:30:13:699,Pigeon,LG,1.976s,44,17,0.386,102,264,0.386,false
+10,00:30:15:377,Pigeon,LG,1.147s,26,17,0.654,102,156,0.654,false
+11,00:30:18:066,Pigeon,LG,2.067s,46,17,0.37,102,276,0.37,false
+12,00:30:21:565,Pigeon,LG,2.805s,62,17,0.274,102,372,0.274,false
+13,00:30:24:417,Pigeon,LG,1.974s,44,17,0.386,102,264,0.386,false
+14,00:30:27:202,Pigeon,LG,1.748s,39,17,0.436,102,234,0.436,false
+15,00:30:30:436,Pigeon,LG,2.296s,51,17,0.333,102,306,0.333,false
+16,00:30:33:657,Pigeon,LG,2.437s,54,17,0.315,102,324,0.315,false
+17,00:30:36:435,Pigeon,LG,2.436s,54,17,0.315,102,324,0.315,false
+18,00:30:38:343,Pigeon,LG,1.518s,34,17,0.5,102,204,0.5,false
+19,00:30:41:950,Pigeon,LG,2.39s,53,17,0.321,102,318,0.321,false
+20,00:30:44:844,Pigeon,LG,2.022s,45,17,0.378,102,270,0.378,false
+21,00:30:47:270,Pigeon,LG,1.771s,31,17,0.548,102,186,0.548,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,970,374,2244.0,5820.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,43.978001
+Avg TTK:,1.999
+Damage Done:,2244.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2244.0
+Scenario:,LG Pin Practice 360
+Hash:,1bd8936343724d18465795b9d93c8ac1
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

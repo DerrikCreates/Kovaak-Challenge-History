@@ -1,0 +1,36 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:49:37:302,Quaker Bot Hard,LG,7.586s,166,50,0.301,300,996,0.301,false
+2,23:49:48:628,Quaker Bot Hard,LG,8.965s,196,50,0.255,300,1176,0.255,false
+3,23:49:59:150,Quaker Bot Hard,LG,8.141s,178,50,0.281,300,1068,0.281,false
+4,23:50:08:913,Quaker Bot Hard,LG,7.172s,157,50,0.318,300,942,0.318,false
+5,23:50:18:896,Quaker Bot Hard,LG,7.449s,163,50,0.307,300,978,0.307,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1028,289,1734.0,6168.0,
+
+Kills:,5
+Deaths:,0
+Fight Time:,39.313
+Avg TTK:,7.863
+Damage Done:,1734.0
+Damage Taken:,2514.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,361.201447
+Score:,1109.051514
+Scenario:,RexStrafesCata
+Hash:,840135c10eab0223ff661b2a6460bf54
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,150.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

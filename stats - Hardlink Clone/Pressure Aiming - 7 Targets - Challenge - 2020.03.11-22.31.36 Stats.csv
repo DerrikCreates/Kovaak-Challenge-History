@@ -1,0 +1,279 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:29:37:465,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+2,22:29:37:908,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+3,22:29:38:326,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+4,22:29:38:808,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+5,22:29:39:253,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+6,22:29:39:964,Balloon,Pressure BB Gun,0.387s,2,1,0.5,2,4,0.5,false
+7,22:29:40:241,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+8,22:29:40:639,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+9,22:29:41:242,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+10,22:29:41:691,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+11,22:29:42:118,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+12,22:29:42:580,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+13,22:29:42:985,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+14,22:29:43:456,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+15,22:29:43:998,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+16,22:29:44:534,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+17,22:29:45:053,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+18,22:29:45:807,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+19,22:29:46:325,Balloon,Pressure BB Gun,0.362s,2,1,0.5,2,4,0.5,false
+20,22:29:46:802,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+21,22:29:47:125,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+22,22:29:47:647,Balloon,Pressure BB Gun,0.175s,2,1,0.5,2,4,0.5,false
+23,22:29:48:064,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+24,22:29:48:548,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+25,22:29:48:936,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+26,22:29:49:484,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+27,22:29:50:008,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+28,22:29:50:485,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+29,22:29:50:842,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+30,22:29:51:756,Balloon,Pressure BB Gun,0.33s,2,1,0.5,2,4,0.5,false
+31,22:29:52:218,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+32,22:29:53:142,Balloon,Pressure BB Gun,0.51s,2,1,0.5,2,4,0.5,false
+33,22:29:53:619,Balloon,Pressure BB Gun,0.292s,2,1,0.5,2,4,0.5,false
+34,22:29:54:061,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+35,22:29:54:216,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+36,22:29:54:563,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+37,22:29:55:158,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+38,22:29:55:644,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+39,22:29:56:109,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+40,22:29:56:370,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+41,22:29:56:893,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+42,22:29:57:340,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+43,22:29:57:939,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+44,22:29:58:429,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+45,22:29:58:859,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+46,22:29:59:397,Balloon,Pressure BB Gun,0.163s,2,1,0.5,2,4,0.5,false
+47,22:29:59:868,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+48,22:30:00:399,Balloon,Pressure BB Gun,0.206s,2,1,0.5,2,4,0.5,false
+49,22:30:01:065,Balloon,Pressure BB Gun,0.289s,2,1,0.5,2,4,0.5,false
+50,22:30:01:627,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+51,22:30:01:962,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+52,22:30:02:341,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+53,22:30:03:023,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+54,22:30:03:363,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+55,22:30:03:705,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+56,22:30:04:131,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+57,22:30:04:576,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+58,22:30:04:770,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+59,22:30:05:272,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+60,22:30:05:602,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+61,22:30:06:245,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+62,22:30:06:819,Balloon,Pressure BB Gun,0.269s,2,1,0.5,2,4,0.5,false
+63,22:30:07:088,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+64,22:30:07:411,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+65,22:30:07:925,Balloon,Pressure BB Gun,0.249s,2,1,0.5,2,4,0.5,false
+66,22:30:08:743,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+67,22:30:08:967,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+68,22:30:09:416,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+69,22:30:09:861,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+70,22:30:10:152,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+71,22:30:10:438,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+72,22:30:11:367,Balloon,Pressure BB Gun,0.565s,2,1,0.5,2,4,0.5,false
+73,22:30:11:558,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+74,22:30:12:021,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+75,22:30:12:532,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+76,22:30:13:165,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+77,22:30:13:668,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+78,22:30:14:093,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+79,22:30:15:022,Balloon,Pressure BB Gun,0.249s,2,1,0.5,2,4,0.5,false
+80,22:30:15:310,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+81,22:30:15:790,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+82,22:30:16:040,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+83,22:30:16:493,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+84,22:30:16:929,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+85,22:30:17:167,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+86,22:30:17:624,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+87,22:30:18:157,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+88,22:30:18:562,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+89,22:30:19:200,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+90,22:30:19:712,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+91,22:30:20:469,Balloon,Pressure BB Gun,0.559s,2,1,0.5,2,4,0.5,false
+92,22:30:20:948,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+93,22:30:21:212,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+94,22:30:21:738,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+95,22:30:22:086,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+96,22:30:22:450,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+97,22:30:22:859,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+98,22:30:23:231,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+99,22:30:23:519,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+100,22:30:24:046,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+101,22:30:24:623,Balloon,Pressure BB Gun,0.002s,1,1,1,2,2,1,false
+102,22:30:25:087,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+103,22:30:25:493,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+104,22:30:25:839,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+105,22:30:26:181,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+106,22:30:26:754,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+107,22:30:27:157,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+108,22:30:27:592,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+109,22:30:27:914,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+110,22:30:28:459,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+111,22:30:28:868,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+112,22:30:29:469,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+113,22:30:29:955,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+114,22:30:30:362,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+115,22:30:31:179,Balloon,Pressure BB Gun,0.403s,2,1,0.5,2,4,0.5,false
+116,22:30:32:097,Balloon,Pressure BB Gun,0.572s,3,1,0.333,2,6,0.333,false
+117,22:30:33:010,Balloon,Pressure BB Gun,0.413s,2,1,0.5,2,4,0.5,false
+118,22:30:33:548,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+119,22:30:33:747,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+120,22:30:34:308,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+121,22:30:34:736,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+122,22:30:35:600,Balloon,Pressure BB Gun,0.504s,2,1,0.5,2,4,0.5,false
+123,22:30:36:035,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+124,22:30:36:424,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+125,22:30:36:951,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+126,22:30:37:363,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+127,22:30:37:877,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+128,22:30:38:300,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+129,22:30:38:641,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+130,22:30:38:964,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+131,22:30:39:414,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+132,22:30:39:796,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+133,22:30:40:201,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+134,22:30:40:750,Balloon,Pressure BB Gun,0.173s,2,1,0.5,2,4,0.5,false
+135,22:30:41:152,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+136,22:30:41:777,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+137,22:30:41:961,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+138,22:30:42:504,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+139,22:30:43:089,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+140,22:30:43:919,Balloon,Pressure BB Gun,0.407s,3,1,0.333,2,6,0.333,false
+141,22:30:44:210,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+142,22:30:44:650,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+143,22:30:44:877,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+144,22:30:45:205,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+145,22:30:46:135,Balloon,Pressure BB Gun,0.546s,3,1,0.333,2,6,0.333,false
+146,22:30:46:626,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+147,22:30:47:135,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+148,22:30:47:619,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+149,22:30:48:179,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+150,22:30:48:439,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+151,22:30:48:841,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+152,22:30:49:497,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+153,22:30:49:854,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+154,22:30:50:605,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+155,22:30:51:115,Balloon,Pressure BB Gun,0.219s,2,1,0.5,2,4,0.5,false
+156,22:30:51:463,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+157,22:30:51:932,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+158,22:30:52:488,Balloon,Pressure BB Gun,0.275s,2,1,0.5,2,4,0.5,false
+159,22:30:52:900,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+160,22:30:53:357,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+161,22:30:53:882,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+162,22:30:54:368,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+163,22:30:54:878,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+164,22:30:55:375,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+165,22:30:55:768,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+166,22:30:56:328,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+167,22:30:56:756,Balloon,Pressure BB Gun,0.265s,2,1,0.5,2,4,0.5,false
+168,22:30:57:041,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+169,22:30:57:399,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+170,22:30:58:010,Balloon,Pressure BB Gun,0.277s,2,1,0.5,2,4,0.5,false
+171,22:30:58:671,Balloon,Pressure BB Gun,0.185s,2,1,0.5,2,4,0.5,false
+172,22:30:59:238,Balloon,Pressure BB Gun,0.373s,2,1,0.5,2,4,0.5,false
+173,22:30:59:764,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+174,22:31:00:124,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+175,22:31:00:673,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+176,22:31:01:076,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+177,22:31:01:246,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+178,22:31:01:756,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+179,22:31:02:785,Balloon,Pressure BB Gun,0.359s,2,1,0.5,2,4,0.5,false
+180,22:31:03:290,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+181,22:31:03:908,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+182,22:31:04:100,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+183,22:31:04:480,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+184,22:31:05:362,Balloon,Pressure BB Gun,0.678s,3,1,0.333,2,6,0.333,false
+185,22:31:05:545,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+186,22:31:06:047,Balloon,Pressure BB Gun,0.239s,2,1,0.5,2,4,0.5,false
+187,22:31:06:697,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+188,22:31:07:099,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+189,22:31:07:544,Balloon,Pressure BB Gun,0.16s,2,1,0.5,2,4,0.5,false
+190,22:31:08:978,Balloon,Pressure BB Gun,0.954s,3,1,0.333,2,6,0.333,false
+191,22:31:09:386,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+192,22:31:09:714,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+193,22:31:10:487,Balloon,Pressure BB Gun,0.453s,3,1,0.333,2,6,0.333,false
+194,22:31:10:913,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+195,22:31:11:128,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+196,22:31:11:573,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+197,22:31:12:304,Balloon,Pressure BB Gun,0.213s,2,1,0.5,2,4,0.5,false
+198,22:31:12:490,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+199,22:31:13:305,Balloon,Pressure BB Gun,0.22s,2,1,0.5,2,4,0.5,false
+200,22:31:13:785,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+201,22:31:14:236,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+202,22:31:14:642,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+203,22:31:15:116,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+204,22:31:15:558,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+205,22:31:15:908,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+206,22:31:16:107,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+207,22:31:16:674,Balloon,Pressure BB Gun,0.234s,2,1,0.5,2,4,0.5,false
+208,22:31:17:229,Balloon,Pressure BB Gun,0.203s,2,1,0.5,2,4,0.5,false
+209,22:31:17:713,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+210,22:31:17:917,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+211,22:31:18:337,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+212,22:31:18:983,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+213,22:31:19:834,Balloon,Pressure BB Gun,0.358s,2,1,0.5,2,4,0.5,false
+214,22:31:20:161,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+215,22:31:21:065,Balloon,Pressure BB Gun,0.392s,2,1,0.5,2,4,0.5,false
+216,22:31:21:659,Balloon,Pressure BB Gun,0.219s,2,1,0.5,2,4,0.5,false
+217,22:31:21:890,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+218,22:31:22:267,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+219,22:31:22:951,Balloon,Pressure BB Gun,0.218s,2,1,0.5,2,4,0.5,false
+220,22:31:23:478,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+221,22:31:23:849,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+222,22:31:24:295,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+223,22:31:24:767,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+224,22:31:25:944,Balloon,Pressure BB Gun,0.697s,2,1,0.5,2,4,0.5,false
+225,22:31:26:374,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+226,22:31:26:818,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+227,22:31:26:970,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+228,22:31:27:452,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+229,22:31:27:795,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+230,22:31:28:298,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+231,22:31:29:123,Balloon,Pressure BB Gun,0.37s,2,1,0.5,2,4,0.5,false
+232,22:31:29:775,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+233,22:31:30:173,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+234,22:31:30:451,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+235,22:31:30:934,Balloon,Pressure BB Gun,0.001s,1,1,1,2,2,1,false
+236,22:31:31:066,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+237,22:31:31:648,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+238,22:31:32:416,Balloon,Pressure BB Gun,0.233s,2,1,0.5,2,4,0.5,false
+239,22:31:33:088,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+240,22:31:33:353,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+241,22:31:33:687,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+242,22:31:34:053,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+243,22:31:34:210,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+244,22:31:34:676,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+245,22:31:35:077,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+246,22:31:35:519,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+247,22:31:36:075,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+248,22:31:36:517,Balloon,Pressure BB Gun,0s,1,1,1,2,2,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Pressure BB Gun,298,248,496.0,596.0,
+
+Kills:,248
+Deaths:,0
+Fight Time:,15.445
+Avg TTK:,0.062
+Damage Done:,496.0
+Damage Taken:,6.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,10069.798828
+Scenario:,Pressure Aiming - 7 Targets
+Hash:,f3b97c71f413921938132acc81242263
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

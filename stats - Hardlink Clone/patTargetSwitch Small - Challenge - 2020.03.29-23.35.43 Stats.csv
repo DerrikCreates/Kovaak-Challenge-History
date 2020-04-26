@@ -1,0 +1,73 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:34:45:116,Quaker Bot Long Strafes,MG,0.419s,70,40,0.571,80,140,0.571,false
+2,23:34:46:833,Quaker Bot Long Strafes,MG,1.608s,90,40,0.444,80,180,0.444,false
+3,23:34:48:096,Quaker Bot Long Strafes,MG,0.63s,100,40,0.4,80,200,0.4,false
+4,23:34:49:172,Quaker Bot Long Strafes,MG,0.276s,50,40,0.8,80,100,0.8,false
+5,23:34:50:276,Quaker Bot Long Strafes,MG,0.559s,90,40,0.444,80,180,0.444,false
+6,23:34:51:691,Quaker Bot Long Strafes,MG,0.839s,130,40,0.308,80,260,0.308,false
+7,23:34:54:481,Quaker Bot Long Strafes,MG,2.318s,140,70,0.5,140,280,0.5,false
+8,23:34:55:232,Quaker Bot Long Strafes,MG,0.071s,20,10,0.5,20,40,0.5,false
+9,23:34:56:333,Quaker Bot Long Strafes,MG,0.627s,100,40,0.4,80,200,0.4,false
+10,23:34:57:241,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+11,23:34:58:100,Quaker Bot Long Strafes,MG,0.278s,50,40,0.8,80,100,0.8,false
+12,23:34:58:713,Quaker Bot Long Strafes,MG,0.208s,40,40,1,80,80,1,false
+13,23:34:59:597,Quaker Bot Long Strafes,MG,0.279s,50,40,0.8,80,100,0.8,false
+14,23:35:02:572,Quaker Bot Long Strafes,MG,2.382s,170,40,0.235,80,340,0.235,false
+15,23:35:03:727,Quaker Bot Long Strafes,MG,0.419s,70,40,0.571,80,140,0.571,false
+16,23:35:06:936,Quaker Bot Long Strafes,MG,2.631s,140,60,0.429,120,280,0.429,false
+17,23:35:07:927,Quaker Bot Long Strafes,MG,0.209s,40,20,0.5,40,80,0.5,false
+18,23:35:08:781,Quaker Bot Long Strafes,MG,0.276s,50,40,0.8,80,100,0.8,false
+19,23:35:13:165,Quaker Bot Long Strafes,MG,3.499s,210,70,0.333,140,420,0.333,false
+20,23:35:13:650,Quaker Bot Long Strafes,MG,0.069s,20,10,0.5,20,40,0.5,false
+21,23:35:15:135,Quaker Bot Long Strafes,MG,0.488s,80,40,0.5,80,160,0.5,false
+22,23:35:16:142,Quaker Bot Long Strafes,MG,0.279s,50,40,0.8,70,100,0.7,false
+23,23:35:16:917,Quaker Bot Long Strafes,MG,0.347s,60,40,0.667,80,120,0.667,false
+24,23:35:17:509,Quaker Bot Long Strafes,MG,0.374s,40,40,1,70,80,0.875,false
+25,23:35:18:611,Quaker Bot Long Strafes,MG,0.637s,70,40,0.571,80,140,0.571,false
+26,23:35:22:196,Quaker Bot Long Strafes,MG,2.859s,150,70,0.467,140,300,0.467,false
+27,23:35:23:066,Quaker Bot Long Strafes,MG,0.001s,10,10,1,20,20,1,false
+28,23:35:24:407,Quaker Bot Long Strafes,MG,0.904s,60,40,0.667,80,120,0.667,false
+29,23:35:26:455,Quaker Bot Long Strafes,MG,1.475s,120,70,0.583,140,240,0.583,false
+30,23:35:27:287,Quaker Bot Long Strafes,MG,0.277s,50,40,0.8,80,100,0.8,false
+31,23:35:28:792,Quaker Bot Long Strafes,MG,0.557s,90,40,0.444,80,180,0.444,false
+32,23:35:29:998,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+33,23:35:30:843,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+34,23:35:32:016,Quaker Bot Long Strafes,MG,0.558s,90,40,0.444,80,180,0.444,false
+35,23:35:33:356,Quaker Bot Long Strafes,MG,0.735s,30,10,0.333,20,60,0.333,false
+36,23:35:34:544,Quaker Bot Long Strafes,MG,0.347s,60,40,0.667,80,120,0.667,false
+37,23:35:35:269,Quaker Bot Long Strafes,MG,0.208s,40,40,1,80,80,1,false
+38,23:35:36:778,Quaker Bot Long Strafes,MG,0.838s,130,40,0.308,80,260,0.308,false
+39,23:35:38:023,Quaker Bot Long Strafes,MG,0.488s,80,40,0.5,80,160,0.5,false
+40,23:35:39:023,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+41,23:35:39:875,Quaker Bot Long Strafes,MG,0.21s,40,40,1,80,80,1,false
+42,23:35:41:062,Quaker Bot Long Strafes,MG,0.348s,60,40,0.667,80,120,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+MG,3340,1700,3380.0,6680.0,
+
+Kills:,42
+Deaths:,0
+Fight Time:,30.919001
+Avg TTK:,0.736
+Damage Done:,3380.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,3380.0
+Scenario:,patTargetSwitch Small
+Hash:,9ac25e990d17b6591768dafbd72f026b
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

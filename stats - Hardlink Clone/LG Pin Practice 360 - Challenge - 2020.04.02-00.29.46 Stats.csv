@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:28:48:573,Pigeon,LG,1.103s,25,17,0.68,102,150,0.68,false
+2,00:28:51:767,Pigeon,LG,2.207s,49,20,0.408,120,294,0.408,false
+3,00:28:53:818,Pigeon,LG,1.517s,34,14,0.412,84,204,0.412,false
+4,00:28:56:635,Pigeon,LG,1.793s,40,17,0.425,102,240,0.425,false
+5,00:29:00:162,Pigeon,LG,2.759s,61,17,0.279,102,366,0.279,false
+6,00:29:01:874,Pigeon,LG,0.873s,20,17,0.85,102,120,0.85,false
+7,00:29:04:278,Pigeon,LG,1.515s,34,17,0.5,102,204,0.5,false
+8,00:29:06:666,Pigeon,LG,1.7s,38,17,0.447,102,228,0.447,false
+9,00:29:09:362,Pigeon,LG,2.346s,52,17,0.327,102,312,0.327,false
+10,00:29:12:008,Pigeon,LG,2.114s,47,17,0.362,102,282,0.362,false
+11,00:29:15:474,Pigeon,LG,3.036s,67,17,0.254,102,402,0.254,false
+12,00:29:17:689,Pigeon,LG,2.115s,47,17,0.362,102,282,0.362,false
+13,00:29:21:026,Pigeon,LG,2.159s,48,17,0.354,102,288,0.354,false
+14,00:29:24:033,Pigeon,LG,2.73s,46,17,0.37,102,276,0.37,false
+15,00:29:25:951,Pigeon,LG,1.654s,28,17,0.607,102,168,0.607,false
+16,00:29:28:838,Pigeon,LG,2.207s,49,17,0.347,102,294,0.347,false
+17,00:29:31:457,Pigeon,LG,1.564s,35,17,0.486,102,210,0.486,false
+18,00:29:34:285,Pigeon,LG,2.345s,52,17,0.327,102,312,0.327,false
+19,00:29:36:625,Pigeon,LG,1.746s,39,17,0.436,102,234,0.436,false
+20,00:29:39:463,Pigeon,LG,1.929s,43,19,0.442,114,258,0.442,false
+21,00:29:40:936,Pigeon,LG,1.194s,27,18,0.667,108,162,0.667,false
+22,00:29:42:617,Pigeon,LG,1.425s,32,14,0.438,84,192,0.438,false
+23,00:29:45:026,Pigeon,LG,1.607s,36,17,0.472,102,216,0.472,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,979,405,2430.0,5874.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,43.638
+Avg TTK:,1.897
+Damage Done:,2430.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2430.0
+Scenario:,LG Pin Practice 360
+Hash:,1bd8936343724d18465795b9d93c8ac1
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

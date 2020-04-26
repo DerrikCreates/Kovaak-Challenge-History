@@ -1,0 +1,57 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:22:26:002,target_decay,pistol,4.22s,9,1,0.111,25,450,0.056,false
+2,16:22:27:574,target_decay,pistol,0.805s,2,1,0.5,25,100,0.25,false
+3,16:22:28:312,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+4,16:22:32:601,target_decay,pistol,3.561s,5,1,0.2,25,250,0.1,false
+5,16:22:33:352,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+6,16:22:34:116,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+7,16:22:35:676,target_decay,pistol,0.844s,2,1,0.5,25,100,0.25,false
+8,16:22:37:360,target_decay,pistol,0.935s,2,1,0.5,25,100,0.25,false
+9,16:22:38:130,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,16:22:38:847,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,16:22:43:178,target_decay,pistol,3.548s,5,1,0.2,25,250,0.1,false
+12,16:22:44:746,target_decay,pistol,0.808s,2,1,0.5,25,100,0.25,false
+13,16:22:46:392,target_decay,pistol,0.938s,2,1,0.5,25,100,0.25,false
+14,16:22:47:961,target_decay,pistol,0.807s,2,1,0.5,25,100,0.25,false
+15,16:22:51:397,target_decay,pistol,2.637s,4,1,0.25,25,200,0.125,false
+16,16:22:52:944,target_decay,pistol,0.765s,2,1,0.5,25,100,0.25,false
+17,16:22:54:542,target_decay,pistol,0.862s,2,1,0.5,25,100,0.25,false
+18,16:22:56:999,target_decay,pistol,1.764s,3,1,0.333,25,150,0.167,false
+19,16:22:58:611,target_decay,pistol,0.881s,2,1,0.5,25,100,0.25,false
+20,16:23:00:229,target_decay,pistol,0.902s,2,1,0.5,25,100,0.25,false
+21,16:23:01:844,target_decay,pistol,0.877s,2,1,0.5,25,100,0.25,false
+22,16:23:03:479,target_decay,pistol,0.845s,2,1,0.5,25,100,0.25,false
+23,16:23:04:247,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+24,16:23:06:705,target_decay,pistol,1.711s,3,1,0.333,25,150,0.167,false
+25,16:23:12:887,target_decay,pistol,5.407s,7,1,0.143,25,350,0.071,false
+26,16:23:16:359,target_decay,pistol,2.738s,4,1,0.25,25,200,0.125,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,75,26,650.0,3750.0,
+
+Kills:,26
+Deaths:,0
+Fight Time:,35.856998
+Avg TTK:,1.379
+Damage Done:,650.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,901.333313
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

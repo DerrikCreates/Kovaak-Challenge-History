@@ -1,0 +1,119 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:27:13:855,test,pistol,0s,1,1,1,1000,2000,0.5,false
+2,01:27:15:078,test,pistol,0.575s,2,1,0.5,1000,4000,0.25,false
+3,01:27:16:049,test,pistol,0s,1,1,1,1000,2000,0.5,false
+4,01:27:16:591,test,pistol,0s,1,1,1,1000,2000,0.5,false
+5,01:27:17:423,test,pistol,0.368s,2,1,0.5,1000,4000,0.25,false
+6,01:27:18:057,test,pistol,0s,1,1,1,1000,2000,0.5,false
+7,01:27:19:217,test,pistol,0.518s,2,1,0.5,1000,4000,0.25,false
+8,01:27:20:083,test,pistol,0s,1,1,1,1000,2000,0.5,false
+9,01:27:21:583,test,pistol,0.509s,2,1,0.5,1000,4000,0.25,false
+10,01:27:23:397,test,pistol,1.121s,3,1,0.333,1000,6000,0.167,false
+11,01:27:23:957,test,pistol,0s,1,1,1,1000,2000,0.5,false
+12,01:27:24:517,test,pistol,0s,1,1,1,1000,2000,0.5,false
+13,01:27:25:093,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,01:27:26:090,test,pistol,0.445s,2,1,0.5,1000,4000,0.25,false
+15,01:27:26:728,test,pistol,0s,1,1,1,1000,2000,0.5,false
+16,01:27:27:250,test,pistol,0s,1,1,1,1000,2000,0.5,false
+17,01:27:28:948,test,pistol,0.353s,2,1,0.5,1000,4000,0.25,false
+18,01:27:29:582,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+19,01:27:30:643,test,pistol,0.468s,2,1,0.5,1000,4000,0.25,false
+20,01:27:31:155,test,pistol,0s,1,1,1,1000,2000,0.5,false
+21,01:27:31:968,test,pistol,0s,1,1,1,1000,2000,0.5,false
+22,01:27:33:858,test,pistol,1.241s,3,1,0.333,1000,6000,0.167,false
+23,01:27:35:213,test,pistol,0.607s,2,1,0.5,1000,4000,0.25,false
+24,01:27:35:772,test,pistol,0s,1,1,1,1000,2000,0.5,false
+25,01:27:37:180,test,pistol,0.862s,2,1,0.5,1000,4000,0.25,false
+26,01:27:37:741,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+27,01:27:38:420,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+28,01:27:39:269,test,pistol,0s,1,1,1,1000,2000,0.5,false
+29,01:27:40:638,test,pistol,0.553s,2,1,0.5,1000,4000,0.25,false
+30,01:27:41:458,test,pistol,0.304s,2,1,0.5,1000,4000,0.25,false
+31,01:27:42:849,test,pistol,0.809s,3,1,0.333,1000,6000,0.167,false
+32,01:27:43:913,test,pistol,0s,1,1,1,1000,2000,0.5,false
+33,01:27:45:167,test,pistol,0.451s,2,1,0.5,1000,4000,0.25,false
+34,01:27:46:014,test,pistol,0s,1,1,1,1000,2000,0.5,false
+35,01:27:48:661,test,pistol,1.933s,4,1,0.25,1000,8000,0.125,false
+36,01:27:49:548,test,pistol,0s,1,1,1,1000,2000,0.5,false
+37,01:27:51:374,test,pistol,0.531s,2,1,0.5,1000,4000,0.25,false
+38,01:27:52:116,test,pistol,0s,1,1,1,1000,2000,0.5,false
+39,01:27:52:860,test,pistol,0s,1,1,1,1000,2000,0.5,false
+40,01:27:53:617,test,pistol,0s,1,1,1,1000,2000,0.5,false
+41,01:27:54:187,test,pistol,0s,1,1,1,1000,2000,0.5,false
+42,01:27:55:896,test,pistol,0.997s,2,1,0.5,1000,4000,0.25,false
+43,01:27:56:504,test,pistol,0s,1,1,1,1000,2000,0.5,false
+44,01:27:57:679,test,pistol,0.613s,2,1,0.5,1000,4000,0.25,false
+45,01:27:59:562,test,pistol,0.589s,2,1,0.5,1000,4000,0.25,false
+46,01:28:00:257,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+47,01:28:01:160,test,pistol,0s,1,1,1,1000,2000,0.5,false
+48,01:28:02:044,test,pistol,0.429s,2,1,0.5,1000,4000,0.25,false
+49,01:28:03:101,test,pistol,0.451s,2,1,0.5,1000,4000,0.25,false
+50,01:28:03:631,test,pistol,0s,1,1,1,1000,2000,0.5,false
+51,01:28:04:433,test,pistol,0s,1,1,1,1000,2000,0.5,false
+52,01:28:05:037,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+53,01:28:05:736,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+54,01:28:06:516,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+55,01:28:07:264,test,pistol,0s,1,1,1,1000,2000,0.5,false
+56,01:28:07:875,test,pistol,0s,1,1,1,1000,2000,0.5,false
+57,01:28:08:501,test,pistol,0s,1,1,1,1000,2000,0.5,false
+58,01:28:09:264,test,pistol,0s,1,1,1,1000,2000,0.5,false
+59,01:28:10:090,test,pistol,0s,1,1,1,1000,2000,0.5,false
+60,01:28:11:463,test,pistol,0.515s,2,1,0.5,1000,4000,0.25,false
+61,01:28:12:749,test,pistol,0.609s,2,1,0.5,1000,4000,0.25,false
+62,01:28:13:257,test,pistol,0s,1,1,1,1000,2000,0.5,false
+63,01:28:14:853,test,pistol,0.645s,2,1,0.5,1000,4000,0.25,false
+64,01:28:15:746,test,pistol,0s,1,1,1,1000,2000,0.5,false
+65,01:28:17:172,test,pistol,0.6s,2,1,0.5,1000,4000,0.25,false
+66,01:28:17:776,test,pistol,0s,1,1,1,1000,2000,0.5,false
+67,01:28:19:229,test,pistol,0.597s,2,1,0.5,1000,4000,0.25,false
+68,01:28:20:474,test,pistol,0.58s,2,1,0.5,1000,4000,0.25,false
+69,01:28:21:094,test,pistol,0s,1,1,1,1000,2000,0.5,false
+70,01:28:21:817,test,pistol,0s,1,1,1,1000,2000,0.5,false
+71,01:28:22:489,test,pistol,0s,1,1,1,1000,2000,0.5,false
+72,01:28:23:748,test,pistol,0.563s,2,1,0.5,1000,4000,0.25,false
+73,01:28:24:385,test,pistol,0s,1,1,1,1000,2000,0.5,false
+74,01:28:25:023,test,pistol,0s,1,1,1,1000,2000,0.5,false
+75,01:28:26:304,test,pistol,0.525s,2,1,0.5,1000,4000,0.25,false
+76,01:28:27:833,test,pistol,0.992s,2,1,0.5,1000,4000,0.25,false
+77,01:28:28:934,test,pistol,0.539s,2,1,0.5,1000,4000,0.25,false
+78,01:28:29:912,test,pistol,0.428s,2,1,0.5,1000,4000,0.25,false
+79,01:28:31:116,test,pistol,0.447s,2,1,0.5,1000,4000,0.25,false
+80,01:28:32:356,test,pistol,0.517s,2,1,0.5,1000,4000,0.25,false
+81,01:28:33:316,test,pistol,0.366s,2,1,0.5,1000,4000,0.25,false
+82,01:28:33:893,test,pistol,0s,1,1,1,1000,2000,0.5,false
+83,01:28:34:519,test,pistol,0s,1,1,1,1000,2000,0.5,false
+84,01:28:35:227,test,pistol,0s,1,1,1,1000,2000,0.5,false
+85,01:28:36:348,test,pistol,0.377s,2,1,0.5,1000,4000,0.25,false
+86,01:28:37:568,test,pistol,0.702s,2,1,0.5,1000,4000,0.25,false
+87,01:28:38:202,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,130,87,87000.0,260000.0,
+Track Master 100,0,0,0.0,0.0,
+
+Kills:,87
+Deaths:,0
+Fight Time:,23.737
+Avg TTK:,0.273
+Damage Done:,87000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,58.223076
+Scenario:,1wall5targets_pasu
+Hash:,a5be19c6e6aeb0d774c5e9d9fb497e91
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

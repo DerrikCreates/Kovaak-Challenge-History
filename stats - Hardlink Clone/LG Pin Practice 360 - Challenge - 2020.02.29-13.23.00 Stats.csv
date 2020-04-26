@@ -1,0 +1,53 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,13:22:02:932,Pigeon,LG,1.787s,40,17,0.425,102,240,0.425,false
+2,13:22:06:306,Pigeon,LG,2.206s,49,17,0.347,102,294,0.347,false
+3,13:22:09:060,Pigeon,LG,2.067s,46,17,0.37,102,276,0.37,false
+4,13:22:12:440,Pigeon,LG,2.62s,58,17,0.293,102,348,0.293,false
+5,13:22:15:147,Pigeon,LG,2.02s,45,17,0.378,102,270,0.378,false
+6,13:22:18:216,Pigeon,LG,2.068s,46,17,0.37,102,276,0.37,false
+7,13:22:19:890,Pigeon,LG,1.42s,32,17,0.531,102,192,0.531,false
+8,13:22:22:738,Pigeon,LG,2.021s,45,17,0.378,102,270,0.378,false
+9,13:22:26:133,Pigeon,LG,2.433s,54,17,0.315,102,324,0.315,false
+10,13:22:29:583,Pigeon,LG,2.289s,46,19,0.413,114,276,0.413,false
+11,13:22:31:044,Pigeon,LG,1.247s,28,15,0.536,90,168,0.536,false
+12,13:22:33:458,Pigeon,LG,1.746s,39,17,0.436,102,234,0.436,false
+13,13:22:36:317,Pigeon,LG,2.067s,46,17,0.37,102,276,0.37,false
+14,13:22:39:298,Pigeon,LG,2.527s,56,17,0.304,102,336,0.304,false
+15,13:22:41:309,Pigeon,LG,1.864s,35,17,0.486,102,210,0.486,false
+16,13:22:43:110,Pigeon,LG,1.327s,30,17,0.567,102,180,0.567,false
+17,13:22:45:924,Pigeon,LG,1.748s,39,17,0.436,102,234,0.436,false
+18,13:22:48:105,Pigeon,LG,1.807s,33,17,0.515,102,198,0.515,false
+19,13:22:50:858,Pigeon,LG,1.88s,42,17,0.405,102,252,0.405,false
+20,13:22:53:145,Pigeon,LG,1.421s,32,17,0.531,102,192,0.531,false
+21,13:22:56:313,Pigeon,LG,2.434s,54,17,0.315,102,324,0.315,false
+22,13:22:58:933,Pigeon,LG,1.514s,34,17,0.5,102,204,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,940,376,2256.0,5640.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,42.513
+Avg TTK:,1.932
+Damage Done:,2256.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2256.0
+Scenario:,LG Pin Practice 360
+Hash:,1bd8936343724d18465795b9d93c8ac1
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,150.0
+Sens Scale:,Quake/Source
+Horiz Sens:,2.0
+Vert Sens:,2.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

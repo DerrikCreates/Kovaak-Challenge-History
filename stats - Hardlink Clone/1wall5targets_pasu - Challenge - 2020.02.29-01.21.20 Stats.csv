@@ -1,0 +1,86 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:19:58:718,test,pistol,3.072s,10,1,0.1,1000,20000,0.05,false
+2,01:20:00:635,test,pistol,1.512s,5,1,0.2,1000,10000,0.1,false
+3,01:20:01:410,test,pistol,0.367s,2,1,0.5,1000,4000,0.25,false
+4,01:20:05:721,test,pistol,3.896s,11,1,0.091,1000,22000,0.045,false
+5,01:20:08:370,test,pistol,2.239s,4,1,0.25,1000,8000,0.125,false
+6,01:20:13:497,test,pistol,4.609s,8,1,0.125,1000,16000,0.062,false
+7,01:20:14:613,test,pistol,0.478s,2,1,0.5,1000,4000,0.25,false
+8,01:20:15:903,test,pistol,0.668s,2,1,0.5,1000,4000,0.25,false
+9,01:20:17:189,test,pistol,0.599s,2,1,0.5,1000,4000,0.25,false
+10,01:20:18:513,test,pistol,0.675s,2,1,0.5,1000,4000,0.25,false
+11,01:20:21:589,test,pistol,2.167s,5,1,0.2,1000,10000,0.1,false
+12,01:20:22:065,test,pistol,0s,1,1,1,1000,2000,0.5,false
+13,01:20:22:548,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,01:20:26:660,test,pistol,3.083s,6,1,0.167,1000,12000,0.083,false
+15,01:20:28:266,test,pistol,0.744s,2,1,0.5,1000,4000,0.25,false
+16,01:20:29:773,test,pistol,0.731s,2,1,0.5,1000,4000,0.25,false
+17,01:20:31:770,test,pistol,1.328s,3,1,0.333,1000,6000,0.167,false
+18,01:20:33:209,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,01:20:36:644,test,pistol,2.731s,4,1,0.25,1000,8000,0.125,false
+20,01:20:39:287,test,pistol,1.833s,4,1,0.25,1000,8000,0.125,false
+21,01:20:40:601,test,pistol,0.654s,2,1,0.5,1000,4000,0.25,false
+22,01:20:44:363,test,pistol,3.039s,6,1,0.167,1000,12000,0.083,false
+23,01:20:46:783,test,pistol,1.518s,3,1,0.333,1000,6000,0.167,false
+24,01:20:48:086,test,pistol,0.615s,2,1,0.5,1000,4000,0.25,false
+25,01:20:48:856,test,pistol,0s,1,1,1,1000,2000,0.5,false
+26,01:20:50:273,test,pistol,0.736s,2,1,0.5,1000,4000,0.25,false
+27,01:20:51:157,test,pistol,0.385s,2,1,0.5,1000,4000,0.25,false
+28,01:20:51:566,test,pistol,0s,1,1,1,1000,2000,0.5,false
+29,01:20:52:627,test,pistol,0.621s,3,1,0.333,1000,6000,0.167,false
+30,01:20:53:458,test,pistol,0.306s,2,1,0.5,1000,4000,0.25,false
+31,01:20:54:234,test,pistol,0.251s,2,1,0.5,1000,4000,0.25,false
+32,01:20:56:331,test,pistol,1.713s,6,1,0.167,1000,12000,0.083,false
+33,01:20:56:765,test,pistol,0s,1,1,1,1000,2000,0.5,false
+34,01:20:58:061,test,pistol,0.796s,3,1,0.333,1000,6000,0.167,false
+35,01:21:01:154,test,pistol,2.296s,3,1,0.333,1000,6000,0.167,false
+36,01:21:02:736,test,pistol,1.024s,3,1,0.333,1000,6000,0.167,false
+37,01:21:03:208,test,pistol,0s,1,1,1,1000,2000,0.5,false
+38,01:21:04:425,test,pistol,0.732s,3,1,0.333,1000,6000,0.167,false
+39,01:21:05:589,test,pistol,0.769s,3,1,0.333,1000,6000,0.167,false
+40,01:21:06:754,test,pistol,0.716s,3,1,0.333,1000,6000,0.167,false
+41,01:21:07:156,test,pistol,0s,1,1,1,1000,2000,0.5,false
+42,01:21:07:656,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+43,01:21:08:550,test,pistol,0.456s,3,1,0.333,1000,6000,0.167,false
+44,01:21:10:018,test,pistol,1.128s,4,1,0.25,1000,8000,0.125,false
+45,01:21:10:367,test,pistol,0s,1,1,1,1000,2000,0.5,false
+46,01:21:11:027,test,pistol,0.31s,2,1,0.5,1000,4000,0.25,false
+47,01:21:12:087,test,pistol,0.589s,3,1,0.333,1000,6000,0.167,false
+48,01:21:12:522,test,pistol,0s,1,1,1,1000,2000,0.5,false
+49,01:21:12:902,test,pistol,0s,1,1,1,1000,2000,0.5,false
+50,01:21:13:686,test,pistol,0.348s,2,1,0.5,1000,4000,0.25,false
+51,01:21:14:074,test,pistol,0s,1,1,1,1000,2000,0.5,false
+52,01:21:15:869,test,pistol,1.384s,5,1,0.2,1000,10000,0.1,false
+53,01:21:16:641,test,pistol,0.394s,2,1,0.5,1000,4000,0.25,false
+54,01:21:17:419,test,pistol,0s,1,1,1,1000,2000,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,159,54,54000.0,318000.0,
+Track Master 100,0,0,0.0,0.0,
+
+Kills:,54
+Deaths:,0
+Fight Time:,51.514
+Avg TTK:,0.954
+Damage Done:,54000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,18.339622
+Scenario:,1wall5targets_pasu
+Hash:,a5be19c6e6aeb0d774c5e9d9fb497e91
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,150.0
+Sens Scale:,Quake/Source
+Horiz Sens:,2.0
+Vert Sens:,2.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

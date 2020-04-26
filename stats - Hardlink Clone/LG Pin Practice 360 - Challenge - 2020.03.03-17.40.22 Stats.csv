@@ -1,0 +1,55 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:39:23:921,Pigeon,LG,1.282s,29,17,0.586,102,174,0.586,false
+2,17:39:26:652,Pigeon,LG,1.325s,30,17,0.567,102,180,0.567,false
+3,17:39:28:729,Pigeon,LG,1.012s,23,17,0.739,102,138,0.739,false
+4,17:39:30:766,Pigeon,LG,1.462s,33,17,0.515,102,198,0.515,false
+5,17:39:33:550,Pigeon,LG,1.516s,34,17,0.5,102,204,0.5,false
+6,17:39:35:836,Pigeon,LG,1.419s,32,19,0.594,114,192,0.594,false
+7,17:39:37:786,Pigeon,LG,1.518s,34,15,0.441,90,204,0.441,false
+8,17:39:41:487,Pigeon,LG,2.66s,59,17,0.288,102,354,0.288,false
+9,17:39:43:763,Pigeon,LG,1.656s,37,17,0.459,102,222,0.459,false
+10,17:39:46:139,Pigeon,LG,1.194s,27,17,0.63,102,162,0.63,false
+11,17:39:49:437,Pigeon,LG,3.161s,48,17,0.354,102,288,0.354,false
+12,17:39:52:092,Pigeon,LG,1.51s,34,17,0.5,102,204,0.5,false
+13,17:39:53:809,Pigeon,LG,1.191s,27,17,0.63,102,162,0.63,false
+14,17:39:55:965,Pigeon,LG,1.099s,25,17,0.68,102,150,0.68,false
+15,17:39:59:186,Pigeon,LG,3.053s,47,17,0.362,102,282,0.362,false
+16,17:40:01:989,Pigeon,LG,1.895s,26,17,0.654,102,156,0.654,false
+17,17:40:04:745,Pigeon,LG,2.013s,45,17,0.378,102,270,0.378,false
+18,17:40:07:445,Pigeon,LG,1.931s,43,18,0.419,108,258,0.419,false
+19,17:40:08:957,Pigeon,LG,1.241s,28,16,0.571,96,168,0.571,false
+20,17:40:11:000,Pigeon,LG,1.332s,30,17,0.567,102,180,0.567,false
+21,17:40:12:898,Pigeon,LG,1.192s,27,17,0.63,102,162,0.63,false
+22,17:40:15:295,Pigeon,LG,1.648s,37,17,0.459,102,222,0.459,false
+23,17:40:17:486,Pigeon,LG,1.377s,31,17,0.548,102,186,0.548,false
+24,17:40:19:788,Pigeon,LG,1.739s,33,17,0.515,102,198,0.515,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,853,416,2496.0,5118.0,
+
+Kills:,24
+Deaths:,0
+Fight Time:,39.425999
+Avg TTK:,1.643
+Damage Done:,2496.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2496.0
+Scenario:,LG Pin Practice 360
+Hash:,1bd8936343724d18465795b9d93c8ac1
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,150.0
+Sens Scale:,Quake/Source
+Horiz Sens:,2.0
+Vert Sens:,2.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

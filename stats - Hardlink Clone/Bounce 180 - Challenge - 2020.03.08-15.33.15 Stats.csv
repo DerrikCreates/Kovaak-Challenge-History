@@ -1,0 +1,87 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:32:05:807,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+2,15:32:06:688,Pigeon,pistol,0.253s,2,1,0.5,50,250,0.2,false
+3,15:32:07:766,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+4,15:32:09:039,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+5,15:32:10:106,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+6,15:32:11:490,Pigeon,pistol,0.194s,2,1,0.5,50,250,0.2,false
+7,15:32:13:931,Pigeon,pistol,1.378s,4,1,0.25,50,500,0.1,false
+8,15:32:15:528,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+9,15:32:16:409,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+10,15:32:17:207,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+11,15:32:18:757,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+12,15:32:19:800,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+13,15:32:21:272,Pigeon,pistol,0.253s,2,1,0.5,50,250,0.2,false
+14,15:32:22:609,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+15,15:32:24:148,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+16,15:32:25:664,Pigeon,pistol,0.475s,2,1,0.5,50,250,0.2,false
+17,15:32:28:102,Pigeon,pistol,1.4s,3,1,0.333,50,375,0.133,false
+18,15:32:28:660,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+19,15:32:29:607,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+20,15:32:30:870,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+21,15:32:31:715,Pigeon,pistol,0.274s,2,1,0.5,50,250,0.2,false
+22,15:32:33:632,Pigeon,pistol,0.24s,2,1,0.5,50,250,0.2,false
+23,15:32:34:651,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+24,15:32:35:579,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+25,15:32:37:036,Pigeon,pistol,1.037s,2,1,0.5,50,250,0.2,false
+26,15:32:37:790,Pigeon,pistol,0.254s,2,1,0.5,50,250,0.2,false
+27,15:32:38:875,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+28,15:32:40:855,Pigeon,pistol,0.228s,2,1,0.5,50,250,0.2,false
+29,15:32:42:467,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+30,15:32:43:065,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+31,15:32:45:399,Pigeon,pistol,1.559s,4,1,0.25,50,500,0.1,false
+32,15:32:46:553,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+33,15:32:47:793,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+34,15:32:48:450,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+35,15:32:48:952,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+36,15:32:51:172,Pigeon,pistol,0.554s,2,1,0.5,50,250,0.2,false
+37,15:32:51:860,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+38,15:32:52:824,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+39,15:32:53:770,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+40,15:32:57:179,Pigeon,pistol,2.772s,9,1,0.111,50,1125,0.044,false
+41,15:32:58:200,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+42,15:32:58:968,Pigeon,pistol,0.234s,2,1,0.5,50,250,0.2,false
+43,15:32:59:634,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+44,15:33:00:746,Pigeon,pistol,0.297s,2,1,0.5,50,250,0.2,false
+45,15:33:01:795,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+46,15:33:02:117,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+47,15:33:02:729,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+48,15:33:03:750,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+49,15:33:05:054,Pigeon,pistol,0.353s,2,1,0.5,50,250,0.2,false
+50,15:33:05:667,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+51,15:33:06:440,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+52,15:33:07:910,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+53,15:33:10:780,Pigeon,pistol,1.806s,6,1,0.167,50,750,0.067,false
+54,15:33:11:635,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+55,15:33:12:357,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+56,15:33:13:349,Pigeon,pistol,0.296s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,95,56,2800.0,11875.0,
+
+Kills:,56
+Deaths:,0
+Fight Time:,13.862
+Avg TTK:,0.248
+Damage Done:,2800.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,33.010525
+Scenario:,Bounce 180
+Hash:,28c00569c77cdbb9a321ffb8a8363220
+Game Version:,2.0.0.2
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.3
+Vert Sens:,1.3
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

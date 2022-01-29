@@ -1,1 +1,40 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/FuglaaXYZ Voltaic - Challenge - 2021.10.24-02.39.53 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,29840,9070,9070.0,29840.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,9070.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,9070.0
+Scenario:,FuglaaXYZ Voltaic
+Hash:,0de53c76106669678ac2800516eaeed4
+Game Version:,v2.6.3
+Challenge Start:,02:38:53.938
+Pause Count:,30
+Pause Duration:,196
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.866486
+Resolution Scale,100.0

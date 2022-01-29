@@ -1,1 +1,70 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu Dodge - Challenge - 2021.05.24-01.10.54 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:09:56.120,test360,pistol,0.301s,2,1,0.5,1000,5000,0.2,false
+2,01:09:57.711,test360,pistol,0.377s,2,1,0.5,1000,5000,0.2,false
+3,01:09:58.764,test360,pistol,0.484s,2,1,0.5,1000,5000,0.2,false
+4,01:10:01.444,test360,pistol,2.165s,5,1,0.2,1000,12500,0.08,false
+5,01:10:03.221,test360,pistol,0.33s,2,1,0.5,1000,5000,0.2,false
+6,01:10:04.350,test360,pistol,0.363s,2,1,0.5,1000,5000,0.2,false
+7,01:10:05.123,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+8,01:10:07.029,test360,pistol,0.493s,2,1,0.5,1000,5000,0.2,false
+9,01:10:08.337,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+10,01:10:10.122,test360,pistol,0.934s,3,1,0.333,1000,7500,0.133,false
+11,01:10:11.110,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+12,01:10:11.812,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+13,01:10:12.980,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+14,01:10:14.821,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+15,01:10:17.541,test360,pistol,1.374s,4,1,0.25,1000,10000,0.1,false
+16,01:10:19.158,test360,pistol,1.062s,3,1,0.333,1000,7500,0.133,false
+17,01:10:25.840,test360,pistol,5.193s,6,1,0.167,1000,15000,0.067,false
+18,01:10:28.374,test360,pistol,1.399s,3,1,0.333,1000,7500,0.133,false
+19,01:10:29.783,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+20,01:10:32.835,test360,pistol,1.283s,2,1,0.5,1000,5000,0.2,false
+21,01:10:34.216,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+22,01:10:35.324,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+23,01:10:36.339,test360,pistol,0.376s,2,1,0.5,1000,5000,0.2,false
+24,01:10:37.284,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+25,01:10:38.606,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+26,01:10:41.211,test360,pistol,1.7s,3,1,0.333,1000,7500,0.133,false
+27,01:10:42.563,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+28,01:10:43.645,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+29,01:10:44.909,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+30,01:10:45.764,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+31,01:10:46.983,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+32,01:10:48.970,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+33,01:10:50.521,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+34,01:10:51.990,test360,pistol,0.69s,2,1,0.5,1000,5000,0.2,false
+35,01:10:53.739,test360,pistol,1.195s,2,1,0.5,1000,5000,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,65,35,35000.0,162500.0,
+
+Kills:,35
+Deaths:,0
+Fight Time:,19.722
+Avg TTK:,0
+Damage Done:,35000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,105000.0
+Scenario:,Pasu Dodge
+Hash:,c7d02fdfd026c163dfab5484ffbfda9f
+Game Version:,2.0.4.0
+Challenge Start:,01:09:54.742
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,247.390503
+Resolution Scale,100.0

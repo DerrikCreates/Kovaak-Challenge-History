@@ -1,1 +1,54 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/POPCORN - Challenge - 2021.09.04-18.51.45 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:50:48.307,Pigeon4,pistol,1.454s,4,1,0.25,100,800,0.125,false
+2,18:50:51.767,Pigeon3,pistol,2.177s,5,1,0.2,100,1000,0.1,false
+3,18:50:53.375,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+4,18:50:54.789,Pigeon,pistol,0.309s,2,1,0.5,100,400,0.25,false
+5,18:50:56.333,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+6,18:51:02.175,Pigeon,pistol,4.016s,4,1,0.25,100,800,0.125,false
+7,18:51:03.349,Pigeon5,pistol,0.295s,2,1,0.5,100,400,0.25,false
+8,18:51:10.868,Pigeon5,pistol,5.848s,11,1,0.091,100,2200,0.045,false
+9,18:51:16.378,Pigeon3,pistol,3.073s,7,1,0.143,100,1400,0.071,false
+10,18:51:18.621,Pigeon4,pistol,0.4s,2,1,0.5,100,400,0.25,false
+11,18:51:19.655,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+12,18:51:25.179,Pigeon,pistol,4.873s,8,1,0.125,100,1600,0.062,false
+13,18:51:36.940,Pigeon4,pistol,10.348s,14,1,0.071,100,2800,0.036,false
+14,18:51:39.138,Pigeon,pistol,0.531s,2,1,0.5,100,400,0.25,false
+15,18:51:41.346,Pigeon5,pistol,1.48s,2,1,0.5,100,400,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,70,15,1500.0,14000.0,
+LG,0,0,0.0,0.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,34.804001
+Avg TTK:,0
+Damage Done:,1500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,353.571442
+Scenario:,POPCORN
+Hash:,21f0bc5b7d01c9cc8a25f4e5a195770b
+Game Version:,2.0.5.3
+Challenge Start:,18:50:45.720
+Pause Count:,9
+Pause Duration:,33
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.673096
+Resolution Scale,100.0

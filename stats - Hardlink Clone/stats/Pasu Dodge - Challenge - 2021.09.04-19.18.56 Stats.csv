@@ -1,1 +1,82 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu Dodge - Challenge - 2021.09.04-19.18.56 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:17:57.633,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+2,19:18:00.042,test360,pistol,1.488s,4,1,0.25,1000,10000,0.1,false
+3,19:18:00.839,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+4,19:18:03.191,test360,pistol,1.294s,4,1,0.25,1000,10000,0.1,false
+5,19:18:04.097,test360,pistol,0.343s,2,1,0.5,1000,5000,0.2,false
+6,19:18:04.962,test360,pistol,0.324s,2,1,0.5,1000,5000,0.2,false
+7,19:18:05.975,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+8,19:18:06.818,test360,pistol,0.32s,2,1,0.5,1000,5000,0.2,false
+9,19:18:08.269,test360,pistol,0.355s,2,1,0.5,1000,5000,0.2,false
+10,19:18:09.265,test360,pistol,0.469s,2,1,0.5,1000,5000,0.2,false
+11,19:18:11.467,test360,pistol,0.909s,3,1,0.333,1000,7500,0.133,false
+12,19:18:11.960,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+13,19:18:13.245,test360,pistol,0.79s,3,1,0.333,1000,7500,0.133,false
+14,19:18:14.196,test360,pistol,0.322s,2,1,0.5,1000,5000,0.2,false
+15,19:18:14.796,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+16,19:18:16.912,test360,pistol,1.459s,4,1,0.25,1000,10000,0.1,false
+17,19:18:17.639,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+18,19:18:21.729,test360,pistol,3.599s,6,1,0.167,1000,15000,0.067,false
+19,19:18:23.506,test360,pistol,0.283s,2,1,0.5,1000,5000,0.2,false
+20,19:18:27.421,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+21,19:18:29.414,test360,pistol,1.462s,4,1,0.25,1000,10000,0.1,false
+22,19:18:30.944,test360,pistol,0.791s,2,1,0.5,1000,5000,0.2,false
+23,19:18:32.196,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+24,19:18:33.141,test360,pistol,0.277s,2,1,0.5,1000,5000,0.2,false
+25,19:18:33.848,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+26,19:18:34.591,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+27,19:18:36.799,test360,pistol,1.358s,3,1,0.333,1000,7500,0.133,false
+28,19:18:37.162,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+29,19:18:38.152,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+30,19:18:43.641,test360,pistol,4.524s,6,1,0.167,1000,15000,0.067,false
+31,19:18:44.246,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+32,19:18:45.159,test360,pistol,0.316s,2,1,0.5,1000,5000,0.2,false
+33,19:18:45.956,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+34,19:18:46.673,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+35,19:18:47.238,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+36,19:18:48.257,test360,pistol,0.351s,2,1,0.5,1000,5000,0.2,false
+37,19:18:49.998,test360,pistol,0.9s,3,1,0.333,1000,7500,0.133,false
+38,19:18:50.562,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+39,19:18:52.483,test360,pistol,1.059s,3,1,0.333,1000,7500,0.133,false
+40,19:18:52.996,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+41,19:18:53.601,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+42,19:18:54.219,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+43,19:18:55.260,test360,pistol,0.432s,2,1,0.5,1000,5000,0.2,false
+44,19:18:56.247,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,88,44,44000.0,220000.0,
+
+Kills:,44
+Deaths:,0
+Fight Time:,23.427
+Avg TTK:,0
+Damage Done:,44000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,2
+Distance Traveled:,0.0
+Score:,132000.0
+Scenario:,Pasu Dodge
+Hash:,c7d02fdfd026c163dfab5484ffbfda9f
+Game Version:,2.0.5.3
+Challenge Start:,19:17:56.881
+Pause Count:,30
+Pause Duration:,188
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.742401
+Resolution Scale,100.0

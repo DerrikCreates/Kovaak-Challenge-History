@@ -1,1 +1,87 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/pasu small reload - Challenge - 2021.09.08-07.10.03 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:08:39.603,test,pistol,0.718s,3,1,0.333,1000,6000,0.167,false
+2,07:08:41.291,test,pistol,1.181s,2,1,0.5,1000,4000,0.25,false
+3,07:08:42.562,test,pistol,0.697s,2,1,0.5,1000,4000,0.25,false
+4,07:08:43.243,test,pistol,0s,1,1,1,1000,2000,0.5,false
+5,07:08:44.880,test,pistol,0.751s,2,1,0.5,1000,4000,0.25,false
+6,07:08:46.575,test,pistol,0.903s,3,1,0.333,1000,6000,0.167,false
+7,07:08:48.971,test,pistol,1.782s,3,1,0.333,1000,6000,0.167,false
+8,07:08:50.834,test,pistol,1.067s,2,1,0.5,1000,4000,0.25,false
+9,07:08:53.700,test,pistol,1.903s,5,1,0.2,1000,10000,0.1,false
+10,07:08:54.346,test,pistol,0s,1,1,1,1000,2000,0.5,false
+11,07:08:56.527,test,pistol,1.561s,3,1,0.333,1000,6000,0.167,false
+12,07:08:57.170,test,pistol,0s,1,1,1,1000,2000,0.5,false
+13,07:08:58.043,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,07:08:59.221,test,pistol,0.359s,2,1,0.5,1000,4000,0.25,false
+15,07:09:01.037,test,pistol,1.1s,3,1,0.333,1000,6000,0.167,false
+16,07:09:02.732,test,pistol,1.07s,3,1,0.333,1000,6000,0.167,false
+17,07:09:03.387,test,pistol,0s,1,1,1,1000,2000,0.5,false
+18,07:09:04.091,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,07:09:05.290,test,pistol,0.568s,2,1,0.5,1000,4000,0.25,false
+20,07:09:07.032,test,pistol,0.561s,2,1,0.5,1000,4000,0.25,false
+21,07:09:09.035,test,pistol,1.198s,3,1,0.333,1000,6000,0.167,false
+22,07:09:10.287,test,pistol,0s,1,1,1,1000,2000,0.5,false
+23,07:09:11.157,test,pistol,0s,1,1,1,1000,2000,0.5,false
+24,07:09:12.200,test,pistol,0s,1,1,1,1000,2000,0.5,false
+25,07:09:13.163,test,pistol,0s,1,1,1,1000,2000,0.5,false
+26,07:09:18.771,test,pistol,4.567s,7,1,0.143,1000,14000,0.071,false
+27,07:09:19.785,test,pistol,0.342s,2,1,0.5,1000,4000,0.25,false
+28,07:09:23.413,test,pistol,2.81s,6,1,0.167,1000,12000,0.083,false
+29,07:09:26.286,test,pistol,2.011s,6,1,0.167,1000,12000,0.083,false
+30,07:09:27.784,test,pistol,0.31s,2,1,0.5,1000,4000,0.25,false
+31,07:09:31.181,test,pistol,2.282s,5,1,0.2,1000,10000,0.1,false
+32,07:09:32.872,test,pistol,0.957s,4,1,0.25,1000,8000,0.125,false
+33,07:09:33.746,test,pistol,0s,1,1,1,1000,2000,0.5,false
+34,07:09:34.699,test,pistol,0s,1,1,1,1000,2000,0.5,false
+35,07:09:39.996,test,pistol,4.478s,8,1,0.125,1000,16000,0.062,false
+36,07:09:41.517,test,pistol,0.483s,2,1,0.5,1000,4000,0.25,false
+37,07:09:42.051,test,pistol,0s,1,1,1,1000,2000,0.5,false
+38,07:09:42.659,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+39,07:09:43.628,test,pistol,0s,1,1,1,1000,2000,0.5,false
+40,07:09:44.341,test,pistol,0s,1,1,1,1000,2000,0.5,false
+41,07:09:45.105,test,pistol,0s,1,1,1,1000,2000,0.5,false
+42,07:09:48.460,test,pistol,2.683s,6,1,0.167,1000,12000,0.083,false
+43,07:09:50.141,test,pistol,0.842s,3,1,0.333,1000,6000,0.167,false
+44,07:09:51.339,test,pistol,0.432s,2,1,0.5,1000,4000,0.25,false
+45,07:09:52.406,test,pistol,0.316s,2,1,0.5,1000,4000,0.25,false
+46,07:09:53.494,test,pistol,0s,1,1,1,1000,2000,0.5,false
+47,07:10:00.162,test,pistol,5.44s,9,1,0.111,1000,18000,0.056,false
+48,07:10:01.287,test,pistol,0s,1,1,1,1000,2000,0.5,false
+49,07:10:03.404,test,pistol,1.231s,2,1,0.5,1000,4000,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,125,49,49000.0,250000.0,
+
+Kills:,49
+Deaths:,0
+Fight Time:,44.604
+Avg TTK:,0
+Damage Done:,49000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,3
+Distance Traveled:,0.0
+Score:,49.0
+Scenario:,pasu small reload
+Hash:,a37d2ba4f3f33d59ae7018e37445a5e9
+Game Version:,2.0.5.3
+Challenge Start:,07:08:37.762
+Pause Count:,9
+Pause Duration:,154
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,425.420898
+Resolution Scale,100.0

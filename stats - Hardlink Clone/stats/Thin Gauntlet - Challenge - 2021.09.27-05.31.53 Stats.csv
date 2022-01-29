@@ -1,1 +1,46 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Thin Gauntlet - Challenge - 2021.09.27-05.31.53 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,05:29:34.805,smooth_1,Track Master 100,8s,801,600,0.749,600,801,0.749,false
+2,05:29:50.679,smooth_2,Track Master 100,15.617s,1420,1000,0.704,1000,1420,0.704,false
+3,05:30:15.203,smooth_3,Track Master 100,24.27s,2271,900,0.396,900,2271,0.396,false
+4,05:30:34.941,smooth_4,Track Master 100,19.481s,1795,1000,0.557,1000,1795,0.557,false
+5,05:30:57.774,smooth_5,Track Master 100,22.583s,2109,700,0.332,700,2109,0.332,false
+6,05:31:13.314,smooth_6,Track Master 100,15.289s,1386,500,0.361,500,1386,0.361,false
+7,05:31:33.509,smooth_7,Track Master 100,19.938s,1851,700,0.378,700,1851,0.378,false
+8,05:31:53.948,smooth_8,Track Master 100,20.425s,1902,400,0.21,400,1902,0.21,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,13536,5801,5801.0,13536.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,145.602997
+Avg TTK:,0
+Damage Done:,5801.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,852.172119
+Scenario:,Thin Gauntlet
+Hash:,c9ac12b07df37670e1fe392eafd263d9
+Game Version:,2.0.5.3
+Challenge Start:,05:29:26.120
+Pause Count:,2
+Pause Duration:,82
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.28949
+Resolution Scale,100.0

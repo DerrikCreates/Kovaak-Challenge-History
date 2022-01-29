@@ -1,1 +1,43 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2021.09.06-01.50.47 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:49:58.157,Pigeon5,pistol,8.716s,5,1,0.2,100,1000,0.1,false
+2,01:49:59.180,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+3,01:50:06.956,Pigeon3,pistol,6.366s,4,1,0.25,100,800,0.125,false
+4,01:50:11.481,Pigeon4,pistol,3.093s,3,1,0.333,100,600,0.167,false
+5,01:50:15.475,Pigeon4,pistol,2.769s,3,1,0.333,100,600,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,35,5,500.0,7000.0,
+
+Kills:,5
+Deaths:,0
+Fight Time:,20.944
+Avg TTK:,0
+Damage Done:,500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,30
+Distance Traveled:,0.0
+Score:,50.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,2.0.5.3
+Challenge Start:,01:49:47.974
+Pause Count:,13
+Pause Duration:,3417
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.825928
+Resolution Scale,100.0

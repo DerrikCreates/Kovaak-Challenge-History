@@ -1,1 +1,56 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Invasion Clicking - Challenge - 2021.05.12-19.10.26 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:09:28.132,invasion,pistol HS,0.816s,3,1,0.333,25,75,0.333,false
+2,19:09:29.991,invasion,pistol HS,1.543s,6,1,0.167,25,150,0.167,false
+3,19:09:30.641,invasion,pistol HS,0s,1,1,1,25,25,1,false
+4,19:09:35.008,invasion,pistol HS,3.742s,8,2,0.25,30,200,0.15,false
+5,19:09:36.041,invasion,pistol HS,0.376s,2,1,0.5,25,50,0.5,false
+6,19:09:39.858,invasion,pistol HS,2.975s,11,4,0.364,40,275,0.145,false
+7,19:09:45.516,invasion,pistol HS,4.891s,16,5,0.312,45,400,0.112,false
+8,19:09:49.175,invasion,pistol HS,3.092s,11,2,0.182,30,275,0.109,false
+9,19:09:55.025,invasion,pistol HS,5.259s,14,3,0.214,35,350,0.1,false
+10,19:09:55.708,invasion,pistol HS,0.333s,2,2,1,30,50,0.6,false
+11,19:09:56.700,invasion,pistol HS,0.267s,2,1,0.5,25,50,0.5,false
+12,19:09:59.233,invasion,pistol HS,2.141s,7,2,0.286,30,175,0.171,false
+13,19:10:02.634,invasion,pistol HS,3.042s,8,2,0.25,30,200,0.15,false
+14,19:10:05.300,invasion,pistol HS,1.916s,5,1,0.2,25,125,0.2,false
+15,19:10:09.309,invasion,pistol HS,3.392s,7,2,0.286,30,175,0.171,false
+16,19:10:10.042,invasion,pistol HS,0.283s,2,1,0.5,25,50,0.5,false
+17,19:10:10.693,invasion,pistol HS,0.001s,1,1,1,25,25,1,false
+18,19:10:11.142,invasion,pistol HS,0s,1,1,1,25,25,1,false
+19,19:10:11.876,invasion,pistol HS,0.376s,2,1,0.5,25,50,0.5,false
+20,19:10:15.784,invasion,pistol HS,3.184s,6,2,0.333,30,150,0.2,false
+21,19:10:16.984,invasion,pistol HS,0.7s,3,1,0.333,25,75,0.333,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,137,39,615.0,3425.0,
+
+Kills:,21
+Deaths:,0
+Fight Time:,38.328999
+Avg TTK:,0
+Damage Done:,615.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,935.145996
+Scenario:,Invasion Clicking
+Hash:,9dbd55728461255381787dbbc7b0ee94
+Game Version:,2.0.4.0
+Challenge Start:,19:09:26.027
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,119.878265
+Resolution Scale,100.0

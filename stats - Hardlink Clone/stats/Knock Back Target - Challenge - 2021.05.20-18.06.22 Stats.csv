@@ -1,1 +1,38 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Knock Back Target - Challenge - 2021.05.20-18.06.22 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:05:53.080,Long Strafe Bot,Click,15.162s,26,15,0.577,30,52,0.577,false
+2,18:06:07.672,Long Strafe Bot,Click,13.753s,39,16,0.41,30,78,0.385,false
+3,18:06:22.645,Long Strafe Bot,Click,14.405s,35,16,0.457,31,70,0.443,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Click,100,47,91.0,200.0,
+
+Kills:,3
+Deaths:,0
+Fight Time:,43.32
+Avg TTK:,0
+Damage Done:,91.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1056.165283
+Scenario:,Knock Back Target
+Hash:,1eb8cca451bec5b212aa831171a2440a
+Game Version:,2.0.4.0
+Challenge Start:,18:05:37.271
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.665894
+Resolution Scale,100.0

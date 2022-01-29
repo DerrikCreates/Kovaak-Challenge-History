@@ -1,1 +1,88 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/B180 Voltaic - Challenge - 2022.01.20-11.54.58 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:53:59.355,High,b180 pistol,3.235s,5,1,0.2,50,625,0.08,false
+2,11:54:00.452,Mid,b180 pistol,0.413s,2,1,0.5,50,250,0.2,false
+3,11:54:01.377,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+4,11:54:02.807,Mid,b180 pistol,0.871s,2,1,0.5,50,250,0.2,false
+5,11:54:03.413,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+6,11:54:04.745,Low,b180 pistol,0.516s,2,1,0.5,50,250,0.2,false
+7,11:54:05.730,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+8,11:54:06.783,Mid,b180 pistol,0.38s,2,1,0.5,50,250,0.2,false
+9,11:54:07.529,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+10,11:54:08.526,Mid,b180 pistol,0.296s,2,1,0.5,50,250,0.2,false
+11,11:54:09.478,High,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+12,11:54:11.127,Low,b180 pistol,0.75s,2,1,0.5,50,250,0.2,false
+13,11:54:11.918,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+14,11:54:12.937,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+15,11:54:14.565,High,b180 pistol,0.299s,2,1,0.5,50,250,0.2,false
+16,11:54:15.210,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+17,11:54:16.021,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+18,11:54:16.771,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+19,11:54:18.425,High,b180 pistol,1.095s,2,1,0.5,50,250,0.2,false
+20,11:54:20.064,Mid,b180 pistol,0.653s,3,1,0.333,50,375,0.133,false
+21,11:54:21.087,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+22,11:54:22.225,High,b180 pistol,0.321s,2,1,0.5,50,250,0.2,false
+23,11:54:22.888,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+24,11:54:23.437,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+25,11:54:24.541,Low,b180 pistol,0.233s,2,1,0.5,50,250,0.2,false
+26,11:54:28.694,Mid,b180 pistol,3.343s,6,1,0.167,50,750,0.067,false
+27,11:54:29.572,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+28,11:54:30.783,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+29,11:54:32.072,Mid,b180 pistol,0.753s,2,1,0.5,50,250,0.2,false
+30,11:54:32.925,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+31,11:54:34.782,High,b180 pistol,0.953s,3,1,0.333,50,375,0.133,false
+32,11:54:35.774,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+33,11:54:36.681,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+34,11:54:37.310,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+35,11:54:43.704,Mid,b180 pistol,5.589s,3,1,0.333,50,375,0.133,false
+36,11:54:45.027,High,b180 pistol,0.919s,3,1,0.333,50,375,0.133,false
+37,11:54:46.780,High,b180 pistol,0.21s,2,1,0.5,50,250,0.2,false
+38,11:54:48.467,Mid,b180 pistol,0.944s,2,1,0.5,50,250,0.2,false
+39,11:54:48.955,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+40,11:54:49.475,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+41,11:54:51.548,Mid,b180 pistol,1.472s,2,1,0.5,50,250,0.2,false
+42,11:54:52.457,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+43,11:54:53.613,High,b180 pistol,0.601s,2,1,0.5,50,250,0.2,false
+44,11:54:54.503,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+45,11:54:55.271,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+46,11:54:56.068,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+47,11:54:57.073,Mid,b180 pistol,0.558s,2,1,0.5,50,250,0.2,false
+48,11:54:58.684,High,b180 pistol,0.38s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+b180 pistol,82,48,2400.0,10250.0,
+
+Kills:,48
+Deaths:,0
+Fight Time:,24.789
+Avg TTK:,1.471
+Damage Done:,2400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,2
+Distance Traveled:,0.0
+Score:,48.0
+Scenario:,B180 Voltaic
+Hash:,c01cb433518fa3bccf4fb0e7a19d5a0d
+Game Version:,v2.8.2
+Challenge Start:,11:54:42.437
+Pause Count:,8
+Pause Duration:,245
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,348.683716
+Resolution Scale,100.0

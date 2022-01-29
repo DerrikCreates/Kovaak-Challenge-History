@@ -1,1 +1,40 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/PGTI Voltaic Slower - 60% - Challenge - 2022.01.28-03.32.27 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,3500,1459,1459.0,3500.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,1459.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2421.939941
+Scenario:,PGTI Voltaic Slower - 60%
+Hash:,074bbf074d66b1058b7858c96e0f36dc
+Game Version:,v2.8.5
+Challenge Start:,03:31:27.889
+Pause Count:,38
+Pause Duration:,194
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,495.243011
+Resolution Scale,100.0

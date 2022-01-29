@@ -1,1 +1,82 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Controlsphere TS VT Easy - Challenge - 2021.11.28-20.12.16 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:11:18.515,regen_dot,Track Master 100,0.797s,17,10,0.588,50,85,0.588,false
+2,20:11:20.431,regen_dot,Track Master 100,1.399s,29,10,0.345,50,145,0.345,false
+3,20:11:23.045,regen_dot,Track Master 100,1.816s,28,18,0.643,90,140,0.643,false
+4,20:11:24.513,regen_dot,Track Master 100,0.998s,21,10,0.476,50,105,0.476,false
+5,20:11:25.218,regen_dot,Track Master 100,0.248s,6,2,0.333,10,30,0.333,false
+6,20:11:26.500,regen_dot,Track Master 100,0.898s,19,10,0.526,50,95,0.526,false
+7,20:11:27.765,regen_dot,Track Master 100,0.998s,21,13,0.619,65,105,0.619,false
+8,20:11:28.581,regen_dot,Track Master 100,0.497s,11,7,0.636,35,55,0.636,false
+9,20:11:29.815,regen_dot,Track Master 100,0.899s,19,10,0.526,50,95,0.526,false
+10,20:11:31.439,regen_dot,Track Master 100,1.197s,25,10,0.4,50,125,0.4,false
+11,20:11:32.624,regen_dot,Track Master 100,0.598s,13,10,0.769,50,65,0.769,false
+12,20:11:35.099,regen_dot,Track Master 100,2.222s,44,19,0.432,95,220,0.432,false
+13,20:11:35.519,regen_dot,Track Master 100,0.172s,2,1,0.5,5,10,0.5,false
+14,20:11:36.913,regen_dot,Track Master 100,0.847s,18,10,0.556,50,90,0.556,false
+15,20:11:38.127,regen_dot,Track Master 100,0.897s,19,10,0.526,50,95,0.526,false
+16,20:11:39.868,regen_dot,Track Master 100,1.099s,23,10,0.435,50,115,0.435,false
+17,20:11:40.741,regen_dot,Track Master 100,0.821s,13,10,0.769,50,65,0.769,false
+18,20:11:42.255,regen_dot,Track Master 100,0.798s,17,10,0.588,50,85,0.588,false
+19,20:11:43.458,regen_dot,Track Master 100,0.799s,17,12,0.706,60,85,0.706,false
+20,20:11:44.547,regen_dot,Track Master 100,0.696s,15,8,0.533,40,75,0.533,false
+21,20:11:45.687,regen_dot,Track Master 100,0.749s,16,10,0.625,50,80,0.625,false
+22,20:11:46.998,regen_dot,Track Master 100,1.048s,22,10,0.455,50,110,0.455,false
+23,20:11:48.640,regen_dot,Track Master 100,1s,21,10,0.476,50,105,0.476,false
+24,20:11:50.196,regen_dot,Track Master 100,0.899s,19,10,0.526,50,95,0.526,false
+25,20:11:52.921,regen_dot,Track Master 100,2.26s,23,10,0.435,50,115,0.435,false
+26,20:11:54.093,regen_dot,Track Master 100,0.925s,13,10,0.769,50,65,0.769,false
+27,20:11:55.371,regen_dot,Track Master 100,0.848s,18,10,0.556,50,90,0.556,false
+28,20:11:56.777,regen_dot,Track Master 100,0.797s,17,10,0.588,50,85,0.588,false
+29,20:11:58.129,regen_dot,Track Master 100,0.946s,20,10,0.5,50,100,0.5,false
+30,20:11:59.172,regen_dot,Track Master 100,0.549s,12,10,0.833,50,60,0.833,false
+31,20:12:00.882,regen_dot,Track Master 100,1.247s,26,10,0.385,50,130,0.385,false
+32,20:12:01.612,regen_dot,Track Master 100,0.498s,11,10,0.909,50,55,0.909,false
+33,20:12:02.557,regen_dot,Track Master 100,0.498s,11,10,0.909,50,55,0.909,false
+34,20:12:03.952,regen_dot,Track Master 100,0.846s,18,10,0.556,50,90,0.556,false
+35,20:12:05.201,regen_dot,Track Master 100,1.107s,19,10,0.526,50,95,0.526,false
+36,20:12:07.922,regen_dot,Track Master 100,2.276s,44,19,0.432,95,220,0.432,false
+37,20:12:08.316,regen_dot,Track Master 100,0s,1,1,1,5,5,1,false
+38,20:12:10.404,regen_dot,Track Master 100,1.549s,32,10,0.312,50,160,0.312,false
+39,20:12:11.660,regen_dot,Track Master 100,0.747s,16,10,0.625,50,80,0.625,false
+40,20:12:12.787,regen_dot,Track Master 100,0.746s,16,10,0.625,50,80,0.625,false
+41,20:12:14.625,regen_dot,Track Master 100,1.347s,28,10,0.357,50,140,0.357,false
+42,20:12:16.109,regen_dot,Track Master 100,1.2s,15,10,0.667,50,75,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,804,425,2125.0,4020.0,
+
+Kills:,42
+Deaths:,0
+Fight Time:,40.778
+Avg TTK:,0
+Damage Done:,2125.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6375.0
+Scenario:,Controlsphere TS VT Easy
+Hash:,9b7ef2093869ebc8fb92462d422ed256
+Game Version:,v2.6.4
+Challenge Start:,20:11:16.870
+Pause Count:,16
+Pause Duration:,1810
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.062012
+Resolution Scale,100.0

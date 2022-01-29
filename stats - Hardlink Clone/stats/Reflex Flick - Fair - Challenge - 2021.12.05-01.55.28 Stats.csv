@@ -1,1 +1,89 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Reflex Flick - Fair - Challenge - 2021.12.05-01.55.28 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:54:29.538,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,01:54:30.265,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+3,01:54:31.077,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,01:54:31.811,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,01:54:32.578,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+6,01:54:33.430,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,01:54:34.289,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+8,01:54:35.102,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,01:54:35.927,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,01:54:36.745,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,01:54:38.528,target_decay,pistol,0.888s,2,1,0.5,25,100,0.25,false
+12,01:54:39.413,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,01:54:40.242,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,01:54:41.051,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+15,01:54:41.857,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,01:54:43.632,target_decay,pistol,0.997s,3,1,0.333,25,150,0.167,false
+17,01:54:44.416,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+18,01:54:45.219,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,01:54:45.814,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+20,01:54:48.332,target_decay,pistol,1.759s,5,1,0.2,25,250,0.1,false
+21,01:54:49.100,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+22,01:54:49.848,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+23,01:54:51.595,target_decay,pistol,0.892s,2,1,0.5,25,100,0.25,false
+24,01:54:52.385,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+25,01:54:55.035,target_decay,pistol,1.796s,4,1,0.25,25,200,0.125,false
+26,01:54:56.838,target_decay,pistol,0.976s,2,1,0.5,25,100,0.25,false
+27,01:54:57.640,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+28,01:55:00.195,target_decay,pistol,1.735s,3,1,0.333,25,150,0.167,false
+29,01:55:02.028,target_decay,pistol,1.001s,2,1,0.5,25,100,0.25,false
+30,01:55:02.902,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+31,01:55:03.718,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+32,01:55:04.467,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+33,01:55:05.232,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+34,01:55:06.039,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+35,01:55:06.850,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+36,01:55:07.693,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+37,01:55:08.551,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+38,01:55:09.324,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+39,01:55:11.756,target_decay,pistol,1.645s,4,1,0.25,25,200,0.125,false
+40,01:55:12.563,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+41,01:55:15.133,target_decay,pistol,1.77s,5,1,0.2,25,250,0.1,false
+42,01:55:16.987,target_decay,pistol,1.006s,2,1,0.5,25,100,0.25,false
+43,01:55:17.789,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+44,01:55:19.454,target_decay,pistol,0.922s,3,1,0.333,25,150,0.167,false
+45,01:55:22.035,target_decay,pistol,1.574s,3,1,0.333,25,150,0.167,false
+46,01:55:22.885,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+47,01:55:23.698,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+48,01:55:25.452,target_decay,pistol,0.926s,3,1,0.333,25,150,0.167,false
+49,01:55:26.314,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,80,49,1225.0,4000.0,
+
+Kills:,49
+Deaths:,0
+Fight Time:,17.889999
+Avg TTK:,1.224
+Damage Done:,1225.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,3001.25
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,v2.7.0
+Challenge Start:,01:52:16.239
+Pause Count:,32
+Pause Duration:,78
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.537476
+Resolution Scale,100.0

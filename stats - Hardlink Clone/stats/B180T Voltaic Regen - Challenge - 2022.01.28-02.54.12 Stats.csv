@@ -1,1 +1,48 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/B180T Voltaic Regen - Challenge - 2022.01.28-02.54.12 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:53:21.110,High,B180T LG,7.575s,141,60,0.426,60,141,0.426,false
+2,02:53:32.366,Mid,B180T LG,10.932s,203,82,0.404,82,203,0.404,false
+3,02:53:40.215,Low,B180T LG,7.523s,140,64,0.457,64,140,0.457,false
+4,02:53:43.353,Low,B180T LG,2.815s,53,22,0.415,22,53,0.415,false
+5,02:53:46.437,Mid,B180T LG,2.76s,52,24,0.462,24,52,0.462,false
+6,02:53:52.984,Mid,B180T LG,6.223s,116,48,0.414,48,116,0.414,false
+7,02:53:55.529,Mid,B180T LG,2.219s,42,20,0.476,20,42,0.476,false
+8,02:53:56.718,Mid,B180T LG,0.864s,17,10,0.588,10,17,0.588,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+B180T LG,1059,440,440.0,1059.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,40.910999
+Avg TTK:,8.823
+Damage Done:,440.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,8.0
+Scenario:,B180T Voltaic Regen
+Hash:,f1ce4e3fb474018946691172a1dfdf3d
+Game Version:,v2.8.5
+Challenge Start:,02:53:12.663
+Pause Count:,14
+Pause Duration:,157
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,344.71463
+Resolution Scale,100.0

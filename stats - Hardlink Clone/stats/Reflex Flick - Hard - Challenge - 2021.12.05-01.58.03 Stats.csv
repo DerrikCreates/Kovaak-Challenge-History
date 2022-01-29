@@ -1,1 +1,59 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Reflex Flick - Hard - Challenge - 2021.12.05-01.58.03 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:57:04.942,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,01:57:07.337,target_decay,pistol,1.528s,3,1,0.333,25,150,0.167,false
+3,01:57:08.121,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,01:57:10.370,target_decay,pistol,1.413s,3,1,0.333,25,150,0.167,false
+5,01:57:11.807,target_decay,pistol,0.572s,2,1,0.5,25,100,0.25,false
+6,01:57:16.686,target_decay,pistol,4.25s,7,1,0.143,25,350,0.071,false
+7,01:57:19.951,target_decay,pistol,2.428s,4,1,0.25,25,200,0.125,false
+8,01:57:20.757,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,01:57:21.549,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,01:57:25.569,target_decay,pistol,3.183s,6,1,0.167,25,300,0.083,false
+11,01:57:31.205,target_decay,pistol,4.783s,7,1,0.143,25,350,0.071,false
+12,01:57:32.027,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,01:57:32.908,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+14,01:57:34.543,target_decay,pistol,0.795s,2,1,0.5,25,100,0.25,false
+15,01:57:38.589,target_decay,pistol,3.176s,5,1,0.2,25,250,0.1,false
+16,01:57:41.847,target_decay,pistol,2.447s,4,1,0.25,25,200,0.125,false
+17,01:57:54.052,target_decay,pistol,11.354s,15,1,0.067,25,750,0.033,false
+18,01:57:57.135,target_decay,pistol,2.212s,4,1,0.25,25,200,0.125,false
+19,01:58:02.695,target_decay,pistol,4.758s,7,1,0.143,25,350,0.071,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,76,19,475.0,3800.0,
+
+Kills:,19
+Deaths:,0
+Fight Time:,42.900002
+Avg TTK:,3.163
+Damage Done:,475.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,475.0
+Scenario:,Reflex Flick - Hard
+Hash:,ab869e821fac336c103b8f85fae7f639
+Game Version:,v2.7.0
+Challenge Start:,01:55:57.570
+Pause Count:,33
+Pause Duration:,92
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.558716
+Resolution Scale,100.0

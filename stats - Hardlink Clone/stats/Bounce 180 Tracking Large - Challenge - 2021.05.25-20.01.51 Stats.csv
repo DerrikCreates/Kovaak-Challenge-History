@@ -1,1 +1,81 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Bounce 180 Tracking Large - Challenge - 2021.05.25-20.01.51 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:01:17.449,Pigeon,LG,0.322s,7,5,0.714,30,42,0.714,false
+2,20:01:17.957,Pigeon,LG,0.215s,5,5,1,30,30,1,false
+3,20:01:18.663,Pigeon,LG,0.484s,10,5,0.5,30,60,0.5,false
+4,20:01:19.493,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+5,20:01:20.165,Pigeon,LG,0.324s,7,5,0.714,30,42,0.714,false
+6,20:01:21.049,Pigeon,LG,0.648s,13,5,0.385,30,78,0.385,false
+7,20:01:21.483,Pigeon,LG,0.215s,5,5,1,30,30,1,false
+8,20:01:22.366,Pigeon,LG,0.592s,12,5,0.417,30,72,0.417,false
+9,20:01:23.472,Pigeon,LG,0.79s,14,5,0.357,30,84,0.357,false
+10,20:01:24.237,Pigeon,LG,0.483s,10,5,0.5,30,60,0.5,false
+11,20:01:24.809,Pigeon,LG,0.377s,8,5,0.625,30,48,0.625,false
+12,20:01:25.824,Pigeon,LG,0.673s,12,9,0.75,54,72,0.75,false
+13,20:01:26.345,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+14,20:01:26.365,Pigeon,LG,0s,1,1,1,6,6,1,false
+15,20:01:27.562,Pigeon,LG,0.888s,14,5,0.357,30,84,0.357,false
+16,20:01:28.106,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+17,20:01:28.764,Pigeon,LG,0.377s,8,5,0.625,30,48,0.625,false
+18,20:01:29.383,Pigeon,LG,0.43s,9,5,0.556,30,54,0.556,false
+19,20:01:30.406,Pigeon,LG,0.593s,12,6,0.5,36,72,0.5,false
+20,20:01:31.855,Pigeon,LG,1.105s,17,4,0.235,24,102,0.235,false
+21,20:01:32.771,Pigeon,LG,0.486s,10,6,0.6,36,60,0.6,false
+22,20:01:33.231,Pigeon,LG,0.324s,7,5,0.714,30,42,0.714,false
+23,20:01:33.882,Pigeon,LG,0.432s,9,5,0.556,30,54,0.556,false
+24,20:01:34.602,Pigeon,LG,0.43s,9,4,0.444,24,54,0.444,false
+25,20:01:35.620,Pigeon,LG,0.834s,14,9,0.643,54,84,0.643,false
+26,20:01:36.223,Pigeon,LG,0s,1,1,1,6,6,1,false
+27,20:01:36.799,Pigeon,LG,0.27s,6,5,0.833,30,36,0.833,false
+28,20:01:37.345,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+29,20:01:37.872,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+30,20:01:38.462,Pigeon,LG,0.484s,10,5,0.5,30,60,0.5,false
+31,20:01:39.349,Pigeon,LG,0.378s,8,5,0.625,30,48,0.625,false
+32,20:01:39.942,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+33,20:01:41.353,Pigeon,LG,1.184s,21,9,0.429,54,126,0.429,false
+34,20:01:41.662,Pigeon,LG,0.053s,2,1,0.5,6,12,0.5,false
+35,20:01:42.247,Pigeon,LG,0.423s,8,5,0.625,30,48,0.625,false
+36,20:01:42.714,Pigeon,LG,0.216s,5,5,1,30,30,1,false
+37,20:01:43.551,Pigeon,LG,0.375s,8,5,0.625,30,48,0.625,false
+38,20:01:44.394,Pigeon,LG,0.484s,10,5,0.5,30,60,0.5,false
+39,20:01:44.942,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+40,20:01:45.891,Pigeon,LG,0.646s,13,5,0.385,30,78,0.385,false
+41,20:01:46.576,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+42,20:01:47.781,Pigeon,LG,0.97s,19,6,0.316,36,114,0.316,false
+43,20:01:49.333,Pigeon,LG,1.17s,18,5,0.278,30,108,0.278,false
+44,20:01:50.108,Pigeon,LG,0.485s,10,4,0.4,24,60,0.4,false
+45,20:01:51.021,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+46,20:01:51.529,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,412,233,1398.0,2472.0,
+
+Kills:,46
+Deaths:,0
+Fight Time:,20.519001
+Avg TTK:,0
+Damage Done:,1398.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,46.0
+Scenario:,Bounce 180 Tracking Large
+Hash:,9a3dc96b191737c2e711c5886f284dd1
+Game Version:,2.0.4.0
+Challenge Start:,20:01:16.632
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,343.594482
+Resolution Scale,100.0

@@ -1,1 +1,60 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Invasion Clicking - Challenge - 2021.05.12-19.12.37 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:11:41.219,invasion,pistol HS,1.941s,4,1,0.25,25,100,0.25,false
+2,19:11:42.128,invasion,pistol HS,0s,1,1,1,25,25,1,false
+3,19:11:43.178,invasion,pistol HS,0.334s,2,2,1,30,50,0.6,false
+4,19:11:45.335,invasion,pistol HS,1s,2,1,0.5,25,50,0.5,false
+5,19:11:48.786,invasion,pistol HS,2.767s,6,1,0.167,25,150,0.167,false
+6,19:11:49.595,invasion,pistol HS,0.001s,1,1,1,25,25,1,false
+7,19:11:50.578,invasion,pistol HS,0.284s,2,1,0.5,25,50,0.5,false
+8,19:11:52.503,invasion,pistol HS,1.042s,3,1,0.333,25,75,0.333,false
+9,19:11:53.637,invasion,pistol HS,0s,1,1,1,25,25,1,false
+10,19:11:54.527,invasion,pistol HS,0s,1,1,1,25,25,1,false
+11,19:11:55.628,invasion,pistol HS,0s,1,1,1,25,25,1,false
+12,19:11:58.253,invasion,pistol HS,1.733s,4,1,0.25,25,100,0.25,false
+13,19:11:58.945,invasion,pistol HS,0s,1,1,1,25,25,1,false
+14,19:12:02.420,invasion,pistol HS,2.958s,6,1,0.167,25,150,0.167,false
+15,19:12:04.769,invasion,pistol HS,1.525s,4,1,0.25,25,100,0.25,false
+16,19:12:08.904,invasion,pistol HS,3.151s,7,1,0.143,25,175,0.143,false
+17,19:12:14.312,invasion,pistol HS,4.492s,5,1,0.2,25,125,0.2,false
+18,19:12:18.070,invasion,pistol HS,2.958s,4,2,0.5,30,100,0.3,false
+19,19:12:18.796,invasion,pistol HS,0s,1,1,1,25,25,1,false
+20,19:12:20.312,invasion,pistol HS,0.416s,2,1,0.5,25,50,0.5,false
+21,19:12:22.879,invasion,pistol HS,1.376s,4,1,0.25,25,100,0.25,false
+22,19:12:26.763,invasion,pistol HS,2.968s,6,3,0.5,35,150,0.233,false
+23,19:12:30.346,invasion,pistol HS,2.692s,5,1,0.2,25,125,0.2,false
+24,19:12:31.396,invasion,pistol HS,0s,1,1,1,25,25,1,false
+25,19:12:36.974,invasion,pistol HS,4.495s,7,1,0.143,25,175,0.143,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,81,29,645.0,2025.0,
+
+Kills:,25
+Deaths:,0
+Fight Time:,36.132999
+Avg TTK:,0
+Damage Done:,645.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1244.135742
+Scenario:,Invasion Clicking
+Hash:,9dbd55728461255381787dbbc7b0ee94
+Game Version:,2.0.4.0
+Challenge Start:,19:11:37.334
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,119.964874
+Resolution Scale,100.0

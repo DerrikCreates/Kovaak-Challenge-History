@@ -1,1 +1,45 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Thin Aiming Long - Challenge - 2021.09.05-21.18.46 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:17:54.578,Thin very long strafe,Track Master 100,7.399s,741,200,0.27,200,741,0.27,false
+2,21:18:00.885,Thin very long strafe,Track Master 100,6.047s,462,200,0.433,200,462,0.433,false
+3,21:18:08.130,Thin very long strafe,Track Master 100,6.987s,506,200,0.395,200,506,0.395,false
+4,21:18:21.895,Thin very long strafe,Track Master 100,13.514s,1130,200,0.177,200,1130,0.177,false
+5,21:18:30.497,Thin very long strafe,Track Master 100,8.351s,646,200,0.31,200,646,0.31,false
+6,21:18:37.236,Thin very long strafe,Track Master 100,6.48s,465,200,0.43,200,465,0.43,false
+7,21:18:45.021,Thin very long strafe,Track Master 100,7.534s,555,200,0.36,200,555,0.36,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,4513,1400,1400.0,4513.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,56.312
+Avg TTK:,0
+Damage Done:,1400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1400.0
+Scenario:,Thin Aiming Long
+Hash:,3a5aabeed03bd10e4d437104ff1b425b
+Game Version:,2.0.5.3
+Challenge Start:,21:17:46.484
+Pause Count:,4
+Pause Duration:,26
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.880005
+Resolution Scale,100.0

@@ -1,1 +1,72 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Invasion Clicking - Challenge - 2021.09.12-04.24.16 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:23:20.689,invasion,pistol HS,3.42s,7,1,0.143,25,175,0.143,false
+2,04:23:21.377,invasion,pistol HS,0.345s,2,1,0.5,25,50,0.5,false
+3,04:23:22.486,invasion,pistol HS,0.5s,3,1,0.333,25,75,0.333,false
+4,04:23:24.281,invasion,pistol HS,1.185s,5,1,0.2,25,125,0.2,false
+5,04:23:25.493,invasion,pistol HS,0.815s,3,2,0.667,30,75,0.4,false
+6,04:23:26.172,invasion,pistol HS,0.328s,2,1,0.5,25,50,0.5,false
+7,04:23:30.978,invasion,pistol HS,4.514s,12,3,0.25,35,300,0.117,false
+8,04:23:31.652,invasion,pistol HS,0.325s,2,1,0.5,25,50,0.5,false
+9,04:23:32.855,invasion,pistol HS,0.602s,3,1,0.333,25,75,0.333,false
+10,04:23:34.668,invasion,pistol HS,1.421s,5,1,0.2,25,125,0.2,false
+11,04:23:38.067,invasion,pistol HS,3.047s,11,2,0.182,30,275,0.109,false
+12,04:23:40.269,invasion,pistol HS,1.474s,5,1,0.2,25,125,0.2,false
+13,04:23:41.010,invasion,pistol HS,0.245s,2,1,0.5,25,50,0.5,false
+14,04:23:41.611,invasion,pistol HS,0.23s,2,1,0.5,25,50,0.5,false
+15,04:23:41.987,invasion,pistol HS,0s,1,1,1,25,25,1,false
+16,04:23:45.337,invasion,pistol HS,2.225s,9,2,0.222,30,225,0.133,false
+17,04:23:47.938,invasion,pistol HS,2.245s,7,2,0.286,30,175,0.171,false
+18,04:23:50.102,invasion,pistol HS,1.737s,5,1,0.2,25,125,0.2,false
+19,04:23:50.528,invasion,pistol HS,0s,1,1,1,25,25,1,false
+20,04:23:52.216,invasion,pistol HS,1.052s,4,1,0.25,25,100,0.25,false
+21,04:23:53.093,invasion,pistol HS,0.507s,3,1,0.333,25,75,0.333,false
+22,04:23:55.130,invasion,pistol HS,1.158s,4,2,0.5,30,100,0.3,false
+23,04:23:56.330,invasion,pistol HS,0.641s,3,1,0.333,25,75,0.333,false
+24,04:23:56.955,invasion,pistol HS,0s,1,1,1,25,25,1,false
+25,04:24:00.761,invasion,pistol HS,2.682s,8,2,0.25,30,200,0.15,false
+26,04:24:02.209,invasion,pistol HS,0.795s,3,1,0.333,25,75,0.333,false
+27,04:24:02.870,invasion,pistol HS,0s,1,1,1,25,25,1,false
+28,04:24:06.977,invasion,pistol HS,3.624s,9,1,0.111,25,225,0.111,false
+29,04:24:07.407,invasion,pistol HS,0s,1,1,1,25,25,1,false
+30,04:24:08.657,invasion,pistol HS,0.584s,2,1,0.5,25,50,0.5,false
+31,04:24:09.334,invasion,pistol HS,0s,1,1,1,25,25,1,false
+32,04:24:10.580,invasion,pistol HS,0.618s,3,1,0.333,25,75,0.333,false
+33,04:24:14.571,invasion,pistol HS,3.333s,9,1,0.111,25,225,0.111,false
+34,04:24:15.335,invasion,pistol HS,0s,1,1,1,25,25,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,141,42,890.0,3525.0,
+
+Kills:,34
+Deaths:,0
+Fight Time:,39.652
+Avg TTK:,0
+Damage Done:,890.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1426.808472
+Scenario:,Invasion Clicking
+Hash:,9dbd55728461255381787dbbc7b0ee94
+Game Version:,2.0.5.3
+Challenge Start:,04:23:16.305
+Pause Count:,52
+Pause Duration:,378
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.832855
+Resolution Scale,100.0

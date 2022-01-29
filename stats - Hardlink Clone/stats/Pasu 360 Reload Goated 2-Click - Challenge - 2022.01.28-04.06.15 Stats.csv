@@ -1,1 +1,69 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu 360 Reload Goated 2-Click - Challenge - 2022.01.28-04.06.15 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:05:20.594,test,pistol,3.944s,6,3,0.5,1500,6000,0.25,false
+2,04:05:21.493,test,pistol,0.415s,2,2,1,1000,2000,0.5,false
+3,04:05:23.229,test,pistol,1.218s,4,2,0.5,1000,4000,0.25,false
+4,04:05:24.257,test,pistol,0.402s,2,2,1,1000,2000,0.5,false
+5,04:05:25.429,test,pistol,0.491s,2,2,1,1000,2000,0.5,false
+6,04:05:27.427,test,pistol,1.347s,3,2,0.667,1000,3000,0.333,false
+7,04:05:28.274,test,pistol,0s,1,1,1,500,1000,0.5,false
+8,04:05:30.597,test,pistol,0.993s,3,2,0.667,1000,3000,0.333,false
+9,04:05:31.928,test,pistol,0.455s,2,2,1,1000,2000,0.5,false
+10,04:05:35.293,test,pistol,2.172s,4,2,0.5,1000,4000,0.25,false
+11,04:05:38.303,test,pistol,2.156s,5,2,0.4,1000,5000,0.2,false
+12,04:05:40.509,test,pistol,1.481s,5,2,0.4,1000,5000,0.2,false
+13,04:05:42.056,test,pistol,0.897s,3,2,0.667,1000,3000,0.333,false
+14,04:05:44.169,test,pistol,1.056s,3,2,0.667,1000,3000,0.333,false
+15,04:05:45.610,test,pistol,0.825s,2,2,1,1000,2000,0.5,false
+16,04:05:47.020,test,pistol,0.664s,2,2,1,1000,2000,0.5,false
+17,04:05:48.531,test,pistol,0.908s,3,2,0.667,1000,3000,0.333,false
+18,04:05:51.268,test,pistol,2.145s,4,2,0.5,1000,4000,0.25,false
+19,04:05:52.628,test,pistol,0.865s,3,2,0.667,1000,3000,0.333,false
+20,04:05:55.529,test,pistol,1.945s,5,2,0.4,1000,5000,0.2,false
+21,04:05:58.535,test,pistol,1.978s,5,2,0.4,1000,5000,0.2,false
+22,04:05:59.514,test,pistol,0.414s,2,2,1,1000,2000,0.5,false
+23,04:06:00.663,test,pistol,0.496s,2,2,1,1000,2000,0.5,false
+24,04:06:01.764,test,pistol,0.458s,2,2,1,1000,2000,0.5,false
+25,04:06:04.325,test,pistol,1.954s,4,2,0.5,1000,4000,0.25,false
+26,04:06:07.156,test,pistol,2.219s,5,2,0.4,1000,5000,0.2,false
+27,04:06:12.520,test,pistol,4.711s,7,3,0.429,1500,7000,0.214,false
+28,04:06:13.716,test,pistol,0.487s,2,1,0.5,500,2000,0.25,false
+29,04:06:15.459,test,pistol,0.553s,2,2,1,1000,2000,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,95,58,29000.0,95000.0,
+
+Kills:,29
+Deaths:,0
+Fight Time:,37.648998
+Avg TTK:,2.956
+Damage Done:,29000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,2
+Distance Traveled:,0.0
+Score:,29.0
+Scenario:,Pasu 360 Reload Goated 2-Click
+Hash:,39447b75b5b08f1ab7b4f84431ec2076
+Game Version:,v2.8.5
+Challenge Start:,04:05:15.815
+Pause Count:,66
+Pause Duration:,263
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,385.766357
+Resolution Scale,100.0

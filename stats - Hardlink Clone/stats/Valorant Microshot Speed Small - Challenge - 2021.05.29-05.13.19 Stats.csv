@@ -1,1 +1,73 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Valorant Microshot Speed Small - Challenge - 2021.05.29-05.13.19 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,05:12:50.802,target,BB Gun,0s,1,1,1,1,1,1,false
+2,05:12:51.510,target,BB Gun,0s,1,1,1,1,1,1,false
+3,05:12:52.245,target,BB Gun,0s,1,1,1,1,1,1,false
+4,05:12:52.859,target,BB Gun,0.248s,2,1,0.5,1,2,0.5,false
+5,05:12:53.426,target,BB Gun,0s,1,1,1,1,1,1,false
+6,05:12:53.997,target,BB Gun,0s,1,1,1,1,1,1,false
+7,05:12:54.615,target,BB Gun,0s,1,1,1,1,1,1,false
+8,05:12:55.208,target,BB Gun,0s,1,1,1,1,1,1,false
+9,05:12:55.780,target,BB Gun,0.001s,1,1,1,1,1,1,false
+10,05:12:56.350,target,BB Gun,0s,1,1,1,1,1,1,false
+11,05:12:57.011,target,BB Gun,0s,1,1,1,1,1,1,false
+12,05:12:57.669,target,BB Gun,0s,1,1,1,1,1,1,false
+13,05:12:58.216,target,BB Gun,0s,1,1,1,1,1,1,false
+14,05:12:58.881,target,BB Gun,0s,1,1,1,1,1,1,false
+15,05:12:59.451,target,BB Gun,0s,1,1,1,1,1,1,false
+16,05:13:00.434,target,BB Gun,0s,1,1,1,1,1,1,false
+17,05:13:01.217,target,BB Gun,0.001s,1,1,1,1,1,1,false
+18,05:13:02.341,target,BB Gun,0s,1,1,1,1,1,1,false
+19,05:13:03.342,target,BB Gun,0s,1,1,1,1,1,1,false
+20,05:13:04.277,target,BB Gun,0s,1,1,1,1,1,1,false
+21,05:13:05.113,target,BB Gun,0s,1,1,1,1,1,1,false
+22,05:13:06.026,target,BB Gun,0s,1,1,1,1,1,1,false
+23,05:13:06.824,target,BB Gun,0s,1,1,1,1,1,1,false
+24,05:13:07.563,target,BB Gun,0s,1,1,1,1,1,1,false
+25,05:13:08.476,target,BB Gun,0s,1,1,1,1,1,1,false
+26,05:13:09.202,target,BB Gun,0s,1,1,1,1,1,1,false
+27,05:13:09.842,target,BB Gun,0s,1,1,1,1,1,1,false
+28,05:13:10.604,target,BB Gun,0s,1,1,1,1,1,1,false
+29,05:13:11.268,target,BB Gun,0s,1,1,1,1,1,1,false
+30,05:13:12.034,target,BB Gun,0s,1,1,1,1,1,1,false
+31,05:13:12.869,target,BB Gun,0s,1,1,1,1,1,1,false
+32,05:13:13.678,target,BB Gun,0s,1,1,1,1,1,1,false
+33,05:13:14.510,target,BB Gun,0s,1,1,1,1,1,1,false
+34,05:13:15.527,target,BB Gun,0s,1,1,1,1,1,1,false
+35,05:13:16.467,target,BB Gun,0s,1,1,1,1,1,1,false
+36,05:13:17.380,target,BB Gun,0s,1,1,1,1,1,1,false
+37,05:13:18.357,target,BB Gun,0s,1,1,1,1,1,1,false
+38,05:13:19.289,target,BB Gun,0s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+BB Gun,39,38,38.0,39.0,
+
+Kills:,38
+Deaths:,0
+Fight Time:,0.25
+Avg TTK:,0
+Damage Done:,38.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,38.0
+Scenario:,Valorant Microshot Speed Small
+Hash:,b97fd9ac9e242a2053a48cad2a632461
+Game Version:,2.0.4.0
+Challenge Start:,05:12:49.907
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.276367
+Resolution Scale,100.0

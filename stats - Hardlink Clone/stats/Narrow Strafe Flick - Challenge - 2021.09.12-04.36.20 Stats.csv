@@ -1,1 +1,52 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Narrow Strafe Flick - Challenge - 2021.09.12-04.36.20 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:35:24.770,narrow_flick_bot,pistol HS,3.913s,9,2,0.222,50,225,0.222,false
+2,04:35:27.979,narrow_flick_bot,pistol HS,2.531s,7,2,0.286,50,175,0.286,false
+3,04:35:32.852,narrow_flick_bot,pistol HS,3.934s,7,2,0.286,50,175,0.286,false
+4,04:35:35.778,narrow_flick_bot,pistol HS,2.155s,6,2,0.333,50,150,0.333,false
+5,04:35:39.399,narrow_flick_bot,pistol HS,2.959s,5,2,0.4,50,125,0.4,false
+6,04:35:45.457,narrow_flick_bot,pistol HS,5.541s,7,2,0.286,50,175,0.286,false
+7,04:35:47.232,narrow_flick_bot,pistol HS,0.584s,2,2,1,50,50,1,false
+8,04:35:49.545,narrow_flick_bot,pistol HS,1.651s,3,2,0.667,50,75,0.667,false
+9,04:35:57.746,narrow_flick_bot,pistol HS,7.621s,12,2,0.167,50,300,0.167,false
+10,04:35:59.203,narrow_flick_bot,pistol HS,0.836s,2,2,1,50,50,1,false
+11,04:36:03.566,narrow_flick_bot,pistol HS,3.35s,7,2,0.286,50,175,0.286,false
+12,04:36:10.404,narrow_flick_bot,pistol HS,6.305s,11,2,0.182,50,275,0.182,false
+13,04:36:15.801,narrow_flick_bot,pistol HS,4.158s,8,3,0.375,55,200,0.275,false
+14,04:36:16.959,narrow_flick_bot,pistol HS,0.588s,2,2,1,50,50,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,94,29,705.0,2350.0,
+
+Kills:,14
+Deaths:,0
+Fight Time:,46.126999
+Avg TTK:,0
+Damage Done:,705.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1130.691406
+Scenario:,Narrow Strafe Flick
+Hash:,bf83e2deac1b36853af14f45318561de
+Game Version:,2.0.5.3
+Challenge Start:,04:35:20.739
+Pause Count:,64
+Pause Duration:,392
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.877228
+Resolution Scale,100.0

@@ -1,1 +1,88 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/pasu small reload - Challenge - 2021.05.29-04.57.39 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:56:15.657,test,pistol,0.46s,2,1,0.5,1000,4000,0.25,false
+2,04:56:17.224,test,pistol,0.666s,3,1,0.333,1000,6000,0.167,false
+3,04:56:20.571,test,pistol,2.675s,5,1,0.2,1000,10000,0.1,false
+4,04:56:21.950,test,pistol,0.374s,2,1,0.5,1000,4000,0.25,false
+5,04:56:24.624,test,pistol,1.633s,6,1,0.167,1000,12000,0.083,false
+6,04:56:26.516,test,pistol,1.065s,2,1,0.5,1000,4000,0.25,false
+7,04:56:28.608,test,pistol,1.211s,2,1,0.5,1000,4000,0.25,false
+8,04:56:36.982,test,pistol,6.883s,5,1,0.2,1000,10000,0.1,false
+9,04:56:40.424,test,pistol,2.37s,5,1,0.2,1000,10000,0.1,false
+10,04:56:41.840,test,pistol,0.262s,2,1,0.5,1000,4000,0.25,false
+11,04:56:42.713,test,pistol,0s,1,1,1,1000,2000,0.5,false
+12,04:56:47.053,test,pistol,3.357s,4,1,0.25,1000,8000,0.125,false
+13,04:56:47.648,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,04:56:48.463,test,pistol,0s,1,1,1,1000,2000,0.5,false
+15,04:56:51.334,test,pistol,1.768s,4,1,0.25,1000,8000,0.125,false
+16,04:56:52.207,test,pistol,0s,1,1,1,1000,2000,0.5,false
+17,04:56:52.942,test,pistol,0s,1,1,1,1000,2000,0.5,false
+18,04:56:53.853,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,04:56:54.619,test,pistol,0s,1,1,1,1000,2000,0.5,false
+20,04:56:56.357,test,pistol,0.951s,3,1,0.333,1000,6000,0.167,false
+21,04:56:58.163,test,pistol,0.572s,2,1,0.5,1000,4000,0.25,false
+22,04:56:58.730,test,pistol,0s,1,1,1,1000,2000,0.5,false
+23,04:56:59.604,test,pistol,0s,1,1,1,1000,2000,0.5,false
+24,04:57:00.653,test,pistol,0.322s,2,1,0.5,1000,4000,0.25,false
+25,04:57:01.439,test,pistol,0s,1,1,1,1000,2000,0.5,false
+26,04:57:02.504,test,pistol,0.417s,2,1,0.5,1000,4000,0.25,false
+27,04:57:03.728,test,pistol,0.64s,2,1,0.5,1000,4000,0.25,false
+28,04:57:04.745,test,pistol,0s,1,1,1,1000,2000,0.5,false
+29,04:57:05.531,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+30,04:57:06.270,test,pistol,0s,1,1,1,1000,2000,0.5,false
+31,04:57:07.315,test,pistol,0s,1,1,1,1000,2000,0.5,false
+32,04:57:09.555,test,pistol,1.45s,4,1,0.25,1000,8000,0.125,false
+33,04:57:10.178,test,pistol,0s,1,1,1,1000,2000,0.5,false
+34,04:57:10.799,test,pistol,0s,1,1,1,1000,2000,0.5,false
+35,04:57:12.202,test,pistol,0s,1,1,1,1000,2000,0.5,false
+36,04:57:12.972,test,pistol,0s,1,1,1,1000,2000,0.5,false
+37,04:57:13.788,test,pistol,0s,1,1,1,1000,2000,0.5,false
+38,04:57:15.806,test,pistol,1.266s,3,1,0.333,1000,6000,0.167,false
+39,04:57:17.160,test,pistol,0.487s,2,1,0.5,1000,4000,0.25,false
+40,04:57:20.293,test,pistol,2.176s,5,1,0.2,1000,10000,0.1,false
+41,04:57:20.999,test,pistol,0s,1,1,1,1000,2000,0.5,false
+42,04:57:23.514,test,pistol,1.809s,3,1,0.333,1000,6000,0.167,false
+43,04:57:24.898,test,pistol,0.575s,2,1,0.5,1000,4000,0.25,false
+44,04:57:25.721,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+45,04:57:26.902,test,pistol,0.519s,2,1,0.5,1000,4000,0.25,false
+46,04:57:27.986,test,pistol,0s,1,1,1,1000,2000,0.5,false
+47,04:57:29.790,test,pistol,0.879s,3,1,0.333,1000,6000,0.167,false
+48,04:57:30.885,test,pistol,0.413s,2,1,0.5,1000,4000,0.25,false
+49,04:57:32.132,test,pistol,0.443s,2,1,0.5,1000,4000,0.25,false
+50,04:57:33.073,test,pistol,0s,1,1,1,1000,2000,0.5,false
+51,04:57:35.786,test,pistol,1.612s,4,1,0.25,1000,8000,0.125,false
+52,04:57:36.637,test,pistol,0s,1,1,1,1000,2000,0.5,false
+53,04:57:39.198,test,pistol,1.705s,4,1,0.25,1000,8000,0.125,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,114,53,53000.0,228000.0,
+
+Kills:,53
+Deaths:,0
+Fight Time:,38.962002
+Avg TTK:,0
+Damage Done:,53000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,53.0
+Scenario:,pasu small reload
+Hash:,a37d2ba4f3f33d59ae7018e37445a5e9
+Game Version:,2.0.4.0
+Challenge Start:,04:56:14.283
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,425.059265
+Resolution Scale,100.0

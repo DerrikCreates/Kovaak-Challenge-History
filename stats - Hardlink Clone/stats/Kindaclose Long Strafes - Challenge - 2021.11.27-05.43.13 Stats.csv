@@ -1,1 +1,40 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Kindaclose Long Strafes - Challenge - 2021.11.27-05.43.13 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1297,758,4548.0,7782.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,4548.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,13644.0
+Scenario:,Kindaclose Long Strafes
+Hash:,7c4ac3afaef86fe3fb9e547b94ce3e17
+Game Version:,v2.6.4
+Challenge Start:,05:42:13.960
+Pause Count:,5
+Pause Duration:,36
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.161346
+Resolution Scale,100.0

@@ -1,1 +1,42 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Circle Strafes Mid Varied Medium - Challenge - 2022.01.03-01.54.01 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:53:20.549,Quaker Bot Mid Strafes,LG,36.179s,3619,1000,0.276,1000,3619,0.276,false
+2,01:54:01.791,Quaker Bot Fast Strafes,LG,41.229s,3937,1000,0.254,1000,3937,0.254,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,7557,2001,2001.0,7557.0,
+
+Kills:,2
+Deaths:,0
+Fight Time:,77.407997
+Avg TTK:,39
+Damage Done:,2001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,78904.164062
+Score:,430.066986
+Scenario:,Circle Strafes Mid Varied Medium
+Hash:,622f18cbf5230052c044a2c2df0c80c7
+Game Version:,v2.8.2
+Challenge Start:,01:52:43.703
+Pause Count:,12
+Pause Duration:,316
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.767456
+Resolution Scale,100.0

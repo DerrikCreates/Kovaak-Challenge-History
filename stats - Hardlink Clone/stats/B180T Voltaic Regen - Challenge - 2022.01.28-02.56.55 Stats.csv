@@ -1,1 +1,51 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/B180T Voltaic Regen - Challenge - 2022.01.28-02.56.55 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:55:56.763,Low,B180T LG,0.538s,11,10,0.909,10,11,0.909,false
+2,02:56:04.505,High,B180T LG,7.416s,138,58,0.42,58,138,0.42,false
+3,02:56:10.237,Mid,B180T LG,5.41s,101,43,0.426,43,101,0.426,false
+4,02:56:13.703,Mid,B180T LG,3.138s,59,26,0.441,26,59,0.441,false
+5,02:56:17.435,Mid,B180T LG,3.407s,64,30,0.469,30,64,0.469,false
+6,02:56:19.008,High,B180T LG,1.245s,24,14,0.583,14,24,0.583,false
+7,02:56:28.911,Low,B180T LG,9.582s,178,70,0.393,70,178,0.393,false
+8,02:56:35.404,Low,B180T LG,6.17s,115,52,0.452,52,115,0.452,false
+9,02:56:38.328,Mid,B180T LG,2.597s,49,21,0.429,21,49,0.429,false
+10,02:56:46.497,High,B180T LG,7.848s,146,64,0.438,64,146,0.438,false
+11,02:56:52.183,Mid,B180T LG,5.361s,100,36,0.36,36,100,0.36,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+B180T LG,1044,443,443.0,1044.0,
+
+Kills:,11
+Deaths:,0
+Fight Time:,52.712002
+Avg TTK:,6.417
+Damage Done:,443.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,11.0
+Scenario:,B180T Voltaic Regen
+Hash:,f1ce4e3fb474018946691172a1dfdf3d
+Game Version:,v2.8.5
+Challenge Start:,02:55:55.380
+Pause Count:,16
+Pause Duration:,159
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,344.956085
+Resolution Scale,100.0

@@ -1,1 +1,57 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Auto Balanced Stair Dodge Robots - Challenge - 2021.09.27-05.47.38 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,05:46:22.391,ABSD Target T 01,ABSD Fully-auto,2.597s,53,40,0.755,240,318,0.755,false
+2,05:46:25.952,ABSD Target B 01,ABSD Fully-auto,2.948s,60,40,0.667,240,360,0.667,false
+3,05:46:29.771,ABSD Target T 02,ABSD Fully-auto,3.567s,70,40,0.571,240,420,0.571,false
+4,05:46:33.169,ABSD Target B 02,ABSD Fully-auto,3.147s,62,40,0.645,240,372,0.645,false
+5,05:46:36.684,ABSD Target T 03,ABSD Fully-auto,3.264s,60,40,0.667,240,360,0.667,false
+6,05:46:40.829,ABSD Target B 03,ABSD Fully-auto,3.894s,75,40,0.533,240,450,0.533,false
+7,05:46:44.167,ABSD Target T 04,ABSD Fully-auto,3.087s,60,40,0.667,240,360,0.667,false
+8,05:46:48.305,ABSD Target B 04,ABSD Fully-auto,3.548s,72,40,0.556,240,432,0.556,false
+9,05:46:53.298,ABSD Target T 05,ABSD Fully-auto,4.742s,93,40,0.43,240,558,0.43,false
+10,05:46:56.825,ABSD Target B 05,ABSD Fully-auto,3.277s,57,40,0.702,240,342,0.702,false
+11,05:47:01.406,ABSD Target T 06,ABSD Fully-auto,4.331s,83,40,0.482,240,498,0.482,false
+12,05:47:04.252,ABSD Target B 06,ABSD Fully-auto,2.594s,49,40,0.816,240,294,0.816,false
+13,05:47:07.998,ABSD Target T 07,ABSD Fully-auto,2.897s,59,40,0.678,240,354,0.678,false
+14,05:47:11.871,ABSD Target B 07,ABSD Fully-auto,3.573s,68,40,0.588,240,408,0.588,false
+15,05:47:16.080,ABSD Target T 08,ABSD Fully-auto,3.909s,72,40,0.556,240,432,0.556,false
+16,05:47:19.529,ABSD Target B 08,ABSD Fully-auto,2.848s,58,40,0.69,240,348,0.69,false
+17,05:47:23.664,ABSD Target T 09,ABSD Fully-auto,3.247s,66,40,0.606,240,396,0.606,false
+18,05:47:27.698,ABSD Target B 09,ABSD Fully-auto,3.782s,70,40,0.571,240,420,0.571,false
+19,05:47:33.024,ABSD Target T 10,ABSD Fully-auto,5.028s,96,40,0.417,240,576,0.417,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ABSD Fully-auto,1374,800,4800.0,8244.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,71.469002
+Avg TTK:,0.25
+Damage Done:,4800.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,22
+Reloads:,0
+Distance Traveled:,19357.917969
+Score:,10913.4375
+Scenario:,Auto Balanced Stair Dodge Robots
+Hash:,8ca6c16dcf82277fcdf26f7ebe13f5ea
+Game Version:,2.0.5.3
+Challenge Start:,05:46:19.104
+Pause Count:,13
+Pause Duration:,96
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.995087
+Resolution Scale,100.0

@@ -1,1 +1,46 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Cata IC Fast Strafes - Challenge - 2021.09.04-19.05.39 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:04:46.428,Quaker Bot Fast Strafes,LG,6.115s,134,50,0.373,300,804,0.373,false
+2,19:04:53.303,Quaker Bot Fast Strafes,LG,6.6s,112,50,0.446,300,672,0.446,false
+3,19:04:59.542,Quaker Bot Fast Strafes,LG,5.963s,97,50,0.515,300,582,0.515,false
+4,19:05:07.904,Quaker Bot Fast Strafes,LG,8.086s,144,50,0.347,300,864,0.347,false
+5,19:05:15.510,Quaker Bot Fast Strafes,LG,7.331s,128,50,0.391,300,768,0.391,false
+6,19:05:22.431,Quaker Bot Fast Strafes,LG,6.646s,113,50,0.442,300,678,0.442,false
+7,19:05:30.886,Quaker Bot Fast Strafes,LG,8.177s,147,50,0.34,300,882,0.34,false
+8,19:05:38.680,Quaker Bot Fast Strafes,LG,7.519s,131,50,0.382,300,786,0.382,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1008,400,2400.0,6048.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,56.437
+Avg TTK:,0
+Damage Done:,2400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2857.142822
+Scenario:,Cata IC Fast Strafes
+Hash:,ae0024fa5045348cf5200beda4716333
+Game Version:,2.0.5.3
+Challenge Start:,19:04:39.637
+Pause Count:,21
+Pause Duration:,92
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.805115
+Resolution Scale,100.0

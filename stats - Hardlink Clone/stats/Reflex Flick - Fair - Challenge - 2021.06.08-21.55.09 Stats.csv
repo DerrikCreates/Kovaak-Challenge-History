@@ -1,1 +1,80 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Reflex Flick - Fair - Challenge - 2021.06.08-21.55.09 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:54:10.767,target_decay,pistol,0.675s,2,1,0.5,25,100,0.25,false
+2,21:54:12.611,target_decay,pistol,1.059s,3,1,0.333,25,150,0.167,false
+3,21:54:13.444,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,21:54:14.324,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,21:54:14.962,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+6,21:54:17.387,target_decay,pistol,1.598s,3,1,0.333,25,150,0.167,false
+7,21:54:18.044,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+8,21:54:18.659,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,21:54:19.349,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,21:54:20.906,target_decay,pistol,0.847s,2,1,0.5,25,100,0.25,false
+11,21:54:21.607,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+12,21:54:23.143,target_decay,pistol,0.69s,2,1,0.5,25,100,0.25,false
+13,21:54:23.883,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,21:54:26.356,target_decay,pistol,1.816s,4,1,0.25,25,200,0.125,false
+15,21:54:27.097,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,21:54:28.695,target_decay,pistol,0.915s,3,1,0.333,25,150,0.167,false
+17,21:54:31.106,target_decay,pistol,1.691s,4,1,0.25,25,200,0.125,false
+18,21:54:31.987,target_decay,pistol,0.252s,2,1,0.5,25,100,0.25,false
+19,21:54:32.681,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+20,21:54:34.412,target_decay,pistol,1.064s,3,1,0.333,25,150,0.167,false
+21,21:54:35.244,target_decay,pistol,0.182s,2,1,0.5,25,100,0.25,false
+22,21:54:40.660,target_decay,pistol,4.668s,9,1,0.111,25,450,0.056,false
+23,21:54:42.257,target_decay,pistol,0.73s,2,1,0.5,25,100,0.25,false
+24,21:54:43.080,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+25,21:54:43.879,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+26,21:54:44.723,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+27,21:54:45.522,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+28,21:54:47.051,target_decay,pistol,0.73s,2,1,0.5,25,100,0.25,false
+29,21:54:51.424,target_decay,pistol,3.532s,6,1,0.167,25,300,0.083,false
+30,21:54:52.128,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+31,21:54:54.684,target_decay,pistol,1.644s,3,1,0.333,25,150,0.167,false
+32,21:54:56.178,target_decay,pistol,0.526s,2,1,0.5,25,100,0.25,false
+33,21:54:57.038,target_decay,pistol,0.188s,2,1,0.5,25,100,0.25,false
+34,21:54:57.899,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+35,21:55:00.621,target_decay,pistol,1.862s,4,1,0.25,25,200,0.125,false
+36,21:55:01.429,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+37,21:55:02.355,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+38,21:55:03.190,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+39,21:55:04.803,target_decay,pistol,0.707s,2,1,0.5,25,100,0.25,false
+40,21:55:05.697,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+41,21:55:07.371,target_decay,pistol,0.945s,3,1,0.333,25,150,0.167,false
+42,21:55:08.188,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,87,42,1050.0,4350.0,
+
+Kills:,42
+Deaths:,0
+Fight Time:,26.322001
+Avg TTK:,0
+Damage Done:,1050.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2027.586182
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.5.0
+Challenge Start:,21:54:09.339
+Pause Count:,11
+Pause Duration:,110
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,239.235291
+Resolution Scale,100.0

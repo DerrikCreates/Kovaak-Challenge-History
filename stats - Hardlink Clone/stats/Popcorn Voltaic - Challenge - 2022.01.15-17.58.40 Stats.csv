@@ -1,1 +1,47 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2022.01.15-17.58.40 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:57:48.199,Pigeon3,pistol,6.665s,5,1,0.2,100,1000,0.1,false
+2,17:57:58.485,Pigeon5,pistol,8.573s,5,1,0.2,100,1000,0.1,false
+3,17:58:08.264,Pigeon4,pistol,7.907s,5,1,0.2,100,1000,0.1,false
+4,17:58:14.166,Pigeon,pistol,4.487s,4,1,0.25,100,800,0.125,false
+5,17:58:16.168,Pigeon,pistol,0.001s,1,1,1,100,200,0.5,false
+6,17:58:17.737,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+7,17:58:19.153,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,32,7,700.0,6400.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,27.632999
+Avg TTK:,8.557
+Damage Done:,700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,25
+Distance Traveled:,0.0
+Score:,70.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.8.2
+Challenge Start:,17:57:40.396
+Pause Count:,8
+Pause Duration:,370
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,291.764343
+Resolution Scale,100.0

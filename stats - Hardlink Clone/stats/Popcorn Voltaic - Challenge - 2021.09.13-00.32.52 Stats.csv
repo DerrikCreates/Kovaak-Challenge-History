@@ -1,1 +1,57 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2021.09.13-00.32.52 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:31:53.940,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+2,00:31:55.194,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+3,00:31:57.978,Pigeon,pistol,1.282s,2,1,0.5,100,400,0.25,false
+4,00:31:59.245,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+5,00:32:02.995,Pigeon4,pistol,1.752s,2,1,0.5,100,400,0.25,false
+6,00:32:09.606,Pigeon3,pistol,5.555s,5,1,0.2,100,1000,0.1,false
+7,00:32:11.428,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+8,00:32:16.578,Pigeon3,pistol,3.763s,3,1,0.333,100,600,0.167,false
+9,00:32:19.376,Pigeon5,pistol,1.613s,2,1,0.5,100,400,0.25,false
+10,00:32:24.489,Pigeon4,pistol,3.862s,3,1,0.333,100,600,0.167,false
+11,00:32:25.793,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+12,00:32:27.208,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+13,00:32:32.049,Pigeon,pistol,3.485s,3,1,0.333,100,600,0.167,false
+14,00:32:33.816,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+15,00:32:35.466,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+16,00:32:36.830,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+17,00:32:41.283,Pigeon5,pistol,2.564s,2,1,0.5,100,400,0.25,false
+18,00:32:42.603,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+19,00:32:44.295,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,38,19,1900.0,7600.0,
+
+Kills:,19
+Deaths:,0
+Fight Time:,23.875999
+Avg TTK:,0
+Damage Done:,1900.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,19
+Distance Traveled:,0.0
+Score:,190.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,2.0.5.3
+Challenge Start:,00:31:52.534
+Pause Count:,44
+Pause Duration:,101
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.579834
+Resolution Scale,100.0

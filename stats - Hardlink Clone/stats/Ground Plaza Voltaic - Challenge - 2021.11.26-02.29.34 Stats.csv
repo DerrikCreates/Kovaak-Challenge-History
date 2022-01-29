@@ -1,1 +1,45 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Ground Plaza Voltaic - Challenge - 2021.11.26-02.29.34 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:27:28.811,air1_mixed_short_dash,LG,35.722s,3544,1200,0.339,1200,3544,0.339,false
+2,02:27:56.100,air_close_short,LG,27.037s,2598,1200,0.462,1200,2598,0.462,false
+3,02:28:24.270,air1_far_short,LG,27.911s,2688,1200,0.446,1200,2688,0.446,false
+4,02:29:02.101,air1F_close_short,LG,37.579s,3655,1200,0.328,1200,3655,0.328,false
+5,02:29:34.033,air1F_far_short,LG,31.919s,3092,1200,0.388,1200,3092,0.388,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,15578,6001,6001.0,15578.0,
+
+Kills:,5
+Deaths:,0
+Fight Time:,160.167999
+Avg TTK:,0
+Damage Done:,6001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,838.470825
+Scenario:,Ground Plaza Voltaic
+Hash:,0bb021f1164477dabde879d9cf2cc3b3
+Game Version:,v2.6.4
+Challenge Start:,02:26:52.504
+Pause Count:,18
+Pause Duration:,204
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.518341
+Resolution Scale,100.0

@@ -1,1 +1,55 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2022.01.21-15.17.32 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:16:35.869,Pigeon,pistol,2.162s,2,1,0.5,100,400,0.25,false
+2,15:16:40.820,Pigeon2,pistol,2.634s,2,1,0.5,100,400,0.25,false
+3,15:16:42.508,Pigeon5,pistol,0.001s,1,1,1,100,200,0.5,false
+4,15:16:51.843,Pigeon2,pistol,8.034s,7,1,0.143,100,1400,0.071,false
+5,15:16:58.048,Pigeon3,pistol,4.528s,4,1,0.25,100,800,0.125,false
+6,15:17:01.783,Pigeon3,pistol,1.752s,2,1,0.5,100,400,0.25,false
+7,15:17:03.326,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+8,15:17:05.310,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+9,15:17:09.406,Pigeon5,pistol,2.223s,2,1,0.5,100,400,0.25,false
+10,15:17:11.108,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+11,15:17:16.316,Pigeon,pistol,3.443s,3,1,0.333,100,600,0.167,false
+12,15:17:22.613,Pigeon,pistol,4.261s,4,1,0.25,100,800,0.125,false
+13,15:17:27.215,Pigeon2,pistol,2.802s,3,1,0.333,100,600,0.167,false
+14,15:17:29.049,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+15,15:17:32.479,Pigeon4,pistol,1.808s,2,1,0.5,100,400,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,36,15,1500.0,7200.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,33.647999
+Avg TTK:,4
+Damage Done:,1500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,21
+Distance Traveled:,0.0
+Score:,150.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.8.5
+Challenge Start:,15:16:32.587
+Pause Count:,19
+Pause Duration:,415
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.794647
+Resolution Scale,100.0

@@ -1,1 +1,49 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Splitgate Plaza - Challenge - 2021.11.20-20.59.02 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:58:07.135,Sergeant Bot,Carbine,4.348s,9,4,0.444,240,540,0.444,false
+2,20:58:12.991,Shinji Bot,Carbine,3.076s,8,4,0.5,220,480,0.458,false
+3,20:58:18.478,Rocket Flyer Bot,Carbine,2.846s,7,4,0.571,200,420,0.476,false
+4,20:58:28.211,Sergeant Bot,Carbine,6.916s,14,4,0.286,220,840,0.262,false
+5,20:58:33.132,Racer Bot,Carbine,2.313s,6,3,0.5,180,360,0.5,false
+6,20:58:41.042,McCoy Bot,Carbine,5.16s,12,4,0.333,220,720,0.306,false
+7,20:58:45.974,Shinji Bot,Carbine,2.471s,6,4,0.667,200,360,0.556,false
+8,20:58:52.789,Shinji Bot,Carbine,4.244s,10,4,0.4,220,600,0.367,false
+9,20:58:57.382,Shinji Bot,Carbine,2.152s,6,4,0.667,240,360,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Carbine,83,36,2000.0,4980.0,
+
+Kills:,9
+Deaths:,0
+Fight Time:,33.526001
+Avg TTK:,0
+Damage Done:,2000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2000.0
+Scenario:,Splitgate Plaza
+Hash:,ee2aed97aa38a8d16a8ea8dfba3191df
+Game Version:,v2.6.4
+Challenge Start:,20:58:02.652
+Pause Count:,10
+Pause Duration:,229
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,335.779999
+Resolution Scale,100.0

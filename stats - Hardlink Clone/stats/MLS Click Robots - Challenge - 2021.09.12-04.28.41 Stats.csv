@@ -1,1 +1,47 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/MLS Click Robots - Challenge - 2021.09.12-04.28.41 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:27:47.053,Quaker Bot Fast Strafes,Manwing,4.768s,10,4,0.4,400,1000,0.4,false
+2,04:27:56.058,Quaker Bot Fast Strafes,Manwing,7.302s,14,4,0.286,400,1400,0.286,false
+3,04:28:02.360,Quaker Bot Fast Strafes,Manwing,3.849s,8,4,0.5,400,800,0.5,false
+4,04:28:07.960,Quaker Bot Fast Strafes,Manwing,4.225s,9,4,0.444,400,900,0.444,false
+5,04:28:13.596,Quaker Bot Fast Strafes,Manwing,3.84s,8,4,0.5,400,800,0.5,false
+6,04:28:18.884,Quaker Bot Fast Strafes,Manwing,3.547s,8,4,0.5,400,800,0.5,false
+7,04:28:28.120,Quaker Bot Fast Strafes,Manwing,7.423s,15,4,0.267,400,1500,0.267,false
+8,04:28:32.651,Quaker Bot Fast Strafes,Manwing,2.399s,5,4,0.8,400,500,0.8,false
+9,04:28:37.476,Quaker Bot Fast Strafes,Manwing,3.08s,6,4,0.667,400,600,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,87,38,3800.0,8700.0,
+
+Kills:,9
+Deaths:,0
+Fight Time:,40.432999
+Avg TTK:,0
+Damage Done:,3800.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,11400.0
+Scenario:,MLS Click Robots
+Hash:,648367e92559283eed17904557891cf0
+Game Version:,2.0.5.3
+Challenge Start:,04:27:41.351
+Pause Count:,57
+Pause Duration:,387
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.860687
+Resolution Scale,100.0

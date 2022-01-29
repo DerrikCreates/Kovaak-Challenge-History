@@ -1,1 +1,60 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Manwing Strafe Gallery V3 Robots - Challenge - 2021.09.12-04.26.33 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:25:35.313,Watcher Bot Long Strafes,Manwing,1.228s,3,2,0.667,800,1200,0.667,false
+2,04:25:36.669,Watcher Bot Long Strafes,Manwing,0.483s,2,2,1,800,800,1,false
+3,04:25:39.881,Watcher Bot Long Strafes,Manwing,2.493s,6,2,0.333,800,2400,0.333,false
+4,04:25:41.955,Watcher Bot Long Strafes,Manwing,0.94s,2,2,1,800,800,1,false
+5,04:25:43.355,Watcher Bot Long Strafes,Manwing,0.638s,2,2,1,800,800,1,false
+6,04:25:45.680,Watcher Bot Long Strafes,Manwing,1.769s,4,2,0.5,600,1600,0.375,false
+7,04:25:46.976,Watcher Bot Long Strafes,Manwing,0.736s,2,2,1,800,800,1,false
+8,04:25:48.033,Watcher Bot Long Strafes,Manwing,0.531s,2,2,1,800,800,1,false
+9,04:25:49.201,Watcher Bot Long Strafes,Manwing,0.583s,2,2,1,800,800,1,false
+10,04:25:55.748,Watcher Bot Long Strafes,Manwing,5.966s,9,2,0.222,800,3600,0.222,false
+11,04:25:57.980,Watcher Bot Long Strafes,Manwing,1.61s,4,2,0.5,800,1600,0.5,false
+12,04:25:59.839,Watcher Bot Long Strafes,Manwing,1.244s,3,2,0.667,800,1200,0.667,false
+13,04:26:01.080,Watcher Bot Long Strafes,Manwing,0.57s,2,2,1,800,800,1,false
+14,04:26:02.866,Watcher Bot Long Strafes,Manwing,1.064s,3,2,0.667,800,1200,0.667,false
+15,04:26:08.226,Watcher Bot Long Strafes,Manwing,4.799s,7,2,0.286,800,2800,0.286,false
+16,04:26:14.754,Watcher Bot Long Strafes,Manwing,5.977s,9,2,0.222,800,3600,0.222,false
+17,04:26:17.781,Watcher Bot Long Strafes,Manwing,2.359s,5,3,0.6,1200,2000,0.6,false
+18,04:26:18.395,Watcher Bot Long Strafes,Manwing,0s,1,1,1,400,400,1,false
+19,04:26:20.171,Watcher Bot Long Strafes,Manwing,1.05s,3,2,0.667,800,1200,0.667,false
+20,04:26:21.419,Watcher Bot Long Strafes,Manwing,0.517s,2,2,1,800,800,1,false
+21,04:26:29.661,Watcher Bot Long Strafes,Manwing,7.564s,11,2,0.182,800,4400,0.182,false
+22,04:26:32.991,Watcher Bot Long Strafes,Manwing,2.232s,5,2,0.4,800,2000,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,89,44,17400.0,35600.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,44.353001
+Avg TTK:,0
+Damage Done:,17400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,87000.0
+Scenario:,Manwing Strafe Gallery V3 Robots
+Hash:,d2d81e7e1cb4620856ec143ba80f45fa
+Game Version:,2.0.5.3
+Challenge Start:,04:25:33.097
+Pause Count:,55
+Pause Duration:,385
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.392059
+Resolution Scale,100.0

@@ -1,1 +1,55 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Sparky - Challenge - 2021.09.19-05.20.25 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,05:19:30.644,Pigeon3,pistol,4.25s,3,1,0.333,100,600,0.167,false
+2,05:19:33.802,Pigeon,pistol,1.52s,2,1,0.5,100,400,0.25,false
+3,05:19:36.091,Pigeon4,pistol,1.346s,2,1,0.5,100,400,0.25,false
+4,05:19:38.884,Pigeon,pistol,1.215s,2,1,0.5,100,400,0.25,false
+5,05:19:42.526,Pigeon,pistol,2.585s,3,1,0.333,100,600,0.167,false
+6,05:19:43.504,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+7,05:19:45.205,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+8,05:19:47.769,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+9,05:19:57.110,Pigeon4,pistol,8.412s,5,1,0.2,100,1000,0.1,false
+10,05:19:59.944,Pigeon2,pistol,1.651s,2,1,0.5,100,400,0.25,false
+11,05:20:03.420,Pigeon5,pistol,1.883s,2,1,0.5,100,400,0.25,false
+12,05:20:04.588,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+13,05:20:09.351,Pigeon4,pistol,2.306s,2,1,0.5,100,400,0.25,false
+14,05:20:13.791,Pigeon3,pistol,3.377s,3,1,0.333,100,600,0.167,false
+15,05:20:15.443,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+16,05:20:18.229,Pigeon4,pistol,1.49s,2,1,0.5,100,400,0.25,false
+17,05:20:21.581,Pigeon,pistol,2.503s,3,1,0.333,100,600,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,37,17,1700.0,7400.0,
+
+Kills:,17
+Deaths:,0
+Fight Time:,32.537998
+Avg TTK:,0
+Damage Done:,1700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,20
+Distance Traveled:,0.0
+Score:,170.0
+Scenario:,Popcorn Sparky
+Hash:,59515d3a0a5808045985f4e8ef3ffb5e
+Game Version:,2.0.5.3
+Challenge Start:,05:19:25.174
+Pause Count:,14
+Pause Duration:,34
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.82608
+Resolution Scale,100.0

@@ -1,1 +1,132 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/1w4t_vbr Raspberry - Challenge - 2022.01.29-01.04.08 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:02:56.957,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+2,01:02:57.534,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+3,01:02:58.018,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+4,01:02:59.204,vbr_target,rsp_vbr_gun,0.566s,2,1,0.5,1,2,0.5,false
+5,01:02:59.760,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+6,01:03:00.612,vbr_target,rsp_vbr_gun,0.258s,2,1,0.5,1,2,0.5,false
+7,01:03:01.241,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+8,01:03:01.819,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+9,01:03:02.307,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+10,01:03:02.780,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+11,01:03:03.349,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+12,01:03:04.066,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+13,01:03:04.679,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+14,01:03:05.183,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+15,01:03:05.621,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+16,01:03:09.466,vbr_target,rsp_vbr_gun,3.323s,3,1,0.333,1,3,0.333,false
+17,01:03:10.071,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+18,01:03:10.660,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+19,01:03:11.146,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+20,01:03:11.716,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+21,01:03:12.879,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+22,01:03:13.659,vbr_target,rsp_vbr_gun,0.277s,2,1,0.5,1,2,0.5,false
+23,01:03:14.542,vbr_target,rsp_vbr_gun,0.26s,2,1,0.5,1,2,0.5,false
+24,01:03:15.128,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+25,01:03:15.728,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+26,01:03:16.451,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+27,01:03:16.983,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+28,01:03:17.568,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+29,01:03:18.186,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+30,01:03:19.012,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+31,01:03:19.562,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+32,01:03:20.116,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+33,01:03:20.641,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+34,01:03:21.292,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+35,01:03:21.956,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+36,01:03:22.553,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+37,01:03:22.985,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+38,01:03:24.183,vbr_target,rsp_vbr_gun,0.672s,2,1,0.5,1,2,0.5,false
+39,01:03:24.754,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+40,01:03:28.242,vbr_target,rsp_vbr_gun,3.019s,2,1,0.5,1,2,0.5,false
+41,01:03:28.795,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+42,01:03:29.285,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+43,01:03:29.740,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+44,01:03:30.846,vbr_target,rsp_vbr_gun,0.525s,2,1,0.5,1,2,0.5,false
+45,01:03:31.404,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+46,01:03:31.985,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+47,01:03:32.597,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+48,01:03:33.719,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+49,01:03:34.295,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+50,01:03:34.761,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+51,01:03:35.394,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+52,01:03:35.948,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+53,01:03:36.399,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+54,01:03:37.509,vbr_target,rsp_vbr_gun,0.562s,2,1,0.5,1,2,0.5,false
+55,01:03:38.105,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+56,01:03:38.656,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+57,01:03:39.248,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+58,01:03:39.781,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+59,01:03:40.370,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+60,01:03:40.942,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+61,01:03:41.415,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+62,01:03:42.004,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+63,01:03:42.583,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+64,01:03:43.134,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+65,01:03:44.166,vbr_target,rsp_vbr_gun,0.553s,2,1,0.5,1,2,0.5,false
+66,01:03:47.802,vbr_target,rsp_vbr_gun,3.085s,2,1,0.5,1,2,0.5,false
+67,01:03:48.375,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+68,01:03:48.904,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+69,01:03:49.385,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+70,01:03:50.535,vbr_target,rsp_vbr_gun,0.578s,2,1,0.5,1,2,0.5,false
+71,01:03:50.992,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+72,01:03:51.580,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+73,01:03:52.214,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+74,01:03:53.398,vbr_target,rsp_vbr_gun,0.598s,2,1,0.5,1,2,0.5,false
+75,01:03:53.958,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+76,01:03:54.515,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+77,01:03:55.156,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+78,01:03:55.642,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+79,01:03:56.191,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+80,01:03:57.363,vbr_target,rsp_vbr_gun,0.606s,2,1,0.5,1,2,0.5,false
+81,01:04:01.295,vbr_target,rsp_vbr_gun,3.716s,3,1,0.333,1,3,0.333,false
+82,01:04:01.822,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+83,01:04:02.367,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+84,01:04:03.120,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+85,01:04:03.700,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+86,01:04:04.370,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+87,01:04:04.859,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+88,01:04:05.416,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+89,01:04:05.876,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+90,01:04:06.481,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+91,01:04:07.009,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+92,01:04:07.487,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+rsp_vbr_gun,109,92,92.0,109.0,
+
+Kills:,92
+Deaths:,0
+Fight Time:,18.614
+Avg TTK:,0.782
+Damage Done:,92.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,87.75
+Scenario:,1w4t_vbr Raspberry
+Hash:,a16ebad58d167b199aaf323c5fdd5e05
+Game Version:,v2.8.6
+Challenge Start:,01:02:56.172
+Pause Count:,13
+Pause Duration:,67
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,256.401093
+Resolution Scale,100.0

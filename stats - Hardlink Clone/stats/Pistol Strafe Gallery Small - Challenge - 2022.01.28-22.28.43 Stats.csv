@@ -1,1 +1,63 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pistol Strafe Gallery Small - Challenge - 2022.01.28-22.28.43 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:27:47.096,Watcher Bot Long Strafes,pistol,1.854s,7,2,0.286,800,2800,0.286,false
+2,22:27:50.002,Watcher Bot Long Strafes,pistol,1.977s,5,2,0.4,800,2000,0.4,false
+3,22:27:51.328,Watcher Bot Long Strafes,pistol,0.857s,3,2,0.667,800,1200,0.667,false
+4,22:27:52.887,Watcher Bot Long Strafes,pistol,0.79s,3,2,0.667,800,1200,0.667,false
+5,22:27:54.514,Watcher Bot Long Strafes,pistol,1.001s,3,2,0.667,600,1200,0.5,false
+6,22:27:56.756,Watcher Bot Long Strafes,pistol,1.713s,4,2,0.5,800,1600,0.5,false
+7,22:27:57.897,Watcher Bot Long Strafes,pistol,0.443s,2,2,1,800,800,1,false
+8,22:28:01.507,Watcher Bot Long Strafes,pistol,2.906s,5,2,0.4,800,2000,0.4,false
+9,22:28:03.729,Watcher Bot Long Strafes,pistol,1.357s,3,2,0.667,800,1200,0.667,false
+10,22:28:08.346,Watcher Bot Long Strafes,pistol,3.901s,7,2,0.286,800,2800,0.286,false
+11,22:28:09.840,Watcher Bot Long Strafes,pistol,0.889s,3,2,0.667,800,1200,0.667,false
+12,22:28:12.161,Watcher Bot Long Strafes,pistol,1.133s,3,2,0.667,800,1200,0.667,false
+13,22:28:13.711,Watcher Bot Long Strafes,pistol,0.961s,3,2,0.667,800,1200,0.667,false
+14,22:28:18.025,Watcher Bot Long Strafes,pistol,2.917s,5,2,0.4,600,2000,0.3,false
+15,22:28:20.125,Watcher Bot Long Strafes,pistol,1.275s,3,2,0.667,800,1200,0.667,false
+16,22:28:23.032,Watcher Bot Long Strafes,pistol,2.259s,5,2,0.4,800,2000,0.4,false
+17,22:28:24.511,Watcher Bot Long Strafes,pistol,0.938s,3,2,0.667,600,1200,0.5,false
+18,22:28:25.796,Watcher Bot Long Strafes,pistol,0.589s,2,2,1,800,800,1,false
+19,22:28:28.765,Watcher Bot Long Strafes,pistol,2.071s,6,2,0.333,800,2400,0.333,false
+20,22:28:33.970,Watcher Bot Long Strafes,pistol,2.994s,4,2,0.5,800,1600,0.5,false
+21,22:28:36.436,Watcher Bot Long Strafes,pistol,1.8s,5,2,0.4,800,2000,0.4,false
+22,22:28:40.840,Watcher Bot Long Strafes,pistol,2.75s,4,2,0.5,800,1600,0.5,false
+23,22:28:42.696,Watcher Bot Long Strafes,pistol,1.062s,3,2,0.667,800,1200,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,93,47,18200.0,37200.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,38.437
+Avg TTK:,2.609
+Damage Done:,18200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,91000.0
+Scenario:,Pistol Strafe Gallery Small
+Hash:,aa2c9f835e32f48136aaf900b8ac692f
+Game Version:,v2.8.6
+Challenge Start:,22:27:43.856
+Pause Count:,38
+Pause Duration:,193
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.40625
+Resolution Scale,100.0

@@ -1,1 +1,71 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu Small Pure - Challenge - 2022.01.03-01.45.52 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:45:11.784,test,pistol,1.096s,3,1,0.333,1000,6000,0.167,false
+2,01:45:12.359,test,pistol,0s,1,1,1,1000,2000,0.5,false
+3,01:45:17.980,test,pistol,5.037s,9,1,0.111,1000,18000,0.056,false
+4,01:45:20.389,test,pistol,1.694s,3,1,0.333,1000,6000,0.167,false
+5,01:45:21.970,test,pistol,0.651s,3,1,0.333,1000,6000,0.167,false
+6,01:45:24.216,test,pistol,1.382s,3,1,0.333,1000,6000,0.167,false
+7,01:45:24.887,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+8,01:45:25.629,test,pistol,0s,1,1,1,1000,2000,0.5,false
+9,01:45:27.559,test,pistol,1.13s,3,1,0.333,1000,6000,0.167,false
+10,01:45:28.170,test,pistol,0s,1,1,1,1000,2000,0.5,false
+11,01:45:28.852,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+12,01:45:29.527,test,pistol,0s,1,1,1,1000,2000,0.5,false
+13,01:45:31.015,test,pistol,0.712s,3,1,0.333,1000,6000,0.167,false
+14,01:45:31.714,test,pistol,0s,1,1,1,1000,2000,0.5,false
+15,01:45:32.575,test,pistol,0s,1,1,1,1000,2000,0.5,false
+16,01:45:33.165,test,pistol,0s,1,1,1,1000,2000,0.5,false
+17,01:45:35.607,test,pistol,1.763s,4,1,0.25,1000,8000,0.125,false
+18,01:45:36.191,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+19,01:45:36.725,test,pistol,0s,1,1,1,1000,2000,0.5,false
+20,01:45:38.471,test,pistol,1.004s,3,1,0.333,1000,6000,0.167,false
+21,01:45:40.295,test,pistol,0.974s,3,1,0.333,1000,6000,0.167,false
+22,01:45:41.030,test,pistol,0s,1,1,1,1000,2000,0.5,false
+23,01:45:41.667,test,pistol,0s,1,1,1,1000,2000,0.5,false
+24,01:45:42.400,test,pistol,0.592s,2,1,0.5,1000,4000,0.25,false
+25,01:45:44.982,test,pistol,1.906s,4,1,0.25,1000,8000,0.125,false
+26,01:45:45.690,test,pistol,0s,1,1,1,1000,2000,0.5,false
+27,01:45:47.254,test,pistol,0.878s,2,1,0.5,1000,4000,0.25,false
+28,01:45:48.362,test,pistol,0.547s,2,1,0.5,1000,4000,0.25,false
+29,01:45:49.044,test,pistol,0s,1,1,1,1000,2000,0.5,false
+30,01:45:49.619,test,pistol,0s,1,1,1,1000,2000,0.5,false
+31,01:45:50.813,test,pistol,0.465s,2,1,0.5,1000,4000,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,68,31,31000.0,136000.0,
+
+Kills:,31
+Deaths:,0
+Fight Time:,19.834
+Avg TTK:,1.968
+Damage Done:,31000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,31.0
+Scenario:,Pasu Small Pure
+Hash:,f3ebed11c004823c79a11fd47305719c
+Game Version:,v2.8.2
+Challenge Start:,01:45:09.856
+Pause Count:,4
+Pause Duration:,310
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,424.991394
+Resolution Scale,100.0

@@ -1,1 +1,46 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Air no UFO no SKYBOTS - Challenge - 2021.09.04-19.16.27 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:13:13.545,air1_close_long,Track Master 100,16.376s,1639,1000,0.61,1000,1639,0.61,false
+2,19:13:33.276,air1_far_long,Track Master 100,19.481s,1727,1000,0.579,1000,1727,0.579,false
+3,19:13:54.821,air_close_short,Track Master 100,21.294s,1985,1000,0.504,1000,1985,0.504,false
+4,19:14:22.577,air1_far_short,Track Master 100,27.498s,2610,1000,0.383,1000,2610,0.383,false
+5,19:14:48.153,air1F_close_long,Track Master 100,25.317s,2397,1000,0.417,1000,2397,0.417,false
+6,19:15:09.090,air1F_far_long,Track Master 100,20.679s,1915,1000,0.522,1000,1915,0.522,false
+7,19:15:40.627,air1F_close_short,Track Master 100,31.286s,2985,1000,0.335,1000,2985,0.335,false
+8,19:16:27.013,air1F_far_short,Track Master 100,46.372s,3098,1000,0.323,1000,3098,0.323,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,18357,8001,8001.0,18357.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,208.302994
+Avg TTK:,0
+Damage Done:,8001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,137.236755
+Score:,803.193542
+Scenario:,Air no UFO no SKYBOTS
+Hash:,981909ac0525e28575755aed615eef63
+Game Version:,2.0.5.3
+Challenge Start:,19:15:55.404
+Pause Count:,28
+Pause Duration:,174
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.665833
+Resolution Scale,100.0

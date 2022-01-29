@@ -1,1 +1,86 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu Dodge - Challenge - 2021.09.20-04.31.08 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:30:09.723,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+2,04:30:10.839,test360,pistol,0.679s,2,1,0.5,1000,5000,0.2,false
+3,04:30:11.418,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+4,04:30:12.309,test360,pistol,0.367s,2,1,0.5,1000,5000,0.2,false
+5,04:30:12.885,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+6,04:30:13.917,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+7,04:30:14.564,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+8,04:30:15.969,test360,pistol,0.851s,3,1,0.333,1000,7500,0.133,false
+9,04:30:16.790,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+10,04:30:17.625,test360,pistol,0.197s,2,1,0.5,1000,5000,0.2,false
+11,04:30:19.616,test360,pistol,0.962s,2,1,0.5,1000,5000,0.2,false
+12,04:30:20.461,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+13,04:30:21.113,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+14,04:30:21.801,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+15,04:30:22.676,test360,pistol,0.341s,2,1,0.5,1000,5000,0.2,false
+16,04:30:23.595,test360,pistol,0.273s,2,1,0.5,1000,5000,0.2,false
+17,04:30:24.613,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+18,04:30:27.008,test360,pistol,1.046s,3,1,0.333,1000,7500,0.133,false
+19,04:30:27.799,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+20,04:30:29.714,test360,pistol,0.862s,3,1,0.333,1000,7500,0.133,false
+21,04:30:30.623,test360,pistol,0.361s,2,1,0.5,1000,5000,0.2,false
+22,04:30:31.078,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+23,04:30:32.903,test360,pistol,1.311s,3,1,0.333,1000,7500,0.133,false
+24,04:30:33.588,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+25,04:30:36.342,test360,pistol,1.453s,5,1,0.2,1000,12500,0.08,false
+26,04:30:36.869,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+27,04:30:38.558,test360,pistol,1.02s,3,1,0.333,1000,7500,0.133,false
+28,04:30:40.449,test360,pistol,1.458s,4,1,0.25,1000,10000,0.1,false
+29,04:30:43.452,test360,pistol,2.299s,5,1,0.2,1000,12500,0.08,false
+30,04:30:49.086,test360,pistol,4.997s,2,1,0.5,1000,5000,0.2,false
+31,04:30:49.696,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+32,04:30:50.192,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+33,04:30:52.874,test360,pistol,1.182s,2,1,0.5,1000,5000,0.2,false
+34,04:30:53.910,test360,pistol,0.001s,1,1,1,1000,2500,0.4,false
+35,04:30:54.696,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+36,04:30:56.205,test360,pistol,1.02s,3,1,0.333,1000,7500,0.133,false
+37,04:30:57.226,test360,pistol,0.26s,2,1,0.5,1000,5000,0.2,false
+38,04:30:57.726,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+39,04:30:59.911,test360,pistol,1.24s,3,1,0.333,1000,7500,0.133,false
+40,04:31:00.312,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+41,04:31:01.655,test360,pistol,0.767s,3,1,0.333,1000,7500,0.133,false
+42,04:31:02.452,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+43,04:31:04.398,test360,pistol,0.575s,3,1,0.333,1000,7500,0.133,false
+44,04:31:05.129,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+45,04:31:06.209,test360,pistol,0.273s,2,1,0.5,1000,5000,0.2,false
+46,04:31:06.782,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+47,04:31:07.553,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+48,04:31:08.503,test360,pistol,0.538s,2,1,0.5,1000,5000,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,89,48,48000.0,222500.0,
+
+Kills:,48
+Deaths:,0
+Fight Time:,24.337
+Avg TTK:,0
+Damage Done:,48000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,144000.0
+Scenario:,Pasu Dodge
+Hash:,c7d02fdfd026c163dfab5484ffbfda9f
+Game Version:,2.0.5.3
+Challenge Start:,04:30:08.980
+Pause Count:,45
+Pause Duration:,858
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.872955
+Resolution Scale,100.0

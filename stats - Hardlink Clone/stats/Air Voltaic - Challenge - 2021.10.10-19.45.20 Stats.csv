@@ -1,1 +1,47 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Air Voltaic - Challenge - 2021.10.10-19.45.20 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:42:03.121,air1_far_long,Track Master 100,18.649s,1866,1000,0.536,1000,1866,0.536,false
+2,19:42:38.022,air1_far_short,Track Master 100,34.648s,3327,1000,0.301,1000,3327,0.301,false
+3,19:43:08.936,air1F_close_long,Track Master 100,30.662s,2843,1000,0.352,1000,2843,0.352,false
+4,19:43:42.598,air1F_close_short 7,Track Master 100,33.404s,3201,1000,0.312,1000,3201,0.312,false
+5,19:44:08.022,air1F_far_long,Track Master 100,25.167s,2327,1000,0.43,1000,2327,0.43,false
+6,19:44:34.810,air_close_short,Track Master 100,26.535s,2485,1000,0.402,1000,2485,0.402,false
+7,19:45:20.281,air1F_far_short,Track Master 100,45.455s,4401,1000,0.227,1000,4401,0.227,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,20451,7001,7001.0,20451.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,214.520004
+Avg TTK:,0
+Damage Done:,7001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.000002
+Score:,783.558777
+Scenario:,Air Voltaic
+Hash:,0d45053cc58f27dda5a5d6fe30ad780d
+Game Version:,v2.6.1
+Challenge Start:,19:41:43.838
+Pause Count:,46
+Pause Duration:,865
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.198303
+Resolution Scale,100.0

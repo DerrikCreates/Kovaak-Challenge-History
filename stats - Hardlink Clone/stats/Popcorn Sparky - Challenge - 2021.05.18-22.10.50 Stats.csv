@@ -1,1 +1,42 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Sparky - Challenge - 2021.05.18-22.10.50 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:10:00.157,Pigeon,pistol,44.142s,6,1,0.167,100,1200,0.083,false
+2,22:10:07.072,Pigeon2,pistol,5.87s,4,1,0.25,100,800,0.125,false
+3,22:10:18.048,Pigeon3,pistol,9.334s,5,1,0.2,100,1000,0.1,false
+4,22:10:23.782,Pigeon2,pistol,3.726s,3,1,0.333,100,600,0.167,false
+5,22:10:27.388,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+6,22:10:42.443,Pigeon,pistol,12.608s,7,1,0.143,100,1400,0.071,false
+7,22:10:46.131,Pigeon,pistol,1.382s,2,1,0.5,100,400,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,29,7,700.0,5800.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,77.061996
+Avg TTK:,0
+Damage Done:,700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,70.0
+Scenario:,Popcorn Sparky
+Hash:,59515d3a0a5808045985f4e8ef3ffb5e
+Game Version:,2.0.4.0
+Challenge Start:,22:09:51.903
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,159.716049
+Resolution Scale,100.0

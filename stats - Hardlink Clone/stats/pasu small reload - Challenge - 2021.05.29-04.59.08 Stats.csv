@@ -1,1 +1,97 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/pasu small reload - Challenge - 2021.05.29-04.59.08 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:57:43.878,test,pistol,0s,1,1,1,1000,2000,0.5,false
+2,04:57:46.261,test,pistol,1.121s,3,1,0.333,1000,6000,0.167,false
+3,04:57:48.129,test,pistol,0.406s,2,1,0.5,1000,4000,0.25,false
+4,04:57:48.713,test,pistol,0s,1,1,1,1000,2000,0.5,false
+5,04:57:49.681,test,pistol,0.392s,2,1,0.5,1000,4000,0.25,false
+6,04:57:51.013,test,pistol,0.71s,3,1,0.333,1000,6000,0.167,false
+7,04:57:51.621,test,pistol,0s,1,1,1,1000,2000,0.5,false
+8,04:57:54.402,test,pistol,2.173s,5,1,0.2,1000,10000,0.1,false
+9,04:57:55.371,test,pistol,0.402s,2,1,0.5,1000,4000,0.25,false
+10,04:57:56.302,test,pistol,0s,1,1,1,1000,2000,0.5,false
+11,04:57:57.101,test,pistol,0s,1,1,1,1000,2000,0.5,false
+12,04:57:59.365,test,pistol,0.501s,2,1,0.5,1000,4000,0.25,false
+13,04:58:00.060,test,pistol,0s,1,1,1,1000,2000,0.5,false
+14,04:58:00.712,test,pistol,0s,1,1,1,1000,2000,0.5,false
+15,04:58:01.669,test,pistol,0s,1,1,1,1000,2000,0.5,false
+16,04:58:02.884,test,pistol,0.497s,3,1,0.333,1000,6000,0.167,false
+17,04:58:03.627,test,pistol,0s,1,1,1,1000,2000,0.5,false
+18,04:58:04.524,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,04:58:05.206,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+20,04:58:05.854,test,pistol,0s,1,1,1,1000,2000,0.5,false
+21,04:58:07.698,test,pistol,1.222s,4,1,0.25,1000,8000,0.125,false
+22,04:58:08.753,test,pistol,0.315s,2,1,0.5,1000,4000,0.25,false
+23,04:58:09.744,test,pistol,0.393s,2,1,0.5,1000,4000,0.25,false
+24,04:58:10.716,test,pistol,0.83s,2,1,0.5,1000,4000,0.25,false
+25,04:58:12.418,test,pistol,1.149s,3,1,0.333,1000,6000,0.167,false
+26,04:58:14.141,test,pistol,1.017s,2,1,0.5,1000,4000,0.25,false
+27,04:58:14.775,test,pistol,0s,1,1,1,1000,2000,0.5,false
+28,04:58:15.441,test,pistol,0s,1,1,1,1000,2000,0.5,false
+29,04:58:17.289,test,pistol,1.014s,3,1,0.333,1000,6000,0.167,false
+30,04:58:19.815,test,pistol,1.686s,4,1,0.25,1000,8000,0.125,false
+31,04:58:21.437,test,pistol,0.913s,3,1,0.333,1000,6000,0.167,false
+32,04:58:23.449,test,pistol,0.839s,3,1,0.333,1000,6000,0.167,false
+33,04:58:24.639,test,pistol,0.628s,3,1,0.333,1000,6000,0.167,false
+34,04:58:25.190,test,pistol,0s,1,1,1,1000,2000,0.5,false
+35,04:58:26.366,test,pistol,0s,1,1,1,1000,2000,0.5,false
+36,04:58:26.983,test,pistol,0s,1,1,1,1000,2000,0.5,false
+37,04:58:29.295,test,pistol,1.667s,4,1,0.25,1000,8000,0.125,false
+38,04:58:31.371,test,pistol,1.529s,4,1,0.25,1000,8000,0.125,false
+39,04:58:32.117,test,pistol,0s,1,1,1,1000,2000,0.5,false
+40,04:58:33.138,test,pistol,0.313s,2,1,0.5,1000,4000,0.25,false
+41,04:58:34.207,test,pistol,0.534s,2,1,0.5,1000,4000,0.25,false
+42,04:58:34.960,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+43,04:58:36.716,test,pistol,1.185s,3,1,0.333,1000,6000,0.167,false
+44,04:58:37.277,test,pistol,0s,1,1,1,1000,2000,0.5,false
+45,04:58:41.587,test,pistol,3.138s,6,1,0.167,1000,12000,0.083,false
+46,04:58:43.667,test,pistol,1.322s,4,1,0.25,1000,8000,0.125,false
+47,04:58:45.460,test,pistol,0.356s,2,1,0.5,1000,4000,0.25,false
+48,04:58:46.645,test,pistol,0s,1,1,1,1000,2000,0.5,false
+49,04:58:48.214,test,pistol,0.664s,2,1,0.5,1000,4000,0.25,false
+50,04:58:51.502,test,pistol,2.546s,4,1,0.25,1000,8000,0.125,false
+51,04:58:53.000,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+52,04:58:55.035,test,pistol,0.813s,2,1,0.5,1000,4000,0.25,false
+53,04:58:56.019,test,pistol,0s,1,1,1,1000,2000,0.5,false
+54,04:58:57.282,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+55,04:58:58.328,test,pistol,0s,1,1,1,1000,2000,0.5,false
+56,04:58:59.463,test,pistol,0.277s,2,1,0.5,1000,4000,0.25,false
+57,04:59:01.471,test,pistol,1.209s,3,1,0.333,1000,6000,0.167,false
+58,04:59:02.356,test,pistol,0s,1,1,1,1000,2000,0.5,false
+59,04:59:04.273,test,pistol,0.962s,2,1,0.5,1000,4000,0.25,false
+60,04:59:05.063,test,pistol,0s,1,1,1,1000,2000,0.5,false
+61,04:59:06.154,test,pistol,0s,1,1,1,1000,2000,0.5,false
+62,04:59:07.049,test,pistol,0s,1,1,1,1000,2000,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,125,62,62000.0,250000.0,
+
+Kills:,62
+Deaths:,0
+Fight Time:,32.727001
+Avg TTK:,0
+Damage Done:,62000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,62.0
+Scenario:,pasu small reload
+Hash:,a37d2ba4f3f33d59ae7018e37445a5e9
+Game Version:,2.0.4.0
+Challenge Start:,04:57:42.909
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,425.035522
+Resolution Scale,100.0

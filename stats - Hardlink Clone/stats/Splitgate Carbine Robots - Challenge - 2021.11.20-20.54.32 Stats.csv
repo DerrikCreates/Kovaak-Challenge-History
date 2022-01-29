@@ -1,1 +1,53 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Splitgate Carbine Robots - Challenge - 2021.11.20-20.54.32 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:53:35.855,Sergeant Bot,Carbine,1.939s,5,3,0.6,280,700,0.4,false
+2,20:53:39.443,Rocket Flyer Bot,Carbine,1.349s,4,3,0.75,210,560,0.375,false
+3,20:53:45.984,Sergeant Bot,Carbine,4.661s,11,3,0.273,210,1540,0.136,false
+4,20:53:51.348,Sergeant Bot,Carbine,2.999s,7,3,0.429,280,980,0.286,false
+5,20:53:55.650,Rocket Flyer Bot,Carbine,1.676s,5,2,0.4,210,700,0.3,false
+6,20:54:02.236,Sergeant Bot,Carbine,4.547s,11,3,0.273,210,1540,0.136,false
+7,20:54:06.268,Rocket Flyer Bot,Carbine,1.32s,4,3,0.75,210,560,0.375,false
+8,20:54:09.635,Rocket Flyer Bot,Carbine,1.102s,3,3,1,210,420,0.5,false
+9,20:54:16.236,Sergeant Bot,Carbine,4.148s,10,3,0.3,210,1400,0.15,false
+10,20:54:21.293,Sergeant Bot,Carbine,2.736s,7,3,0.429,210,980,0.214,false
+11,20:54:24.907,Sergeant Bot,Carbine,1.743s,5,3,0.6,210,700,0.3,false
+12,20:54:28.600,Sergeant Bot,Carbine,1.736s,5,3,0.6,210,700,0.3,false
+13,20:54:32.637,Rocket Flyer Bot,Carbine,2.162s,6,3,0.5,210,840,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Carbine,83,38,2870.0,11620.0,
+
+Kills:,13
+Deaths:,0
+Fight Time:,32.118
+Avg TTK:,0
+Damage Done:,2870.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,55.519531
+Score:,2870.0
+Scenario:,Splitgate Carbine Robots
+Hash:,4222a3cd88cf75518f069f152a00bfa5
+Game Version:,v2.6.4
+Challenge Start:,20:53:32.782
+Pause Count:,6
+Pause Duration:,225
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.060577
+Resolution Scale,100.0

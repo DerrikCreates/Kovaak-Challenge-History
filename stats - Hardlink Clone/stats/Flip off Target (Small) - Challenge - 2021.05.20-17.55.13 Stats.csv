@@ -1,1 +1,55 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Flip off Target (Small) - Challenge - 2021.05.20-17.55.13 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:54:16.240,right_angle,pistol,2.345s,6,4,0.667,40,120,0.333,false
+2,17:54:19.494,right_angle,pistol,2.569s,6,4,0.667,40,120,0.333,false
+3,17:54:22.514,right_angle,pistol,2.191s,4,4,1,40,80,0.5,false
+4,17:54:25.882,right_angle,pistol,2.767s,7,4,0.571,40,140,0.286,false
+5,17:54:28.565,right_angle,pistol,1.965s,4,4,1,40,80,0.5,false
+6,17:54:31.255,right_angle,pistol,1.892s,4,4,1,40,80,0.5,false
+7,17:54:34.111,right_angle,pistol,1.917s,4,4,1,40,80,0.5,false
+8,17:54:36.867,right_angle,pistol,1.97s,5,4,0.8,40,100,0.4,false
+9,17:54:39.739,right_angle,pistol,2.106s,5,4,0.8,40,100,0.4,false
+10,17:54:43.172,right_angle,pistol,2.743s,6,4,0.667,40,120,0.333,false
+11,17:54:46.517,right_angle,pistol,2.337s,5,4,0.8,40,100,0.4,false
+12,17:54:49.389,right_angle,pistol,2.204s,5,4,0.8,40,100,0.4,false
+13,17:54:52.496,right_angle,pistol,2.351s,5,4,0.8,40,100,0.4,false
+14,17:54:55.307,right_angle,pistol,1.999s,4,4,1,40,80,0.5,false
+15,17:54:58.047,right_angle,pistol,1.998s,4,4,1,40,80,0.5,false
+16,17:55:01.306,right_angle,pistol,2.548s,6,4,0.667,40,120,0.333,false
+17,17:55:04.107,right_angle,pistol,1.948s,4,4,1,40,80,0.5,false
+18,17:55:06.803,right_angle,pistol,1.967s,4,4,1,40,80,0.5,false
+19,17:55:10.042,right_angle,pistol,2.5s,6,4,0.667,40,120,0.333,false
+20,17:55:12.765,right_angle,pistol,2.085s,5,4,0.8,40,100,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,99,80,800.0,1980.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,44.402
+Avg TTK:,0
+Damage Done:,800.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,54.973804
+Score:,1454.54541
+Scenario:,Flip off Target (Small)
+Hash:,822df63405c51174eebbd3348b16cecc
+Game Version:,2.0.4.0
+Challenge Start:,17:54:13.138
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.399872
+Resolution Scale,100.0

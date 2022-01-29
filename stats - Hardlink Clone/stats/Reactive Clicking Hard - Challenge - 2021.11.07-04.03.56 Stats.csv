@@ -1,1 +1,84 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Reactive Clicking Hard - Challenge - 2021.11.07-04.03.56 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:02:58.005,RS Target L,pistol,0.891s,2,2,1,60,120,0.5,false
+2,04:02:58.606,RS Target BR,pistol,0.202s,1,0,0,0,60,0,false
+3,04:03:01.005,RS Target BL,pistol,0.88s,3,1,0.333,30,180,0.167,false
+4,04:03:02.307,RS Target TL,pistol,1.299s,3,1,0.333,30,180,0.167,false
+5,04:03:03.200,RS Target TR,pistol,0.886s,3,2,0.667,60,180,0.333,false
+6,04:03:04.301,RS Target TL,pistol,0.571s,2,2,1,60,120,0.5,false
+7,04:03:05.688,RS Target BL,pistol,0.494s,2,2,1,60,120,0.5,false
+8,04:03:07.403,RS Target R,pistol,1.131s,3,1,0.333,30,180,0.167,false
+9,04:03:08.417,RS Target TR,pistol,1.011s,3,2,0.667,60,180,0.333,false
+10,04:03:09.907,RS Target TL,pistol,0.873s,2,1,0.5,30,120,0.25,false
+11,04:03:11.119,RS Target BL,pistol,1.108s,3,1,0.333,30,180,0.167,false
+12,04:03:12.441,RS Target TR,pistol,1.275s,3,2,0.667,60,180,0.333,false
+13,04:03:13.820,RS Target L,pistol,0.893s,2,1,0.5,30,120,0.25,false
+14,04:03:15.206,RS Target BR,pistol,1.295s,3,1,0.333,30,180,0.167,false
+15,04:03:16.921,RS Target BR,pistol,1.712s,3,1,0.333,30,180,0.167,false
+16,04:03:18.344,RS Target R,pistol,1.42s,3,1,0.333,30,180,0.167,false
+17,04:03:21.022,RS Target L,pistol,2.676s,6,1,0.167,30,360,0.083,false
+18,04:03:22.143,RS Target T,pistol,0.571s,2,2,1,60,120,0.5,false
+19,04:03:23.309,RS Target TL,pistol,0.507s,2,2,1,60,120,0.5,false
+20,04:03:24.591,RS Target BR,pistol,0.759s,3,2,0.667,60,180,0.333,false
+21,04:03:26.245,RS Target BL,pistol,1.194s,3,1,0.333,30,180,0.167,false
+22,04:03:27.911,RS Target TL,pistol,1.588s,3,1,0.333,30,180,0.167,false
+23,04:03:28.966,RS Target R,pistol,0.474s,2,2,1,60,120,0.5,false
+24,04:03:30.549,RS Target T,pistol,0.862s,3,1,0.333,30,180,0.167,false
+25,04:03:32.453,RS Target BR,pistol,1.852s,3,1,0.333,30,180,0.167,false
+26,04:03:33.912,RS Target T,pistol,1.398s,3,1,0.333,30,180,0.167,false
+27,04:03:34.861,RS Target T,pistol,0.491s,2,2,1,60,120,0.5,false
+28,04:03:36.104,RS Target TR,pistol,0.481s,2,2,1,60,120,0.5,false
+29,04:03:37.504,RS Target BL,pistol,0.85s,3,2,0.667,60,180,0.333,false
+30,04:03:38.749,RS Target L,pistol,0.752s,3,2,0.667,60,180,0.333,false
+31,04:03:39.860,RS Target BL,pistol,0.574s,2,2,1,60,120,0.5,false
+32,04:03:41.307,RS Target T,pistol,0.869s,3,1,0.333,30,180,0.167,false
+33,04:03:42.652,RS Target L,pistol,0.866s,2,1,0.5,30,120,0.25,false
+34,04:03:43.982,RS Target TL,pistol,1.209s,3,2,0.667,60,180,0.333,false
+35,04:03:45.173,RS Target TL,pistol,0.517s,2,2,1,60,120,0.5,false
+36,04:03:46.485,RS Target T,pistol,0.835s,2,1,0.5,30,120,0.25,false
+37,04:03:47.956,RS Target BL,pistol,0.818s,2,1,0.5,30,120,0.25,false
+38,04:03:49.174,RS Target B,pistol,0.835s,2,1,0.5,30,120,0.25,false
+39,04:03:50.000,RS Target TL,pistol,0.444s,2,2,1,60,120,0.5,false
+40,04:03:50.974,RS Target L,pistol,0.437s,2,2,1,60,120,0.5,false
+41,04:03:51.961,RS Target B,pistol,0.453s,2,2,1,60,120,0.5,false
+42,04:03:53.502,RS Target BL,pistol,0.862s,2,1,0.5,30,120,0.25,false
+43,04:03:54.725,RS Target TL,pistol,0.7s,2,2,1,60,120,0.5,false
+44,04:03:55.927,RS Target BR,pistol,0.604s,2,2,1,60,120,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,111,65,1950.0,6660.0,
+
+Kills:,44
+Deaths:,0
+Fight Time:,40.418999
+Avg TTK:,0
+Damage Done:,1950.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,15
+Distance Traveled:,0.0
+Score:,1950.0
+Scenario:,Reactive Clicking Hard
+Hash:,7af63a074d088d9d9eabd28e1b5124c6
+Game Version:,v2.6.3
+Challenge Start:,04:02:56.181
+Pause Count:,24
+Pause Duration:,51
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.637573
+Resolution Scale,100.0

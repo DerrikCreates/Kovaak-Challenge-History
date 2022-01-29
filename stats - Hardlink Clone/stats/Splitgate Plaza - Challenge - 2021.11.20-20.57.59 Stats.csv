@@ -1,1 +1,50 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Splitgate Plaza - Challenge - 2021.11.20-20.57.59 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:57:06.741,McCoy Bot,Carbine,6.576s,16,4,0.25,220,960,0.229,false
+2,20:57:11.441,McCoy Bot,Carbine,1.913s,5,4,0.8,220,300,0.733,false
+3,20:57:16.364,McCoy Bot,Carbine,2.4s,7,4,0.571,240,420,0.571,false
+4,20:57:21.615,Rocket Flyer Bot,Carbine,2.719s,8,5,0.625,240,480,0.5,false
+5,20:57:26.092,Racer Bot,Carbine,1.761s,5,3,0.6,180,300,0.6,false
+6,20:57:32.999,McCoy Bot,Carbine,4.199s,11,4,0.364,220,660,0.333,false
+7,20:57:40.568,McCoy Bot,Carbine,5.029s,12,4,0.333,240,720,0.333,false
+8,20:57:44.339,Racer Bot,Carbine,1.29s,4,3,0.75,180,240,0.75,false
+9,20:57:47.912,Racer Bot,Carbine,0.788s,3,3,1,180,180,1,false
+10,20:57:52.951,Sergeant Bot,Carbine,2.414s,7,4,0.571,220,420,0.524,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Carbine,87,41,2320.0,5220.0,
+
+Kills:,10
+Deaths:,0
+Fight Time:,29.089001
+Avg TTK:,0
+Damage Done:,2320.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2320.0
+Scenario:,Splitgate Plaza
+Hash:,ee2aed97aa38a8d16a8ea8dfba3191df
+Game Version:,v2.6.4
+Challenge Start:,20:56:59.376
+Pause Count:,9
+Pause Duration:,228
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,338.235626
+Resolution Scale,100.0

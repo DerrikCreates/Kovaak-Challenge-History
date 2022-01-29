@@ -1,1 +1,35 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Vertical Long Strafes - Challenge - 2021.05.29-00.01.58 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1277,629,3774.0,7662.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,3774.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,11322.0
+Scenario:,Vertical Long Strafes
+Hash:,10dda1a0add87cec31674896c8ae81b4
+Game Version:,2.0.4.0
+Challenge Start:,00:01:44.757
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.723541
+Resolution Scale,100.0

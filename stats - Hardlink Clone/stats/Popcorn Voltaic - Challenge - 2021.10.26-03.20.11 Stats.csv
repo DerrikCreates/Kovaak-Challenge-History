@@ -1,1 +1,55 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2021.10.26-03.20.11 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:19:19.261,Pigeon5,pistol,6.828s,5,1,0.2,100,1000,0.1,false
+2,03:19:20.393,Pigeon4,pistol,0.001s,1,1,1,100,200,0.5,false
+3,03:19:23.548,Pigeon2,pistol,1.215s,2,1,0.5,100,400,0.25,false
+4,03:19:26.522,Pigeon5,pistol,1.822s,2,1,0.5,100,400,0.25,false
+5,03:19:31.253,Pigeon3,pistol,3.034s,3,1,0.333,100,600,0.167,false
+6,03:19:34.100,Pigeon4,pistol,1.34s,2,1,0.5,100,400,0.25,false
+7,03:19:35.376,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+8,03:19:42.474,Pigeon5,pistol,5.11s,3,1,0.333,100,600,0.167,false
+9,03:19:45.181,Pigeon,pistol,1.216s,2,1,0.5,100,400,0.25,false
+10,03:19:48.416,Pigeon,pistol,1.993s,2,1,0.5,100,400,0.25,false
+11,03:19:51.217,Pigeon2,pistol,1.434s,2,1,0.5,100,400,0.25,false
+12,03:19:59.022,Pigeon,pistol,6.62s,4,1,0.25,100,800,0.125,false
+13,03:20:02.654,Pigeon2,pistol,1.97s,2,1,0.5,100,400,0.25,false
+14,03:20:05.556,Pigeon2,pistol,1.465s,2,1,0.5,100,400,0.25,false
+15,03:20:09.871,Pigeon3,pistol,2.963s,3,1,0.333,100,600,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,36,15,1500.0,7200.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,37.011002
+Avg TTK:,0
+Damage Done:,1500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,21
+Distance Traveled:,0.0
+Score:,150.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.6.3
+Challenge Start:,03:19:11.271
+Pause Count:,11
+Pause Duration:,30
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.682953
+Resolution Scale,100.0

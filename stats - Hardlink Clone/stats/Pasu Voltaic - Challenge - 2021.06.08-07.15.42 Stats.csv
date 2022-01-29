@@ -1,1 +1,96 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Pasu Voltaic - Challenge - 2021.06.08-07.15.42 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:14:43.797,test,pistol,0s,1,1,1,1000,2000,0.5,false
+2,07:14:44.207,test,pistol,0s,1,1,1,1000,2000,0.5,false
+3,07:14:45.315,test,pistol,0.365s,2,1,0.5,1000,4000,0.25,false
+4,07:14:46.050,test,pistol,0s,1,1,1,1000,2000,0.5,false
+5,07:14:46.529,test,pistol,0s,1,1,1,1000,2000,0.5,false
+6,07:14:46.981,test,pistol,0s,1,1,1,1000,2000,0.5,false
+7,07:14:49.072,test,pistol,1.541s,4,1,0.25,1000,8000,0.125,false
+8,07:14:49.765,test,pistol,0s,1,1,1,1000,2000,0.5,false
+9,07:14:50.795,test,pistol,0.364s,2,1,0.5,1000,4000,0.25,false
+10,07:14:51.924,test,pistol,0.324s,2,1,0.5,1000,4000,0.25,false
+11,07:14:52.904,test,pistol,0.472s,2,1,0.5,1000,4000,0.25,false
+12,07:14:53.361,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+13,07:14:54.199,test,pistol,0.358s,2,1,0.5,1000,4000,0.25,false
+14,07:14:54.801,test,pistol,0s,1,1,1,1000,2000,0.5,false
+15,07:14:57.704,test,pistol,2.038s,5,1,0.2,1000,10000,0.1,false
+16,07:14:58.465,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+17,07:14:59.774,test,pistol,0.655s,2,1,0.5,1000,4000,0.25,false
+18,07:15:00.381,test,pistol,0s,1,1,1,1000,2000,0.5,false
+19,07:15:02.154,test,pistol,1.182s,4,1,0.25,1000,8000,0.125,false
+20,07:15:02.830,test,pistol,0s,1,1,1,1000,2000,0.5,false
+21,07:15:03.914,test,pistol,0.461s,2,1,0.5,1000,4000,0.25,false
+22,07:15:05.290,test,pistol,0.641s,2,1,0.5,1000,4000,0.25,false
+23,07:15:07.409,test,pistol,1.317s,4,1,0.25,1000,8000,0.125,false
+24,07:15:08.770,test,pistol,0.533s,2,1,0.5,1000,4000,0.25,false
+25,07:15:09.823,test,pistol,0.348s,2,1,0.5,1000,4000,0.25,false
+26,07:15:10.635,test,pistol,0s,1,1,1,1000,2000,0.5,false
+27,07:15:11.937,test,pistol,0.594s,2,1,0.5,1000,4000,0.25,false
+28,07:15:13.467,test,pistol,0.278s,2,1,0.5,1000,4000,0.25,false
+29,07:15:14.131,test,pistol,0.001s,1,1,1,1000,2000,0.5,false
+30,07:15:14.699,test,pistol,0s,1,1,1,1000,2000,0.5,false
+31,07:15:15.978,test,pistol,0.609s,2,1,0.5,1000,4000,0.25,false
+32,07:15:17.247,test,pistol,0.722s,3,1,0.333,1000,6000,0.167,false
+33,07:15:17.705,test,pistol,0s,1,1,1,1000,2000,0.5,false
+34,07:15:19.274,test,pistol,1.021s,3,1,0.333,1000,6000,0.167,false
+35,07:15:21.354,test,pistol,1.436s,4,1,0.25,1000,8000,0.125,false
+36,07:15:22.146,test,pistol,0.271s,2,1,0.5,1000,4000,0.25,false
+37,07:15:22.725,test,pistol,0s,1,1,1,1000,2000,0.5,false
+38,07:15:23.478,test,pistol,0s,1,1,1,1000,2000,0.5,false
+39,07:15:24.734,test,pistol,0.643s,3,1,0.333,1000,6000,0.167,false
+40,07:15:25.464,test,pistol,0s,1,1,1,1000,2000,0.5,false
+41,07:15:26.502,test,pistol,0.438s,2,1,0.5,1000,4000,0.25,false
+42,07:15:26.980,test,pistol,0s,1,1,1,1000,2000,0.5,false
+43,07:15:27.635,test,pistol,0s,1,1,1,1000,2000,0.5,false
+44,07:15:28.945,test,pistol,0.796s,2,1,0.5,1000,4000,0.25,false
+45,07:15:29.631,test,pistol,0s,1,1,1,1000,2000,0.5,false
+46,07:15:31.347,test,pistol,0.446s,2,1,0.5,1000,4000,0.25,false
+47,07:15:32.359,test,pistol,0.551s,2,1,0.5,1000,4000,0.25,false
+48,07:15:32.864,test,pistol,0s,1,1,1,1000,2000,0.5,false
+49,07:15:33.598,test,pistol,0s,1,1,1,1000,2000,0.5,false
+50,07:15:35.034,test,pistol,0.888s,3,1,0.333,1000,6000,0.167,false
+51,07:15:35.834,test,pistol,0.257s,2,1,0.5,1000,4000,0.25,false
+52,07:15:36.451,test,pistol,0s,1,1,1,1000,2000,0.5,false
+53,07:15:37.050,test,pistol,0s,1,1,1,1000,2000,0.5,false
+54,07:15:38.401,test,pistol,0.552s,2,1,0.5,1000,4000,0.25,false
+55,07:15:39.448,test,pistol,0s,1,1,1,1000,2000,0.5,false
+56,07:15:40.281,test,pistol,0.338s,2,1,0.5,1000,4000,0.25,false
+57,07:15:41.789,test,pistol,0.934s,3,1,0.333,1000,6000,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,105,57,57000.0,210000.0,
+Track Master 100,0,0,0.0,0.0,
+
+Kills:,57
+Deaths:,0
+Fight Time:,21.375999
+Avg TTK:,0
+Damage Done:,57000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,41.996937
+Scenario:,Pasu Voltaic
+Hash:,4c3291517ee8b88c5d60cde2819b2804
+Game Version:,2.0.5.0
+Challenge Start:,07:14:42.889
+Pause Count:,3
+Pause Duration:,47
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,284.348145
+Resolution Scale,100.0

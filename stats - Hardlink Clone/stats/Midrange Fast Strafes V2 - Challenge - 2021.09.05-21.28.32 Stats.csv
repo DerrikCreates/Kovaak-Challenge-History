@@ -1,1 +1,45 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Midrange Fast Strafes V2 - Challenge - 2021.09.05-21.28.32 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:27:39.830,Quaker Bot Fast Strafes,LG,6.805s,149,50,0.336,300,894,0.336,false
+2,21:27:49.280,Quaker Bot Fast Strafes,LG,9.175s,165,50,0.303,300,990,0.303,false
+3,21:27:56.039,Quaker Bot Fast Strafes,LG,6.484s,121,50,0.413,300,726,0.413,false
+4,21:28:03.741,Quaker Bot Fast Strafes,LG,7.427s,133,50,0.376,300,798,0.376,false
+5,21:28:12.635,Quaker Bot Fast Strafes,LG,8.618s,160,50,0.312,300,960,0.312,false
+6,21:28:21.205,Quaker Bot Fast Strafes,LG,8.295s,161,50,0.311,300,966,0.311,false
+7,21:28:29.642,Quaker Bot Fast Strafes,LG,8.162s,150,50,0.333,300,900,0.333,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1071,361,2166.0,6426.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,54.966
+Avg TTK:,0
+Damage Done:,2166.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6498.0
+Scenario:,Midrange Fast Strafes V2
+Hash:,f8b3a53c2d64810c6b74f5d69474f711
+Game Version:,2.0.5.3
+Challenge Start:,21:27:32.078
+Pause Count:,9
+Pause Duration:,40
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.866699
+Resolution Scale,100.0

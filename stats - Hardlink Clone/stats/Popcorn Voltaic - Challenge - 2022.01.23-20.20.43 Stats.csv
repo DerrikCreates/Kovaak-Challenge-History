@@ -1,1 +1,57 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Popcorn Voltaic - Challenge - 2022.01.23-20.20.43 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:19:44.456,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+2,20:19:46.729,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+3,20:19:52.788,Pigeon2,pistol,4.278s,4,1,0.25,100,800,0.125,false
+4,20:20:03.985,Pigeon4,pistol,9.586s,8,1,0.125,100,1600,0.062,false
+5,20:20:05.489,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+6,20:20:06.707,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+7,20:20:14.009,Pigeon3,pistol,5.096s,4,1,0.25,100,800,0.125,false
+8,20:20:16.039,Pigeon,pistol,1.214s,2,1,0.5,100,400,0.25,false
+9,20:20:22.860,Pigeon5,pistol,5.023s,4,1,0.25,100,800,0.125,false
+10,20:20:24.787,Pigeon4,pistol,0.001s,1,1,1,100,200,0.5,false
+11,20:20:30.578,Pigeon5,pistol,4.553s,4,1,0.25,100,800,0.125,false
+12,20:20:31.485,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+13,20:20:35.014,Pigeon,pistol,2.445s,3,1,0.333,100,600,0.167,false
+14,20:20:36.333,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+15,20:20:37.595,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+16,20:20:38.999,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+17,20:20:42.173,Pigeon,pistol,1.215s,2,1,0.5,100,400,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,40,17,1700.0,8000.0,
+
+Kills:,17
+Deaths:,0
+Fight Time:,33.410999
+Avg TTK:,3.529
+Damage Done:,1700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,23
+Distance Traveled:,0.0
+Score:,170.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.8.5
+Challenge Start:,20:19:43.373
+Pause Count:,11
+Pause Duration:,102
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.9086
+Resolution Scale,100.0

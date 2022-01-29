@@ -1,1 +1,64 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/tamTargetSwitch Smooth - Challenge - 2021.11.23-21.11.00 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:10:05.520,regen_dot,Poke-Drill,3.308s,332,135,0.407,135,332,0.407,false
+2,21:10:07.276,regen_dot,Poke-Drill,1.504s,105,67,0.638,67,105,0.638,false
+3,21:10:09.759,regen_dot,Poke-Drill,2.225s,202,103,0.51,103,202,0.51,false
+4,21:10:11.776,regen_dot,Poke-Drill,1.759s,104,54,0.519,54,104,0.519,false
+5,21:10:13.997,regen_dot,Poke-Drill,1.968s,148,57,0.385,57,148,0.385,false
+6,21:10:17.294,regen_dot,Poke-Drill,2.948s,296,168,0.568,168,296,0.568,false
+7,21:10:18.982,regen_dot,Poke-Drill,1.429s,105,70,0.667,70,105,0.667,false
+8,21:10:23.036,regen_dot,Poke-Drill,4.034s,335,183,0.546,183,335,0.546,false
+9,21:10:27.886,regen_dot,Poke-Drill,4.602s,461,239,0.518,239,461,0.518,false
+10,21:10:29.735,regen_dot,Poke-Drill,1.59s,111,68,0.613,68,111,0.613,false
+11,21:10:31.156,regen_dot,Poke-Drill,1.17s,85,50,0.588,50,85,0.588,false
+12,21:10:33.135,regen_dot,Poke-Drill,1.457s,147,90,0.612,90,147,0.612,false
+13,21:10:35.250,regen_dot,Poke-Drill,1.863s,120,92,0.767,92,120,0.767,false
+14,21:10:36.858,regen_dot,Poke-Drill,1.098s,111,57,0.514,57,111,0.514,false
+15,21:10:38.773,regen_dot,Poke-Drill,1.666s,154,95,0.617,95,154,0.617,false
+16,21:10:40.111,regen_dot,Poke-Drill,1.088s,110,62,0.564,62,110,0.564,false
+17,21:10:43.648,regen_dot,Poke-Drill,3.285s,277,142,0.513,142,277,0.513,false
+18,21:10:45.853,regen_dot,Poke-Drill,1.953s,179,120,0.67,120,179,0.67,false
+19,21:10:47.082,regen_dot,Poke-Drill,0.97s,78,50,0.641,50,78,0.641,false
+20,21:10:48.501,regen_dot,Poke-Drill,1.16s,85,70,0.824,70,85,0.824,false
+21,21:10:50.253,regen_dot,Poke-Drill,1.5s,91,53,0.582,53,91,0.582,false
+22,21:10:53.380,regen_dot,Poke-Drill,2.868s,246,146,0.593,146,246,0.593,false
+23,21:10:56.318,regen_dot,Poke-Drill,2.68s,211,116,0.55,116,211,0.55,false
+24,21:10:59.652,regen_dot,Poke-Drill,3.076s,286,159,0.556,159,286,0.556,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4468,2496,2496.0,4468.0,
+
+Kills:,24
+Deaths:,0
+Fight Time:,51.201
+Avg TTK:,0
+Damage Done:,2496.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,24.0
+Scenario:,tamTargetSwitch Smooth
+Hash:,ebaed4d804f7bb0b1fa3961826398e1f
+Game Version:,v2.6.4
+Challenge Start:,21:05:49.877
+Pause Count:,1
+Pause Duration:,701
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.477417
+Resolution Scale,100.0

@@ -1,1 +1,40 @@
-E:/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats/Centering I 180 no strafes - Challenge - 2021.11.22-01.35.57 Stats.csv
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1225,443,2658.0,7350.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,2658.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,7974.0
+Scenario:,Centering I 180 no strafes
+Hash:,dcad5e4efec78710cf46f6c0b8a1c64c
+Game Version:,v2.6.4
+Challenge Start:,01:34:57.651
+Pause Count:,1
+Pause Duration:,31
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.055511
+Resolution Scale,100.0

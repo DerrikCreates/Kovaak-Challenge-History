@@ -1,2 +1,3 @@
 # Kovaak-Challenge-History
-All my Kovaak aim trainer challenge files
+Almost all my Kovaak aim trainer challenge files.
+Missing alot of the early records.

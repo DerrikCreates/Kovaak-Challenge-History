@@ -1,0 +1,103 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:09:44.843,High,pistol,0s,1,1,1,50,125,0.4,false
+2,00:09:46.509,Mid,pistol,1.156s,3,1,0.333,50,375,0.133,false
+3,00:09:47.162,Mid,pistol,0s,1,1,1,50,125,0.4,false
+4,00:09:47.610,High,pistol,0s,1,1,1,50,125,0.4,false
+5,00:09:48.021,Low,pistol,0s,1,1,1,50,125,0.4,false
+6,00:09:49.237,Mid,pistol,0.589s,3,1,0.333,50,375,0.133,false
+7,00:09:50.303,Mid,pistol,0.446s,2,1,0.5,50,250,0.2,false
+8,00:09:50.996,Mid,pistol,0s,1,1,1,50,125,0.4,false
+9,00:09:51.871,Low,pistol,0.001s,1,1,1,50,125,0.4,false
+10,00:09:53.428,High,pistol,0.715s,3,1,0.333,50,375,0.133,false
+11,00:09:55.199,Low,pistol,1.181s,3,1,0.333,50,375,0.133,false
+12,00:09:56.066,Mid,pistol,0s,1,1,1,50,125,0.4,false
+13,00:09:57.463,Mid,pistol,0.405s,2,1,0.5,50,250,0.2,false
+14,00:09:59.290,Mid,pistol,1.323s,3,1,0.333,50,375,0.133,false
+15,00:09:59.819,Low,pistol,0s,1,1,1,50,125,0.4,false
+16,00:10:00.213,High,pistol,0s,1,1,1,50,125,0.4,false
+17,00:10:01.036,Mid,pistol,0s,1,1,1,50,125,0.4,false
+18,00:10:01.760,High,pistol,0s,1,1,1,50,125,0.4,false
+19,00:10:02.313,Mid,pistol,0s,1,1,1,50,125,0.4,false
+20,00:10:02.901,Low,pistol,0s,1,1,1,50,125,0.4,false
+21,00:10:03.506,High,pistol,0.001s,1,1,1,50,125,0.4,false
+22,00:10:04.278,Mid,pistol,0s,1,1,1,50,125,0.4,false
+23,00:10:05.693,Mid,pistol,0.645s,2,1,0.5,50,250,0.2,false
+24,00:10:06.602,High,pistol,0s,1,1,1,50,125,0.4,false
+25,00:10:07.195,Mid,pistol,0s,1,1,1,50,125,0.4,false
+26,00:10:08.017,Low,pistol,0.229s,2,1,0.5,50,250,0.2,false
+27,00:10:08.568,Low,pistol,0s,1,1,1,50,125,0.4,false
+28,00:10:09.108,Mid,pistol,0s,1,1,1,50,125,0.4,false
+29,00:10:13.394,High,pistol,3.66s,6,1,0.167,50,750,0.067,false
+30,00:10:14.162,Mid,pistol,0s,1,1,1,50,125,0.4,false
+31,00:10:14.649,Mid,pistol,0s,1,1,1,50,125,0.4,false
+32,00:10:14.953,Low,pistol,0.001s,1,1,1,50,125,0.4,false
+33,00:10:15.406,High,pistol,0s,1,1,1,50,125,0.4,false
+34,00:10:16.701,Low,pistol,0.746s,2,1,0.5,50,250,0.2,false
+35,00:10:17.591,Mid,pistol,0s,1,1,1,50,125,0.4,false
+36,00:10:18.983,Mid,pistol,1.003s,3,1,0.333,50,375,0.133,false
+37,00:10:20.025,Mid,pistol,0.384s,2,1,0.5,50,250,0.2,false
+38,00:10:20.890,High,pistol,0s,1,1,1,50,125,0.4,false
+39,00:10:22.239,Low,pistol,0.988s,2,1,0.5,50,250,0.2,false
+40,00:10:22.700,Low,pistol,0s,1,1,1,50,125,0.4,false
+41,00:10:23.537,Mid,pistol,0s,1,1,1,50,125,0.4,false
+42,00:10:24.426,Mid,pistol,0s,1,1,1,50,125,0.4,false
+43,00:10:24.900,Mid,pistol,0s,1,1,1,50,125,0.4,false
+44,00:10:26.096,High,pistol,0.781s,3,1,0.333,50,375,0.133,false
+45,00:10:27.069,High,pistol,0.529s,2,1,0.5,50,250,0.2,false
+46,00:10:27.686,Mid,pistol,0s,1,1,1,50,125,0.4,false
+47,00:10:28.568,Mid,pistol,0.418s,2,1,0.5,50,250,0.2,false
+48,00:10:29.196,Low,pistol,0s,1,1,1,50,125,0.4,false
+49,00:10:30.267,Mid,pistol,0.386s,2,1,0.5,50,250,0.2,false
+50,00:10:31.003,High,pistol,0s,1,1,1,50,125,0.4,false
+51,00:10:31.987,Mid,pistol,0.272s,2,1,0.5,50,250,0.2,false
+52,00:10:32.539,High,pistol,0s,1,1,1,50,125,0.4,false
+53,00:10:33.201,Low,pistol,0s,1,1,1,50,125,0.4,false
+54,00:10:33.830,Mid,pistol,0.251s,2,1,0.5,50,250,0.2,false
+55,00:10:34.615,Low,pistol,0s,1,1,1,50,125,0.4,false
+56,00:10:35.949,Low,pistol,0.584s,2,1,0.5,50,250,0.2,false
+57,00:10:36.937,Mid,pistol,0.439s,2,1,0.5,50,250,0.2,false
+58,00:10:37.303,Mid,pistol,0s,1,1,1,50,125,0.4,false
+59,00:10:38.108,High,pistol,0s,1,1,1,50,125,0.4,false
+60,00:10:38.853,Mid,pistol,0s,1,1,1,50,125,0.4,false
+61,00:10:39.677,Mid,pistol,0.352s,2,1,0.5,50,250,0.2,false
+62,00:10:40.175,Mid,pistol,0s,1,1,1,50,125,0.4,false
+63,00:10:40.934,Low,pistol,0s,1,1,1,50,125,0.4,false
+64,00:10:41.728,Low,pistol,0.323s,2,1,0.5,50,250,0.2,false
+65,00:10:42.897,High,pistol,0.511s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,102,65,3250.0,12750.0,
+
+Kills:,65
+Deaths:,0
+Fight Time:,18.319
+Avg TTK:,0
+Damage Done:,3250.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,1
+Distance Traveled:,0.0
+Score:,65.0
+Scenario:,B180 Voltaic Easy
+Hash:,b68f1591dc268a022956ca3e33e67a29
+Game Version:,2.0.5.0
+Challenge Start:,00:09:44.025
+Pause Count:,18
+Pause Duration:,117
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,331.331665
+Resolution Scale,100.0

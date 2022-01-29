@@ -1,0 +1,92 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,13:36:31.169,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+2,13:36:32.622,High,b180 pistol,0.974s,2,1,0.5,50,250,0.2,false
+3,13:36:33.542,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+4,13:36:33.976,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+5,13:36:35.872,Low,b180 pistol,0.775s,2,1,0.5,50,250,0.2,false
+6,13:36:36.545,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+7,13:36:37.180,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+8,13:36:38.032,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+9,13:36:40.359,High,b180 pistol,1.042s,2,1,0.5,50,250,0.2,false
+10,13:36:40.929,High,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+11,13:36:43.047,Mid,b180 pistol,1.522s,3,1,0.333,50,375,0.133,false
+12,13:36:44.273,Mid,b180 pistol,0.383s,2,1,0.5,50,250,0.2,false
+13,13:36:44.787,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+14,13:36:45.337,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+15,13:36:47.643,Low,b180 pistol,1.396s,3,1,0.333,50,375,0.133,false
+16,13:36:49.195,Mid,b180 pistol,0.273s,2,1,0.5,50,250,0.2,false
+17,13:36:50.107,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+18,13:36:50.574,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+19,13:36:54.248,Mid,b180 pistol,3s,4,1,0.25,50,500,0.1,false
+20,13:36:55.380,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+21,13:36:56.611,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+22,13:36:58.616,Low,b180 pistol,0.846s,2,1,0.5,50,250,0.2,false
+23,13:37:02.264,Mid,b180 pistol,2.936s,4,1,0.25,50,500,0.1,false
+24,13:37:03.469,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+25,13:37:04.342,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+26,13:37:05.017,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+27,13:37:05.840,Low,b180 pistol,0.312s,2,1,0.5,50,250,0.2,false
+28,13:37:08.915,Low,b180 pistol,2.595s,4,1,0.25,50,500,0.1,false
+29,13:37:09.892,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+30,13:37:10.356,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+31,13:37:12.110,High,b180 pistol,1.047s,2,1,0.5,50,250,0.2,false
+32,13:37:12.578,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+33,13:37:13.098,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+34,13:37:13.582,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+35,13:37:14.123,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+36,13:37:17.414,High,b180 pistol,2.7s,4,1,0.25,50,500,0.1,false
+37,13:37:18.279,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+38,13:37:18.920,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+39,13:37:20.686,Low,b180 pistol,1.238s,3,1,0.333,50,375,0.133,false
+40,13:37:21.845,Mid,b180 pistol,0.748s,2,1,0.5,50,250,0.2,false
+41,13:37:22.345,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+42,13:37:23.027,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+43,13:37:23.672,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+44,13:37:24.236,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+45,13:37:24.735,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+46,13:37:25.183,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+47,13:37:25.787,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+48,13:37:26.361,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+49,13:37:26.907,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+50,13:37:27.558,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+51,13:37:28.409,Mid,b180 pistol,0.302s,2,1,0.5,50,250,0.2,false
+52,13:37:28.970,High,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+b180 pistol,82,52,2600.0,10250.0,
+
+Kills:,52
+Deaths:,0
+Fight Time:,22.091999
+Avg TTK:,1.357
+Damage Done:,2600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,52.0
+Scenario:,B180 Voltaic
+Hash:,c01cb433518fa3bccf4fb0e7a19d5a0d
+Game Version:,v2.8.5
+Challenge Start:,13:36:30.232
+Pause Count:,6
+Pause Duration:,99
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,350.231323
+Resolution Scale,100.0

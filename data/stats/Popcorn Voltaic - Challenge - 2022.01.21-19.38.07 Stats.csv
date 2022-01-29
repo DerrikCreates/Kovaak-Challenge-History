@@ -1,0 +1,60 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:37:09.155,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+2,19:37:14.323,Pigeon,pistol,3.737s,4,1,0.25,100,800,0.125,false
+3,19:37:16.722,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+4,19:37:18.062,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+5,19:37:24.548,Pigeon3,pistol,5.06s,3,1,0.333,100,600,0.167,false
+6,19:37:29.856,Pigeon5,pistol,4.158s,3,1,0.333,100,600,0.167,false
+7,19:37:31.722,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+8,19:37:35.799,Pigeon3,pistol,1.727s,2,1,0.5,100,400,0.25,false
+9,19:37:36.652,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+10,19:37:41.093,Pigeon4,pistol,2.511s,2,1,0.5,100,400,0.25,false
+11,19:37:42.825,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+12,19:37:45.726,Pigeon5,pistol,1.845s,2,1,0.5,100,400,0.25,false
+13,19:37:48.959,Pigeon5,pistol,1.557s,2,1,0.5,100,400,0.25,false
+14,19:37:50.430,Pigeon,pistol,0.001s,1,1,1,100,200,0.5,false
+15,19:37:51.193,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+16,19:37:52.268,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+17,19:37:56.689,Pigeon2,pistol,3.076s,3,1,0.333,100,600,0.167,false
+18,19:38:01.468,Pigeon,pistol,2.48s,3,1,0.333,100,600,0.167,false
+19,19:38:04.572,Pigeon3,pistol,1.606s,2,1,0.5,100,400,0.25,false
+20,19:38:05.514,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,37,20,2000.0,7400.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,27.757999
+Avg TTK:,3
+Damage Done:,2000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,17
+Distance Traveled:,0.0
+Score:,200.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.8.5
+Challenge Start:,19:37:07.620
+Pause Count:,9
+Pause Duration:,41
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.815918
+Resolution Scale,100.0

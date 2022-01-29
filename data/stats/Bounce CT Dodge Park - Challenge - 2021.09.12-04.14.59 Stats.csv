@@ -1,0 +1,89 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:14:02.103,Pigeon LF,pistol,1.295s,4,1,0.25,35,280,0.125,false
+2,04:14:02.769,Pigeon MF,pistol,0s,1,1,1,35,70,0.5,false
+3,04:14:03.303,Pigeon MF,pistol,0s,1,1,1,35,70,0.5,false
+4,04:14:03.930,Pigeon HM,pistol,0s,1,1,1,35,70,0.5,false
+5,04:14:04.592,Pigeon LM,pistol,0s,1,1,1,35,70,0.5,false
+6,04:14:05.482,Pigeon MM,pistol,0s,1,1,1,35,70,0.5,false
+7,04:14:07.402,Pigeon MF,pistol,1.456s,5,1,0.2,35,350,0.1,false
+8,04:14:11.634,Pigeon HM,pistol,3.427s,6,1,0.167,35,420,0.083,false
+9,04:14:12.678,Pigeon HF,pistol,0s,1,1,1,35,70,0.5,false
+10,04:14:13.356,Pigeon HS,pistol,0s,1,1,1,35,70,0.5,false
+11,04:14:14.172,Pigeon LS,pistol,0.248s,2,1,0.5,35,140,0.25,false
+12,04:14:14.783,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+13,04:14:16.341,Pigeon MM,pistol,0.967s,3,1,0.333,35,210,0.167,false
+14,04:14:17.593,Pigeon LM,pistol,0.261s,2,1,0.5,35,140,0.25,false
+15,04:14:18.655,Pigeon HF,pistol,0s,1,1,1,35,70,0.5,false
+16,04:14:20.074,Pigeon LS,pistol,0.497s,3,1,0.333,35,210,0.167,false
+17,04:14:20.599,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+18,04:14:21.693,Pigeon HM,pistol,0.604s,2,1,0.5,35,140,0.25,false
+19,04:14:22.171,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+20,04:14:22.917,Pigeon MS,pistol,0.001s,1,1,1,35,70,0.5,false
+21,04:14:23.517,Pigeon LM,pistol,0s,1,1,1,35,70,0.5,false
+22,04:14:24.706,Pigeon HS,pistol,0.498s,3,1,0.333,35,210,0.167,false
+23,04:14:26.683,Pigeon LF,pistol,1.501s,4,1,0.25,35,280,0.125,false
+24,04:14:27.533,Pigeon LM,pistol,0s,1,1,1,35,70,0.5,false
+25,04:14:28.268,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+26,04:14:29.259,Pigeon MF,pistol,0.292s,2,1,0.5,35,140,0.25,false
+27,04:14:29.808,Pigeon HM,pistol,0s,1,1,1,35,70,0.5,false
+28,04:14:30.720,Pigeon LM,pistol,0.248s,2,1,0.5,35,140,0.25,false
+29,04:14:31.748,Pigeon HF,pistol,0s,1,1,1,35,70,0.5,false
+30,04:14:33.580,Pigeon MM,pistol,1.117s,3,1,0.333,35,210,0.167,false
+31,04:14:35.485,Pigeon LM,pistol,1.354s,5,1,0.2,35,350,0.1,false
+32,04:14:36.676,Pigeon MF,pistol,0.496s,3,1,0.333,35,210,0.167,false
+33,04:14:37.773,Pigeon MM,pistol,0.506s,2,1,0.5,35,140,0.25,false
+34,04:14:39.307,Pigeon HF,pistol,0.248s,2,1,0.5,35,140,0.25,false
+35,04:14:40.301,Pigeon MS,pistol,0.262s,2,1,0.5,35,140,0.25,false
+36,04:14:40.876,Pigeon MS,pistol,0s,1,1,1,35,70,0.5,false
+37,04:14:41.312,Pigeon LM,pistol,0s,1,1,1,35,70,0.5,false
+38,04:14:41.910,Pigeon MS,pistol,0s,1,1,1,35,70,0.5,false
+39,04:14:43.058,Pigeon HM,pistol,0.621s,2,1,0.5,35,140,0.25,false
+40,04:14:43.697,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+41,04:14:44.298,Pigeon HS,pistol,0s,1,1,1,35,70,0.5,false
+42,04:14:44.805,Pigeon LF,pistol,0s,1,1,1,35,70,0.5,false
+43,04:14:46.306,Pigeon MS,pistol,0.866s,3,1,0.333,35,210,0.167,false
+44,04:14:47.971,Pigeon HS,pistol,0.917s,3,1,0.333,35,210,0.167,false
+45,04:14:48.724,Pigeon MS,pistol,0s,1,1,1,35,70,0.5,false
+46,04:14:50.040,Pigeon MM,pistol,0.356s,2,1,0.5,35,140,0.25,false
+47,04:14:52.280,Pigeon HF,pistol,1.454s,5,1,0.2,35,350,0.1,false
+48,04:14:56.160,Pigeon MM,pistol,2.645s,4,1,0.25,35,280,0.125,false
+49,04:14:58.024,Pigeon HS,pistol,1.081s,2,1,0.5,35,140,0.25,false
+50,04:14:59.179,Pigeon MF,pistol,0s,1,1,1,35,70,0.5,false
+51,04:14:59.783,Pigeon MM,pistol,0s,1,1,1,35,70,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,102,51,1785.0,7140.0,
+
+Kills:,51
+Deaths:,0
+Fight Time:,23.218
+Avg TTK:,0
+Damage Done:,1785.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,2
+Distance Traveled:,0.0
+Score:,5607.743652
+Scenario:,Bounce CT Dodge Park
+Hash:,facaa93f3adc2a7e5ce18b3ab0afbf81
+Game Version:,2.0.5.3
+Challenge Start:,04:13:59.878
+Pause Count:,45
+Pause Duration:,372
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.683594
+Resolution Scale,100.0

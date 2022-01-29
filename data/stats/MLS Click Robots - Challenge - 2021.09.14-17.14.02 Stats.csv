@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:13:07.340,Quaker Bot Fast Strafes,Manwing,4.193s,9,4,0.444,400,900,0.444,false
+2,17:13:12.757,Quaker Bot Fast Strafes,Manwing,3.578s,8,4,0.5,400,800,0.5,false
+3,17:13:19.110,Quaker Bot Fast Strafes,Manwing,4.581s,10,4,0.4,400,1000,0.4,false
+4,17:13:27.391,Quaker Bot Fast Strafes,Manwing,6.582s,13,4,0.308,400,1300,0.308,false
+5,17:13:34.811,Quaker Bot Fast Strafes,Manwing,5.631s,11,4,0.364,400,1100,0.364,false
+6,17:13:42.269,Quaker Bot Fast Strafes,Manwing,5.599s,11,4,0.364,400,1100,0.364,false
+7,17:13:46.671,Quaker Bot Fast Strafes,Manwing,2.676s,6,4,0.667,400,600,0.667,false
+8,17:13:54.452,Quaker Bot Fast Strafes,Manwing,6.004s,11,4,0.364,400,1100,0.364,false
+9,17:14:00.515,Quaker Bot Fast Strafes,Manwing,4.376s,9,4,0.444,400,900,0.444,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,88,36,3600.0,8800.0,
+
+Kills:,9
+Deaths:,0
+Fight Time:,43.220001
+Avg TTK:,0
+Damage Done:,3600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,10800.0
+Scenario:,MLS Click Robots
+Hash:,648367e92559283eed17904557891cf0
+Game Version:,2.0.5.3
+Challenge Start:,17:13:02.247
+Pause Count:,16
+Pause Duration:,76
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.961823
+Resolution Scale,100.0

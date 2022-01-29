@@ -1,0 +1,65 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:06:24.326,invasion,pistol HS,1.107s,2,1,0.5,25,50,0.5,false
+2,17:06:29.776,invasion,pistol HS,5.121s,9,1,0.111,25,225,0.111,false
+3,17:06:34.570,invasion,pistol HS,4.041s,11,1,0.091,25,275,0.091,false
+4,17:06:35.426,invasion,pistol HS,0.349s,2,1,0.5,25,50,0.5,false
+5,17:06:36.068,invasion,pistol HS,0s,1,1,1,25,25,1,false
+6,17:06:36.580,invasion,pistol HS,0s,1,1,1,25,25,1,false
+7,17:06:41.052,invasion,pistol HS,3.209s,6,1,0.167,25,150,0.167,false
+8,17:06:41.864,invasion,pistol HS,0.202s,2,1,0.5,25,50,0.5,false
+9,17:06:42.769,invasion,pistol HS,0s,1,1,1,25,25,1,false
+10,17:06:44.218,invasion,pistol HS,0.9s,3,1,0.333,25,75,0.333,false
+11,17:06:45.383,invasion,pistol HS,0.397s,2,1,0.5,25,50,0.5,false
+12,17:06:46.330,invasion,pistol HS,0.366s,2,1,0.5,25,50,0.5,false
+13,17:06:48.370,invasion,pistol HS,0.703s,3,1,0.333,25,75,0.333,false
+14,17:06:49.626,invasion,pistol HS,0s,1,1,1,25,25,1,false
+15,17:06:51.054,invasion,pistol HS,0.001s,1,1,1,25,25,1,false
+16,17:06:52.235,invasion,pistol HS,0.72s,3,1,0.333,25,75,0.333,false
+17,17:06:55.536,invasion,pistol HS,2.163s,4,2,0.5,30,100,0.3,false
+18,17:07:00.775,invasion,pistol HS,4.624s,9,3,0.333,35,225,0.156,false
+19,17:07:01.859,invasion,pistol HS,0.31s,2,1,0.5,25,50,0.5,false
+20,17:07:03.439,invasion,pistol HS,1.147s,4,1,0.25,25,100,0.25,false
+21,17:07:06.585,invasion,pistol HS,2.453s,5,1,0.2,25,125,0.2,false
+22,17:07:07.610,invasion,pistol HS,0.638s,2,1,0.5,25,50,0.5,false
+23,17:07:10.607,invasion,pistol HS,2.493s,5,1,0.2,25,125,0.2,false
+24,17:07:11.390,invasion,pistol HS,0.306s,2,1,0.5,25,50,0.5,false
+25,17:07:13.509,invasion,pistol HS,1.293s,2,1,0.5,25,50,0.5,false
+26,17:07:15.485,invasion,pistol HS,1.304s,3,1,0.333,25,75,0.333,false
+27,17:07:17.458,invasion,pistol HS,1.378s,4,1,0.25,25,100,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,101,32,700.0,2525.0,
+
+Kills:,27
+Deaths:,0
+Fight Time:,35.224998
+Avg TTK:,0
+Damage Done:,700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1194.455444
+Scenario:,Invasion Clicking
+Hash:,9dbd55728461255381787dbbc7b0ee94
+Game Version:,2.0.5.3
+Challenge Start:,17:06:22.263
+Pause Count:,11
+Pause Duration:,71
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.407898
+Resolution Scale,100.0

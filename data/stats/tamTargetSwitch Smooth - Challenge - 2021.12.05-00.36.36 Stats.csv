@@ -1,0 +1,63 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:35:40.724,regen_dot,Poke-Drill,2.38s,239,156,0.653,156,239,0.653,false
+2,00:35:42.156,regen_dot,Poke-Drill,0.91s,92,60,0.652,60,92,0.652,false
+3,00:35:45.171,regen_dot,Poke-Drill,2.467s,248,141,0.569,141,248,0.569,false
+4,00:35:48.806,regen_dot,Poke-Drill,3.385s,307,179,0.583,179,307,0.583,false
+5,00:35:52.954,regen_dot,Poke-Drill,3.897s,315,155,0.492,155,315,0.492,false
+6,00:35:57.156,regen_dot,Poke-Drill,3.942s,328,188,0.573,188,328,0.573,false
+7,00:35:58.964,regen_dot,Poke-Drill,1.556s,128,80,0.625,80,128,0.625,false
+8,00:36:00.362,regen_dot,Poke-Drill,1.149s,94,63,0.67,63,94,0.67,false
+9,00:36:03.552,regen_dot,Poke-Drill,2.381s,239,144,0.603,144,239,0.603,false
+10,00:36:05.207,regen_dot,Poke-Drill,1.404s,103,70,0.68,70,103,0.68,false
+11,00:36:08.461,regen_dot,Poke-Drill,3.034s,242,157,0.649,157,242,0.649,false
+12,00:36:09.997,regen_dot,Poke-Drill,0.969s,98,62,0.633,62,98,0.633,false
+13,00:36:11.721,regen_dot,Poke-Drill,1.347s,136,78,0.574,78,136,0.574,false
+14,00:36:14.121,regen_dot,Poke-Drill,2.152s,216,105,0.486,105,216,0.486,false
+15,00:36:15.932,regen_dot,Poke-Drill,1.565s,128,80,0.625,80,128,0.625,false
+16,00:36:17.971,regen_dot,Poke-Drill,1.328s,134,87,0.649,87,134,0.649,false
+17,00:36:23.703,regen_dot,Poke-Drill,5.482s,530,307,0.579,307,530,0.579,false
+18,00:36:25.768,regen_dot,Poke-Drill,1.815s,106,67,0.632,67,106,0.632,false
+19,00:36:27.757,regen_dot,Poke-Drill,1.728s,136,100,0.735,100,136,0.735,false
+20,00:36:30.034,regen_dot,Poke-Drill,2.019s,139,73,0.525,73,139,0.525,false
+21,00:36:31.160,regen_dot,Poke-Drill,0.874s,60,50,0.833,50,60,0.833,false
+22,00:36:35.157,regen_dot,Poke-Drill,3.744s,353,173,0.49,173,353,0.49,false
+23,00:36:36.949,regen_dot,Poke-Drill,1.146s,116,90,0.776,90,116,0.776,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4487,2665,2665.0,4487.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,50.674
+Avg TTK:,2.609
+Damage Done:,2665.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,23.0
+Scenario:,tamTargetSwitch Smooth
+Hash:,ebaed4d804f7bb0b1fa3961826398e1f
+Game Version:,v2.7.0
+Challenge Start:,00:33:26.190
+Pause Count:,22
+Pause Duration:,349
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,290.229828
+Resolution Scale,100.0

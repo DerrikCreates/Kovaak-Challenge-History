@@ -1,0 +1,66 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:06:23.766,test,pistol,1.005s,3,2,0.667,1000,3000,0.333,false
+2,04:06:25.363,test,pistol,1.048s,3,2,0.667,1000,3000,0.333,false
+3,04:06:28.037,test,pistol,2.114s,5,2,0.4,1000,5000,0.2,false
+4,04:06:29.165,test,pistol,0.551s,2,2,1,1000,2000,0.5,false
+5,04:06:30.897,test,pistol,1.083s,3,2,0.667,1000,3000,0.333,false
+6,04:06:34.017,test,pistol,2.355s,5,2,0.4,1000,5000,0.2,false
+7,04:06:35.451,test,pistol,0.725s,3,2,0.667,1000,3000,0.333,false
+8,04:06:37.224,test,pistol,0.761s,3,2,0.667,1000,3000,0.333,false
+9,04:06:38.430,test,pistol,0.415s,2,2,1,1000,2000,0.5,false
+10,04:06:40.145,test,pistol,1.208s,4,2,0.5,1000,4000,0.25,false
+11,04:06:41.389,test,pistol,0.533s,2,2,1,1000,2000,0.5,false
+12,04:06:43.131,test,pistol,0.762s,3,2,0.667,1000,3000,0.333,false
+13,04:06:44.812,test,pistol,0.736s,3,2,0.667,1000,3000,0.333,false
+14,04:06:48.427,test,pistol,2.897s,6,2,0.333,1000,6000,0.167,false
+15,04:06:49.825,test,pistol,0.948s,3,2,0.667,1000,3000,0.333,false
+16,04:06:52.965,test,pistol,2.29s,5,3,0.6,1500,5000,0.3,false
+17,04:06:53.799,test,pistol,0.325s,2,1,0.5,500,2000,0.25,false
+18,04:06:56.858,test,pistol,2.246s,4,2,0.5,1000,4000,0.25,false
+19,04:06:59.134,test,pistol,1.651s,4,2,0.5,1000,4000,0.25,false
+20,04:07:02.018,test,pistol,2.252s,5,2,0.4,1000,5000,0.2,false
+21,04:07:03.041,test,pistol,0.46s,2,2,1,1000,2000,0.5,false
+22,04:07:04.249,test,pistol,0.767s,3,2,0.667,1000,3000,0.333,false
+23,04:07:08.631,test,pistol,3.421s,6,2,0.333,1000,6000,0.167,false
+24,04:07:10.724,test,pistol,0.908s,3,2,0.667,1000,3000,0.333,false
+25,04:07:15.757,test,pistol,4.004s,6,3,0.5,1500,6000,0.25,false
+26,04:07:19.808,test,pistol,3.39s,6,2,0.333,1000,6000,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,98,53,26500.0,98000.0,
+
+Kills:,26
+Deaths:,0
+Fight Time:,38.855
+Avg TTK:,3.305
+Damage Done:,26500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,26.0
+Scenario:,Pasu 360 Reload Goated 2-Click
+Hash:,39447b75b5b08f1ab7b4f84431ec2076
+Game Version:,v2.8.5
+Challenge Start:,04:06:21.753
+Pause Count:,67
+Pause Duration:,264
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,386.602936
+Resolution Scale,100.0

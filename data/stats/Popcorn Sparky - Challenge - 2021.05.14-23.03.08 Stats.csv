@@ -1,0 +1,45 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:02:09.634,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+2,23:02:11.907,Pigeon2,pistol,0s,1,1,1,100,200,0.5,false
+3,23:02:12.964,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+4,23:02:17.258,Pigeon2,pistol,3.349s,3,1,0.333,100,600,0.167,false
+5,23:02:25.484,Pigeon2,pistol,7.064s,5,1,0.2,100,1000,0.1,false
+6,23:02:34.609,Pigeon2,pistol,7.702s,5,1,0.2,100,1000,0.1,false
+7,23:02:49.128,Pigeon5,pistol,13.026s,8,1,0.125,100,1600,0.062,false
+8,23:02:50.240,Pigeon,pistol,0s,1,1,1,100,200,0.5,false
+9,23:02:57.423,Pigeon,pistol,5.3s,4,1,0.25,100,800,0.125,false
+10,23:03:07.191,Pigeon,pistol,7.863s,6,1,0.167,100,1200,0.083,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,35,10,1000.0,7000.0,
+
+Kills:,10
+Deaths:,0
+Fight Time:,44.304001
+Avg TTK:,0
+Damage Done:,1000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,100.0
+Scenario:,Popcorn Sparky
+Hash:,59515d3a0a5808045985f4e8ef3ffb5e
+Game Version:,2.0.4.0
+Challenge Start:,23:02:08.400
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,159.981384
+Resolution Scale,100.0

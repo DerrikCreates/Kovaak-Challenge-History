@@ -1,0 +1,183 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:15:31.257,target,BB Gun,0s,1,1,1,1,1,1,false
+2,01:15:31.591,target,BB Gun,0s,1,1,1,1,1,1,false
+3,01:15:31.952,target,BB Gun,0s,1,1,1,1,1,1,false
+4,01:15:32.332,targetb,BB Gun,0s,1,1,1,1,1,1,false
+5,01:15:32.649,targetb,BB Gun,0s,1,1,1,1,1,1,false
+6,01:15:32.962,target,BB Gun,0s,1,1,1,1,1,1,false
+7,01:15:33.305,target,BB Gun,0s,1,1,1,1,1,1,false
+8,01:15:33.640,targetc,BB Gun,0s,1,1,1,1,1,1,false
+9,01:15:33.965,targetb,BB Gun,0s,1,1,1,1,1,1,false
+10,01:15:34.304,target,BB Gun,0s,1,1,1,1,1,1,false
+11,01:15:34.663,targetb,BB Gun,0.001s,1,1,1,1,1,1,false
+12,01:15:35.292,targetc,BB Gun,0.301s,2,1,0.5,1,2,0.5,false
+13,01:15:35.643,targetb,BB Gun,0s,1,1,1,1,1,1,false
+14,01:15:35.992,targetc,BB Gun,0s,1,1,1,1,1,1,false
+15,01:15:36.346,targetd,BB Gun,0s,1,1,1,1,1,1,false
+16,01:15:36.658,targetd,BB Gun,0s,1,1,1,1,1,1,false
+17,01:15:37.004,targetc,BB Gun,0.001s,1,1,1,1,1,1,false
+18,01:15:37.634,targetb,BB Gun,0.375s,2,1,0.5,1,2,0.5,false
+19,01:15:37.934,targetc,BB Gun,0s,1,1,1,1,1,1,false
+20,01:15:38.254,targetc,BB Gun,0s,1,1,1,1,1,1,false
+21,01:15:38.850,targetd,BB Gun,0.277s,2,1,0.5,1,2,0.5,false
+22,01:15:39.155,targete,BB Gun,0s,1,1,1,1,1,1,false
+23,01:15:39.470,targete,BB Gun,0s,1,1,1,1,1,1,false
+24,01:15:40.056,targetf,BB Gun,0.208s,2,1,0.5,1,2,0.5,false
+25,01:15:40.384,targete,BB Gun,0s,1,1,1,1,1,1,false
+26,01:15:40.707,targetd,BB Gun,0s,1,1,1,1,1,1,false
+27,01:15:41.221,targetd,BB Gun,0.249s,2,1,0.5,1,2,0.5,false
+28,01:15:41.471,targetd,BB Gun,0s,1,1,1,1,1,1,false
+29,01:15:41.878,targetf,BB Gun,0.001s,1,1,1,1,1,1,false
+30,01:15:42.296,targetf,BB Gun,0s,1,1,1,1,1,1,false
+31,01:15:43.366,targete,BB Gun,0.763s,3,1,0.333,1,3,0.333,false
+32,01:15:44.037,targete,BB Gun,0.306s,2,1,0.5,1,2,0.5,false
+33,01:15:44.696,targetf,BB Gun,0.324s,2,1,0.5,1,2,0.5,false
+34,01:15:45.025,targetg,BB Gun,0s,1,1,1,1,1,1,false
+35,01:15:45.371,targetg,BB Gun,0s,1,1,1,1,1,1,false
+36,01:15:45.686,targetg,BB Gun,0s,1,1,1,1,1,1,false
+37,01:15:46.237,targetf,BB Gun,0.239s,2,1,0.5,1,2,0.5,false
+38,01:15:46.501,targetg,BB Gun,0.001s,1,1,1,1,1,1,false
+39,01:15:46.837,targetg,BB Gun,0s,1,1,1,1,1,1,false
+40,01:15:47.160,targete,BB Gun,0.001s,1,1,1,1,1,1,false
+41,01:15:47.600,targeth,BB Gun,0s,1,1,1,1,1,1,false
+42,01:15:47.948,targeth,BB Gun,0s,1,1,1,1,1,1,false
+43,01:15:48.286,targeth,BB Gun,0.001s,1,1,1,1,1,1,false
+44,01:15:48.638,targeti,BB Gun,0.001s,1,1,1,1,1,1,false
+45,01:15:49.007,targeth,BB Gun,0s,1,1,1,1,1,1,false
+46,01:15:49.385,targeth,BB Gun,0s,1,1,1,1,1,1,false
+47,01:15:49.779,targetf,BB Gun,0s,1,1,1,1,1,1,false
+48,01:15:50.195,targeti,BB Gun,0s,1,1,1,1,1,1,false
+49,01:15:50.543,targetj,BB Gun,0.001s,1,1,1,1,1,1,false
+50,01:15:50.930,targeti,BB Gun,0s,1,1,1,1,1,1,false
+51,01:15:51.288,targetj,BB Gun,0.001s,1,1,1,1,1,1,false
+52,01:15:51.564,targeti,BB Gun,0s,1,1,1,1,1,1,false
+53,01:15:51.867,targeti,BB Gun,0s,1,1,1,1,1,1,false
+54,01:15:52.164,targetj,BB Gun,0s,1,1,1,1,1,1,false
+55,01:15:53.391,targeth,BB Gun,0.875s,4,1,0.25,1,4,0.25,false
+56,01:15:53.755,targeti,BB Gun,0.001s,1,1,1,1,1,1,false
+57,01:15:54.106,targeth,BB Gun,0s,1,1,1,1,1,1,false
+58,01:15:54.383,targeth,BB Gun,0s,1,1,1,1,1,1,false
+59,01:15:54.718,targetg,BB Gun,0s,1,1,1,1,1,1,false
+60,01:15:55.010,targetg,BB Gun,0.001s,1,1,1,1,1,1,false
+61,01:15:55.563,targetg,BB Gun,0s,1,1,1,1,1,1,false
+62,01:15:55.948,targetg,BB Gun,0s,1,1,1,1,1,1,false
+63,01:15:56.649,targetf,BB Gun,0.341s,2,1,0.5,1,2,0.5,false
+64,01:15:57.035,targetf,BB Gun,0s,1,1,1,1,1,1,false
+65,01:15:57.267,targete,BB Gun,0s,1,1,1,1,1,1,false
+66,01:15:57.758,targetf,BB Gun,0.001s,1,1,1,1,1,1,false
+67,01:15:58.041,targete,BB Gun,0s,1,1,1,1,1,1,false
+68,01:15:58.406,targete,BB Gun,0s,1,1,1,1,1,1,false
+69,01:15:58.856,targeti,BB Gun,0s,1,1,1,1,1,1,false
+70,01:15:59.249,targeth,BB Gun,0s,1,1,1,1,1,1,false
+71,01:15:59.619,targeti,BB Gun,0s,1,1,1,1,1,1,false
+72,01:16:00.024,targetj,BB Gun,0.001s,1,1,1,1,1,1,false
+73,01:16:00.336,targetj,BB Gun,0s,1,1,1,1,1,1,false
+74,01:16:00.654,targeti,BB Gun,0s,1,1,1,1,1,1,false
+75,01:16:00.908,targeti,BB Gun,0s,1,1,1,1,1,1,false
+76,01:16:01.256,targetj,BB Gun,0s,1,1,1,1,1,1,false
+77,01:16:01.542,targeti,BB Gun,0s,1,1,1,1,1,1,false
+78,01:16:01.824,targeti,BB Gun,0s,1,1,1,1,1,1,false
+79,01:16:02.110,targeth,BB Gun,0s,1,1,1,1,1,1,false
+80,01:16:03.121,targeth,BB Gun,0.594s,2,1,0.5,1,2,0.5,false
+81,01:16:03.507,targetg,BB Gun,0s,1,1,1,1,1,1,false
+82,01:16:03.852,targetg,BB Gun,0s,1,1,1,1,1,1,false
+83,01:16:04.302,targetf,BB Gun,0s,1,1,1,1,1,1,false
+84,01:16:04.607,targetf,BB Gun,0.001s,1,1,1,1,1,1,false
+85,01:16:04.930,targeth,BB Gun,0s,1,1,1,1,1,1,false
+86,01:16:05.770,targete,BB Gun,0.329s,2,1,0.5,1,2,0.5,false
+87,01:16:06.051,targete,BB Gun,0s,1,1,1,1,1,1,false
+88,01:16:06.384,targetd,BB Gun,0s,1,1,1,1,1,1,false
+89,01:16:06.643,targetd,BB Gun,0s,1,1,1,1,1,1,false
+90,01:16:07.045,targetd,BB Gun,0s,1,1,1,1,1,1,false
+91,01:16:07.310,targetd,BB Gun,0s,1,1,1,1,1,1,false
+92,01:16:07.650,targetc,BB Gun,0s,1,1,1,1,1,1,false
+93,01:16:08.029,targetc,BB Gun,0s,1,1,1,1,1,1,false
+94,01:16:08.358,targetc,BB Gun,0.001s,1,1,1,1,1,1,false
+95,01:16:08.660,targetd,BB Gun,0s,1,1,1,1,1,1,false
+96,01:16:09.058,targetb,BB Gun,0.001s,1,1,1,1,1,1,false
+97,01:16:09.376,targetc,BB Gun,0s,1,1,1,1,1,1,false
+98,01:16:10.129,targetb,BB Gun,0.356s,2,1,0.5,1,2,0.5,false
+99,01:16:10.447,target,BB Gun,0s,1,1,1,1,1,1,false
+100,01:16:11.144,targetb,BB Gun,0.35s,2,1,0.5,1,2,0.5,false
+101,01:16:11.499,targetb,BB Gun,0s,1,1,1,1,1,1,false
+102,01:16:11.837,targetc,BB Gun,0s,1,1,1,1,1,1,false
+103,01:16:12.205,target,BB Gun,0s,1,1,1,1,1,1,false
+104,01:16:12.556,targetb,BB Gun,0s,1,1,1,1,1,1,false
+105,01:16:12.939,target,BB Gun,0.001s,1,1,1,1,1,1,false
+106,01:16:13.237,targetb,BB Gun,0s,1,1,1,1,1,1,false
+107,01:16:13.596,targetb,BB Gun,0.001s,1,1,1,1,1,1,false
+108,01:16:14.022,target,BB Gun,0s,1,1,1,1,1,1,false
+109,01:16:14.355,targetc,BB Gun,0s,1,1,1,1,1,1,false
+110,01:16:15.037,target,BB Gun,0.312s,2,1,0.5,1,2,0.5,false
+111,01:16:15.379,targetb,BB Gun,0s,1,1,1,1,1,1,false
+112,01:16:16.198,targetb,BB Gun,0.499s,2,1,0.5,1,2,0.5,false
+113,01:16:16.569,targetd,BB Gun,0s,1,1,1,1,1,1,false
+114,01:16:16.929,targetb,BB Gun,0s,1,1,1,1,1,1,false
+115,01:16:17.298,targetc,BB Gun,0.001s,1,1,1,1,1,1,false
+116,01:16:17.727,targetc,BB Gun,0s,1,1,1,1,1,1,false
+117,01:16:18.046,targetc,BB Gun,0s,1,1,1,1,1,1,false
+118,01:16:18.446,targetc,BB Gun,0s,1,1,1,1,1,1,false
+119,01:16:18.790,targetd,BB Gun,0s,1,1,1,1,1,1,false
+120,01:16:19.475,targetd,BB Gun,0.32s,2,1,0.5,1,2,0.5,false
+121,01:16:20.207,targete,BB Gun,0.366s,2,1,0.5,1,2,0.5,false
+122,01:16:20.571,targetd,BB Gun,0s,1,1,1,1,1,1,false
+123,01:16:20.954,targete,BB Gun,0.001s,1,1,1,1,1,1,false
+124,01:16:21.316,targetd,BB Gun,0s,1,1,1,1,1,1,false
+125,01:16:21.691,targete,BB Gun,0.001s,1,1,1,1,1,1,false
+126,01:16:21.999,targetf,BB Gun,0s,1,1,1,1,1,1,false
+127,01:16:22.316,targetf,BB Gun,0s,1,1,1,1,1,1,false
+128,01:16:22.642,targetg,BB Gun,0s,1,1,1,1,1,1,false
+129,01:16:23.150,targete,BB Gun,0.196s,2,1,0.5,1,2,0.5,false
+130,01:16:23.483,targetf,BB Gun,0.001s,1,1,1,1,1,1,false
+131,01:16:23.838,targetf,BB Gun,0s,1,1,1,1,1,1,false
+132,01:16:24.105,targete,BB Gun,0s,1,1,1,1,1,1,false
+133,01:16:24.525,targetg,BB Gun,0s,1,1,1,1,1,1,false
+134,01:16:24.872,targetg,BB Gun,0s,1,1,1,1,1,1,false
+135,01:16:25.257,targeth,BB Gun,0s,1,1,1,1,1,1,false
+136,01:16:26.347,targeti,BB Gun,0.734s,3,1,0.333,1,3,0.333,false
+137,01:16:27.165,targetj,BB Gun,0.416s,2,1,0.5,1,2,0.5,false
+138,01:16:27.596,targeth,BB Gun,0.263s,2,1,0.5,1,2,0.5,false
+139,01:16:28.370,targeti,BB Gun,0.455s,2,1,0.5,1,2,0.5,false
+140,01:16:29.209,targetj,BB Gun,0.41s,2,1,0.5,1,2,0.5,false
+141,01:16:29.565,targeti,BB Gun,0.001s,1,1,1,1,1,1,false
+142,01:16:29.979,targeti,BB Gun,0s,1,1,1,1,1,1,false
+143,01:16:30.332,targeth,BB Gun,0.001s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+BB Gun,172,143,143.0,172.0,
+
+Kills:,143
+Deaths:,0
+Fight Time:,9.882
+Avg TTK:,0.419
+Damage Done:,143.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,118.889534
+Scenario:,1w6ts_trustechain Raspberry
+Hash:,2b1c6dffa692d46616dca47c1bd439f7
+Game Version:,v2.8.6
+Challenge Start:,01:15:30.338
+Pause Count:,24
+Pause Duration:,92
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,267.570068
+Resolution Scale,100.0

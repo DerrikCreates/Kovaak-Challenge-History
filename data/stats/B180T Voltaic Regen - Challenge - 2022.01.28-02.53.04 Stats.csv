@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:52:06.200,Low,B180T LG,1.187s,23,13,0.565,13,23,0.565,false
+2,02:52:09.285,Mid,B180T LG,2.76s,52,23,0.442,23,52,0.442,false
+3,02:52:11.017,High,B180T LG,1.409s,27,15,0.556,15,27,0.556,false
+4,02:52:17.998,Mid,B180T LG,6.659s,124,58,0.468,58,124,0.468,false
+5,02:52:20.111,Mid,B180T LG,1.786s,34,13,0.382,13,34,0.382,false
+6,02:52:22.600,Mid,B180T LG,2.165s,41,20,0.488,20,41,0.488,false
+7,02:52:26.765,Low,B180T LG,3.843s,72,30,0.417,30,72,0.417,false
+8,02:52:31.797,High,B180T LG,4.708s,88,39,0.443,39,88,0.443,false
+9,02:52:34.289,Mid,B180T LG,2.164s,41,19,0.463,19,41,0.463,false
+10,02:52:37.211,Low,B180T LG,2.598s,49,24,0.49,24,49,0.49,false
+11,02:52:40.944,High,B180T LG,3.409s,64,29,0.453,29,64,0.453,false
+12,02:52:43.432,Mid,B180T LG,2.166s,41,20,0.488,20,41,0.488,false
+13,02:52:52.633,Low,B180T LG,8.875s,165,66,0.4,66,165,0.4,false
+14,02:53:03.781,High,B180T LG,10.821s,201,82,0.408,82,201,0.408,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+B180T LG,1033,456,456.0,1033.0,
+
+Kills:,14
+Deaths:,0
+Fight Time:,54.549999
+Avg TTK:,5.042
+Damage Done:,456.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,14.0
+Scenario:,B180T Voltaic Regen
+Hash:,f1ce4e3fb474018946691172a1dfdf3d
+Game Version:,v2.8.5
+Challenge Start:,02:52:04.373
+Pause Count:,13
+Pause Duration:,156
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,344.603516
+Resolution Scale,100.0

@@ -1,0 +1,40 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG HS v2,1174,321,510.0,2348.0,
+
+Kills:,0
+Deaths:,0
+Fight Time:,0.0
+Avg TTK:,0
+Damage Done:,510.0
+Damage Taken:,600.0
+Midairs:,0
+Midaired:,4
+Directs:,0
+Directed:,5
+Reloads:,0
+Distance Traveled:,58525.964844
+Score:,420.0
+Scenario:,Close Fast Colosseum Robots
+Hash:,3b6da13e327937d07f7d38280d8c6f5f
+Game Version:,v2.6.3
+Challenge Start:,19:28:27.891
+Pause Count:,3
+Pause Duration:,13
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.605042
+Resolution Scale,100.0

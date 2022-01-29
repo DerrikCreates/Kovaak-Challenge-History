@@ -1,0 +1,66 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:26:32.619,Watcher Bot Long Strafes,pistol,0.767s,4,2,0.5,800,1600,0.5,false
+2,22:26:34.111,Watcher Bot Long Strafes,pistol,0.747s,4,2,0.5,800,1600,0.5,false
+3,22:26:38.018,Watcher Bot Long Strafes,pistol,3.408s,7,2,0.286,800,2800,0.286,false
+4,22:26:39.003,Watcher Bot Long Strafes,pistol,0.407s,2,2,1,800,800,1,false
+5,22:26:40.263,Watcher Bot Long Strafes,pistol,0.497s,3,2,0.667,600,1200,0.5,false
+6,22:26:47.977,Watcher Bot Long Strafes,pistol,7.464s,17,2,0.118,800,6800,0.118,false
+7,22:26:52.113,Watcher Bot Long Strafes,pistol,3.431s,8,2,0.25,800,3200,0.25,false
+8,22:26:54.396,Watcher Bot Long Strafes,pistol,1.365s,5,2,0.4,800,2000,0.4,false
+9,22:26:59.375,Watcher Bot Long Strafes,pistol,3.878s,9,3,0.333,800,3600,0.222,false
+10,22:27:00.632,Watcher Bot Long Strafes,pistol,1.005s,4,2,0.5,800,1600,0.5,false
+11,22:27:02.357,Watcher Bot Long Strafes,pistol,1.474s,5,3,0.6,800,2000,0.4,false
+12,22:27:07.055,Watcher Bot Long Strafes,pistol,4.198s,10,2,0.2,600,4000,0.15,false
+13,22:27:08.831,Watcher Bot Long Strafes,pistol,0.747s,4,2,0.5,800,1600,0.5,false
+14,22:27:10.122,Watcher Bot Long Strafes,pistol,1.038s,5,2,0.4,800,2000,0.4,false
+15,22:27:10.887,Watcher Bot Long Strafes,pistol,0.249s,2,2,1,800,800,1,false
+16,22:27:12.784,Watcher Bot Long Strafes,pistol,0.748s,4,2,0.5,800,1600,0.5,false
+17,22:27:14.508,Watcher Bot Long Strafes,pistol,0.996s,5,2,0.4,800,2000,0.4,false
+18,22:27:16.004,Watcher Bot Long Strafes,pistol,0.75s,4,2,0.5,800,1600,0.5,false
+19,22:27:18.697,Watcher Bot Long Strafes,pistol,1.891s,5,2,0.4,800,2000,0.4,false
+20,22:27:19.871,Watcher Bot Long Strafes,pistol,0.499s,3,2,0.667,800,1200,0.667,false
+21,22:27:24.820,Watcher Bot Long Strafes,pistol,4.26s,12,4,0.333,1600,4800,0.333,false
+22,22:27:26.060,Watcher Bot Long Strafes,pistol,0.496s,3,1,0.333,200,1200,0.167,false
+23,22:27:27.512,Watcher Bot Long Strafes,pistol,1.2s,5,1,0.2,400,2000,0.2,false
+24,22:27:28.777,Watcher Bot Long Strafes,pistol,0.749s,4,2,0.5,600,1600,0.375,false
+25,22:27:30.249,Watcher Bot Long Strafes,pistol,0.498s,3,2,0.667,800,1200,0.667,false
+26,22:27:30.876,Watcher Bot Long Strafes,pistol,0.248s,2,2,1,800,800,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,139,54,20000.0,55600.0,
+
+Kills:,26
+Deaths:,0
+Fight Time:,43.009998
+Avg TTK:,2.304
+Damage Done:,20000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,7
+Distance Traveled:,0.0
+Score:,100000.0
+Scenario:,Pistol Strafe Gallery Small
+Hash:,aa2c9f835e32f48136aaf900b8ac692f
+Game Version:,v2.8.6
+Challenge Start:,22:26:30.876
+Pause Count:,37
+Pause Duration:,192
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.934753
+Resolution Scale,100.0

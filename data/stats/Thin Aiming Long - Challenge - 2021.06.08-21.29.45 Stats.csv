@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:28:51.382,Thin very long strafe,Track Master 100,4.606s,462,200,0.433,200,462,0.433,false
+2,21:29:00.587,Thin very long strafe,Track Master 100,8.948s,688,200,0.291,200,688,0.291,false
+3,21:29:08.451,Thin very long strafe,Track Master 100,7.607s,574,200,0.348,200,574,0.348,false
+4,21:29:18.267,Thin very long strafe,Track Master 100,9.565s,809,200,0.247,200,809,0.247,false
+5,21:29:28.746,Thin very long strafe,Track Master 100,10.225s,789,200,0.253,200,789,0.253,false
+6,21:29:39.296,Thin very long strafe,Track Master 100,8.047s,806,200,0.248,200,806,0.248,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,4538,1292,1292.0,4538.0,
+
+Kills:,6
+Deaths:,0
+Fight Time:,48.998001
+Avg TTK:,0
+Damage Done:,1292.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1292.0
+Scenario:,Thin Aiming Long
+Hash:,3a5aabeed03bd10e4d437104ff1b425b
+Game Version:,2.0.5.0
+Challenge Start:,21:28:45.646
+Pause Count:,7
+Pause Duration:,50
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,205.580612
+Resolution Scale,100.0

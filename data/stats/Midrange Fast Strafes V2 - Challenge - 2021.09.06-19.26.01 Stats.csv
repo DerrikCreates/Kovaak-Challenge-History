@@ -1,0 +1,45 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:25:10.078,Quaker Bot Fast Strafes,LG,6.99s,153,50,0.327,300,918,0.327,false
+2,19:25:17.888,Quaker Bot Fast Strafes,LG,7.534s,141,50,0.355,300,846,0.355,false
+3,19:25:26.691,Quaker Bot Fast Strafes,LG,8.527s,158,50,0.316,300,948,0.316,false
+4,19:25:34.774,Quaker Bot Fast Strafes,LG,7.806s,143,50,0.35,300,858,0.35,false
+5,19:25:41.976,Quaker Bot Fast Strafes,LG,6.926s,129,50,0.388,300,774,0.388,false
+6,19:25:49.883,Quaker Bot Fast Strafes,LG,7.631s,146,50,0.342,300,876,0.342,false
+7,19:25:58.256,Quaker Bot Fast Strafes,LG,8.097s,157,50,0.318,300,942,0.318,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1081,358,2148.0,6486.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,53.511002
+Avg TTK:,0
+Damage Done:,2148.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6444.0
+Scenario:,Midrange Fast Strafes V2
+Hash:,f8b3a53c2d64810c6b74f5d69474f711
+Game Version:,2.0.5.3
+Challenge Start:,19:25:01.970
+Pause Count:,10
+Pause Duration:,80
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.868317
+Resolution Scale,100.0

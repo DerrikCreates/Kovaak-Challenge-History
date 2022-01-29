@@ -1,0 +1,46 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:26:30.768,Quaker Bot Fast Strafes Thin,shotgun,1.078s,20,15,0.75,300,400,0.75,false
+2,03:26:37.870,Quaker Bot Fast Strafes Thin,shotgun,5.528s,50,21,0.42,420,1000,0.42,false
+3,03:26:40.318,Quaker Bot Fast Strafes Thin,shotgun,1.179s,20,20,1,360,400,0.9,false
+4,03:26:59.277,Quaker Bot Fast Strafes Thin,shotgun,17.774s,110,15,0.136,300,2200,0.136,false
+5,03:27:12.296,Quaker Bot Fast Strafes Thin,shotgun,11.897s,90,23,0.256,460,1800,0.256,false
+6,03:27:17.400,Quaker Bot Fast Strafes Thin,shotgun,3.361s,40,15,0.375,300,800,0.375,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+shotgun,410,110,2160.0,8200.0,
+
+Kills:,6
+Deaths:,0
+Fight Time:,40.817001
+Avg TTK:,10
+Damage Done:,2160.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,832.843201
+Score:,6480.0
+Scenario:,CFSE Thin Shotgun HS
+Hash:,e4fef8eafe7ea7f776b8dd8b0ebfc6e9
+Game Version:,v2.8.5
+Challenge Start:,03:26:28.853
+Pause Count:,34
+Pause Duration:,190
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.041199
+Resolution Scale,100.0

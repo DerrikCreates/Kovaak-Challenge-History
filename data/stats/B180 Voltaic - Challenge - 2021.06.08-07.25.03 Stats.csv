@@ -1,0 +1,89 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:24:04.843,Mid,b180 pistol,0.383s,2,1,0.5,50,250,0.2,false
+2,07:24:05.622,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+3,07:24:06.221,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+4,07:24:06.949,Mid,b180 pistol,0.344s,2,1,0.5,50,250,0.2,false
+5,07:24:07.774,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+6,07:24:09.524,Low,b180 pistol,0.493s,2,1,0.5,50,250,0.2,false
+7,07:24:10.310,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+8,07:24:11.087,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+9,07:24:12.126,Mid,b180 pistol,0.284s,2,1,0.5,50,250,0.2,false
+10,07:24:13.742,High,b180 pistol,0.676s,2,1,0.5,50,250,0.2,false
+11,07:24:14.732,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+12,07:24:15.522,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+13,07:24:19.310,Mid,b180 pistol,2.77s,4,1,0.25,50,500,0.1,false
+14,07:24:19.672,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+15,07:24:20.471,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+16,07:24:21.622,High,b180 pistol,0.66s,2,1,0.5,50,250,0.2,false
+17,07:24:22.707,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+18,07:24:23.495,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+19,07:24:24.307,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+20,07:24:25.087,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+21,07:24:25.939,High,b180 pistol,0.291s,2,1,0.5,50,250,0.2,false
+22,07:24:27.479,High,b180 pistol,0.976s,3,1,0.333,50,375,0.133,false
+23,07:24:29.232,Mid,b180 pistol,0.586s,3,1,0.333,50,375,0.133,false
+24,07:24:31.310,Low,b180 pistol,0.944s,3,1,0.333,50,375,0.133,false
+25,07:24:32.519,Mid,b180 pistol,0.262s,2,1,0.5,50,250,0.2,false
+26,07:24:33.522,Mid,b180 pistol,0.501s,2,1,0.5,50,250,0.2,false
+27,07:24:34.859,Low,b180 pistol,0.318s,2,1,0.5,50,250,0.2,false
+28,07:24:35.417,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+29,07:24:36.436,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+30,07:24:36.960,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+31,07:24:39.401,High,b180 pistol,1.734s,4,1,0.25,50,500,0.1,false
+32,07:24:40.243,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+33,07:24:40.750,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+34,07:24:41.268,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+35,07:24:44.709,Mid,b180 pistol,2.834s,5,1,0.2,50,625,0.08,false
+36,07:24:46.154,Mid,b180 pistol,0.93s,2,1,0.5,50,250,0.2,false
+37,07:24:46.708,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+38,07:24:47.157,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+39,07:24:47.750,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+40,07:24:49.853,Mid,b180 pistol,1.434s,3,1,0.333,50,375,0.133,false
+41,07:24:50.524,High,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+42,07:24:51.320,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+43,07:24:51.889,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+44,07:24:52.750,Mid,b180 pistol,0.268s,2,1,0.5,50,250,0.2,false
+45,07:24:53.486,Low,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+46,07:24:54.538,Mid,b180 pistol,0.461s,3,1,0.333,50,375,0.133,false
+47,07:24:58.231,Low,b180 pistol,2.745s,4,1,0.25,50,500,0.1,false
+48,07:24:59.108,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+49,07:25:00.374,Mid,b180 pistol,0.656s,2,1,0.5,50,250,0.2,false
+50,07:25:01.976,Mid,b180 pistol,0.688s,3,1,0.333,50,375,0.133,false
+51,07:25:02.976,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+b180 pistol,89,51,2550.0,11125.0,
+
+Kills:,51
+Deaths:,0
+Fight Time:,21.243
+Avg TTK:,0
+Damage Done:,2550.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,51.0
+Scenario:,B180 Voltaic
+Hash:,c01cb433518fa3bccf4fb0e7a19d5a0d
+Game Version:,2.0.5.0
+Challenge Start:,07:24:03.468
+Pause Count:,10
+Pause Duration:,60
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,337.310516
+Resolution Scale,100.0

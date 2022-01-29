@@ -1,0 +1,60 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:22:20.476,invasion,pistol HS,6.838s,19,2,0.105,30,475,0.063,false
+2,04:22:23.996,invasion,pistol HS,2.904s,9,1,0.111,25,225,0.111,false
+3,04:22:27.366,invasion,pistol HS,2.712s,6,1,0.167,25,150,0.167,false
+4,04:22:28.736,invasion,pistol HS,0.788s,3,1,0.333,25,75,0.333,false
+5,04:22:36.183,invasion,pistol HS,6.441s,15,1,0.067,25,375,0.067,false
+6,04:22:39.468,invasion,pistol HS,2.644s,7,3,0.429,35,175,0.2,false
+7,04:22:40.522,invasion,pistol HS,0.695s,3,1,0.333,25,75,0.333,false
+8,04:22:45.781,invasion,pistol HS,4.685s,9,2,0.222,30,225,0.133,false
+9,04:22:47.177,invasion,pistol HS,0.913s,3,2,0.667,30,75,0.4,false
+10,04:22:50.241,invasion,pistol HS,2.588s,7,2,0.286,30,175,0.171,false
+11,04:22:52.071,invasion,pistol HS,1.483s,6,1,0.167,25,150,0.167,false
+12,04:22:55.869,invasion,pistol HS,3.42s,8,2,0.25,30,200,0.15,false
+13,04:22:57.665,invasion,pistol HS,1.145s,3,1,0.333,25,75,0.333,false
+14,04:22:58.584,invasion,pistol HS,0s,1,1,1,25,25,1,false
+15,04:22:59.440,invasion,pistol HS,0s,1,1,1,25,25,1,false
+16,04:23:00.122,invasion,pistol HS,0s,1,1,1,25,25,1,false
+17,04:23:02.600,invasion,pistol HS,1.662s,5,1,0.2,25,125,0.2,false
+18,04:23:03.499,invasion,pistol HS,0.447s,2,1,0.5,25,50,0.5,false
+19,04:23:06.947,invasion,pistol HS,2.813s,8,1,0.125,25,200,0.125,false
+20,04:23:07.601,invasion,pistol HS,0s,1,1,1,25,25,1,false
+21,04:23:09.383,invasion,pistol HS,1.189s,4,1,0.25,25,100,0.25,false
+22,04:23:09.853,invasion,pistol HS,0s,1,1,1,25,25,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol HS,126,30,590.0,3150.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,43.367001
+Avg TTK:,0
+Damage Done:,590.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,754.761902
+Scenario:,Invasion Clicking
+Hash:,9dbd55728461255381787dbbc7b0ee94
+Game Version:,2.0.5.3
+Challenge Start:,04:22:12.349
+Pause Count:,51
+Pause Duration:,377
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.830658
+Resolution Scale,100.0

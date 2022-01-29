@@ -1,0 +1,65 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,05:54:08.640,tamtssh,Poke-Drill,2.993s,276,122,0.442,122,276,0.442,false
+2,05:54:09.755,tamtssh,Poke-Drill,0.859s,75,55,0.733,55,75,0.733,false
+3,05:54:11.064,tamtssa,Poke-Drill,1.058s,93,67,0.72,67,93,0.72,false
+4,05:54:12.029,tamtssa,Poke-Drill,0.69s,70,60,0.857,60,70,0.857,false
+5,05:54:15.424,tamtssh,Poke-Drill,2.946s,296,144,0.486,144,296,0.486,false
+6,05:54:18.939,tamtssh,Poke-Drill,3.264s,310,168,0.542,168,310,0.542,false
+7,05:54:19.989,tamtssh,Poke-Drill,0.791s,57,50,0.877,50,57,0.877,false
+8,05:54:22.922,tamtssa,Poke-Drill,2.673s,194,80,0.412,80,194,0.412,false
+9,05:54:25.094,tamtssh,Poke-Drill,1.539s,155,113,0.729,113,155,0.729,false
+10,05:54:26.925,tamtssa,Poke-Drill,1.247s,126,90,0.714,90,126,0.714,false
+11,05:54:29.229,tamtssa,Poke-Drill,2.046s,174,81,0.466,81,174,0.466,false
+12,05:54:30.877,tamtssa,Poke-Drill,1.408s,92,77,0.837,77,92,0.837,false
+13,05:54:33.160,tamtssa,Poke-Drill,1.716s,173,100,0.578,100,173,0.578,false
+14,05:54:35.479,tamtssh,Poke-Drill,2.07s,163,80,0.491,80,163,0.491,false
+15,05:54:36.942,tamtssa,Poke-Drill,1.213s,103,55,0.534,55,103,0.534,false
+16,05:54:38.270,tamtssa,Poke-Drill,1.076s,62,50,0.806,50,62,0.806,false
+17,05:54:41.084,tamtssa,Poke-Drill,2.563s,219,125,0.571,125,219,0.571,false
+18,05:54:42.681,tamtssa,Poke-Drill,1.346s,98,65,0.663,65,98,0.663,false
+19,05:54:44.692,tamtssh,Poke-Drill,1.76s,121,65,0.537,65,121,0.537,false
+20,05:54:46.035,tamtssh,Poke-Drill,1.092s,67,50,0.746,50,67,0.746,false
+21,05:54:52.717,tamtssh,Poke-Drill,6.424s,501,253,0.505,253,501,0.505,false
+22,05:54:54.993,tamtssh,Poke-Drill,2.023s,154,93,0.604,93,154,0.604,false
+23,05:54:59.266,tamtssh,Poke-Drill,4.014s,356,159,0.447,159,356,0.447,false
+24,05:55:01.393,tamtssa,Poke-Drill,1.871s,153,85,0.556,85,153,0.556,false
+25,05:55:03.887,tamtssa,Poke-Drill,2.244s,172,97,0.564,97,172,0.564,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4265,2384,2384.0,4265.0,
+
+Kills:,25
+Deaths:,0
+Fight Time:,50.925999
+Avg TTK:,0
+Damage Done:,2384.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,25.0
+Scenario:,tamTS smooth Lapu4 10% large
+Hash:,b9675e688529fc354d180923a44e8da8
+Game Version:,v2.6.4
+Challenge Start:,05:54:04.285
+Pause Count:,15
+Pause Duration:,45
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,291.449219
+Resolution Scale,100.0

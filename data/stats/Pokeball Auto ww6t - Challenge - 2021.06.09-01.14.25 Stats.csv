@@ -1,0 +1,155 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:13:26.845,target,Poke-Drill,0.176s,19,6,0.316,1.2,3.8,0.316,false
+2,01:13:27.338,target,Poke-Drill,0.239s,25,6,0.24,1.2,5,0.24,false
+3,01:13:27.905,target,Poke-Drill,0.309s,32,11,0.344,2.2,6.4,0.344,false
+4,01:13:28.505,target,Poke-Drill,0.347s,36,8,0.222,1.6,7.2,0.222,false
+5,01:13:29.604,target,Poke-Drill,0.84s,85,10,0.118,2,17,0.118,false
+6,01:13:29.946,target,Poke-Drill,0.089s,10,6,0.6,1.2,2,0.6,false
+7,01:13:30.478,target,Poke-Drill,0.329s,34,6,0.176,1.2,6.8,0.176,false
+8,01:13:31.202,target,Poke-Drill,0.476s,49,14,0.286,2.8,9.8,0.286,false
+9,01:13:31.507,target,Poke-Drill,0.052s,6,6,1,1.2,1.2,1,false
+10,01:13:32.203,target,Poke-Drill,0.438s,45,10,0.222,2,9,0.222,false
+11,01:13:32.687,target,Poke-Drill,0.349s,36,10,0.278,2,7.2,0.278,false
+12,01:13:32.802,target,Poke-Drill,0.069s,8,8,1,1.6,1.6,1,false
+13,01:13:33.328,target,Poke-Drill,0.271s,28,6,0.214,1.2,5.6,0.214,false
+14,01:13:33.918,target,Poke-Drill,0.348s,36,6,0.167,1.2,7.2,0.167,false
+15,01:13:34.214,target,Poke-Drill,0.048s,6,6,1,1.2,1.2,1,false
+16,01:13:34.813,target,Poke-Drill,0.348s,36,6,0.167,1.2,7.2,0.167,false
+17,01:13:35.136,target,Poke-Drill,0.071s,8,6,0.75,1.2,1.6,0.75,false
+18,01:13:35.598,target,Poke-Drill,0.436s,45,11,0.244,2.2,9,0.244,false
+19,01:13:35.834,target,Poke-Drill,0.058s,7,7,1,1.4,1.4,1,false
+20,01:13:36.387,target,Poke-Drill,0.319s,33,7,0.212,1.4,6.6,0.212,false
+21,01:13:36.748,target,Poke-Drill,0.172s,18,8,0.444,1.6,3.6,0.444,false
+22,01:13:37.303,target,Poke-Drill,0.308s,32,11,0.344,2.2,6.4,0.344,false
+23,01:13:37.835,target,Poke-Drill,0.278s,29,6,0.207,1.2,5.8,0.207,false
+24,01:13:38.545,target,Poke-Drill,0.459s,47,8,0.17,1.6,9.4,0.17,false
+25,01:13:38.817,target,Poke-Drill,0.11s,12,7,0.583,1.4,2.4,0.583,false
+26,01:13:38.906,target,Poke-Drill,0.05s,6,6,1,1.2,1.2,1,false
+27,01:13:39.704,target,Poke-Drill,0.54s,55,13,0.236,2.6,11,0.236,false
+28,01:13:40.206,target,Poke-Drill,0.251s,26,10,0.385,2,5.2,0.385,false
+29,01:13:40.705,target,Poke-Drill,0.241s,25,9,0.36,1.8,5,0.36,false
+30,01:13:41.207,target,Poke-Drill,0.248s,26,8,0.308,1.6,5.2,0.308,false
+31,01:13:41.804,target,Poke-Drill,0.34s,35,11,0.314,2.2,7,0.314,false
+32,01:13:42.266,target,Poke-Drill,0.258s,27,9,0.333,1.8,5.4,0.333,false
+33,01:13:42.548,target,Poke-Drill,0.089s,10,10,1,2,2,1,false
+34,01:13:43.504,target,Poke-Drill,0.708s,72,14,0.194,2.8,14.4,0.194,false
+35,01:13:44.323,target,Poke-Drill,0.569s,58,11,0.19,2.2,11.6,0.19,false
+36,01:13:44.902,target,Poke-Drill,0.328s,34,7,0.206,1.4,6.8,0.206,false
+37,01:13:45.215,target,Poke-Drill,0.062s,7,6,0.857,1.2,1.4,0.857,false
+38,01:13:45.724,target,Poke-Drill,0.252s,26,6,0.231,1.2,5.2,0.231,false
+39,01:13:46.279,target,Poke-Drill,0.329s,34,7,0.206,1.4,6.8,0.206,false
+40,01:13:46.509,target,Poke-Drill,0.077s,9,9,1,1.8,1.8,1,false
+41,01:13:46.603,target,Poke-Drill,0.047s,6,6,1,1.2,1.2,1,false
+42,01:13:47.328,target,Poke-Drill,0.468s,48,6,0.125,1.2,9.6,0.125,false
+43,01:13:48.108,target,Poke-Drill,0.52s,53,9,0.17,1.8,10.6,0.17,false
+44,01:13:48.646,target,Poke-Drill,0.343s,35,6,0.171,1.2,7,0.171,false
+45,01:13:48.707,target,Poke-Drill,0.05s,6,6,1,1.2,1.2,1,false
+46,01:13:49.674,target,Poke-Drill,0.738s,73,8,0.11,1.6,14.6,0.11,false
+47,01:13:50.002,target,Poke-Drill,0.08s,9,9,1,1.8,1.8,1,false
+48,01:13:51.543,target,Poke-Drill,1.29s,130,14,0.108,2.8,26,0.108,false
+49,01:13:52.004,target,Poke-Drill,0.206s,22,11,0.5,2.2,4.4,0.5,false
+50,01:13:52.498,target,Poke-Drill,0.243s,25,8,0.32,1.6,5,0.32,false
+51,01:13:53.032,target,Poke-Drill,0.28s,29,6,0.207,1.2,5.8,0.207,false
+52,01:13:53.506,target,Poke-Drill,0.22s,23,6,0.261,1.2,4.6,0.261,false
+53,01:13:53.984,target,Poke-Drill,0.261s,27,6,0.222,1.2,5.4,0.222,false
+54,01:13:54.604,target,Poke-Drill,0.372s,38,18,0.474,3.6,7.6,0.474,false
+55,01:13:55.234,target,Poke-Drill,0.369s,38,6,0.158,1.2,7.6,0.158,false
+56,01:13:56.154,target,Poke-Drill,0.709s,72,9,0.125,1.8,14.4,0.125,false
+57,01:13:56.436,target,Poke-Drill,0.101s,11,11,1,2.2,2.2,1,false
+58,01:13:56.505,target,Poke-Drill,0.048s,6,6,1,1.2,1.2,1,false
+59,01:13:57.184,target,Poke-Drill,0.441s,45,11,0.244,2.2,9,0.244,false
+60,01:13:57.735,target,Poke-Drill,0.301s,31,9,0.29,1.8,6.2,0.29,false
+61,01:13:58.102,target,Poke-Drill,0.108s,12,9,0.75,1.8,2.4,0.75,false
+62,01:13:58.704,target,Poke-Drill,0.349s,36,8,0.222,1.6,7.2,0.222,false
+63,01:13:59.130,target,Poke-Drill,0.24s,25,9,0.36,1.8,5,0.36,false
+64,01:13:59.724,target,Poke-Drill,0.289s,30,6,0.2,1.2,6,0.2,false
+65,01:14:00.318,target,Poke-Drill,0.331s,34,6,0.176,1.2,6.8,0.176,false
+66,01:14:00.796,target,Poke-Drill,0.271s,28,6,0.214,1.2,5.6,0.214,false
+67,01:14:01.103,target,Poke-Drill,0.058s,7,7,1,1.4,1.4,1,false
+68,01:14:01.629,target,Poke-Drill,0.268s,28,6,0.214,1.2,5.6,0.214,false
+69,01:14:02.102,target,Poke-Drill,0.222s,23,8,0.348,1.6,4.6,0.348,false
+70,01:14:02.501,target,Poke-Drill,0.14s,15,8,0.533,1.6,3,0.533,false
+71,01:14:03.125,target,Poke-Drill,0.467s,48,6,0.125,1.2,9.6,0.125,false
+72,01:14:03.484,target,Poke-Drill,0.15s,16,11,0.688,2.2,3.2,0.688,false
+73,01:14:04.002,target,Poke-Drill,0.27s,28,9,0.321,1.8,5.6,0.321,false
+74,01:14:04.604,target,Poke-Drill,0.45s,46,8,0.174,1.6,9.2,0.174,false
+75,01:14:05.104,target,Poke-Drill,0.25s,26,13,0.5,2.6,5.2,0.5,false
+76,01:14:05.644,target,Poke-Drill,0.28s,29,6,0.207,1.2,5.8,0.207,false
+77,01:14:06.204,target,Poke-Drill,0.301s,31,8,0.258,1.6,6.2,0.258,false
+78,01:14:06.704,target,Poke-Drill,0.24s,25,9,0.36,1.8,5,0.36,false
+79,01:14:07.102,target,Poke-Drill,0.144s,15,6,0.4,1.2,3,0.4,false
+80,01:14:07.664,target,Poke-Drill,0.359s,37,6,0.162,1.2,7.4,0.162,false
+81,01:14:08.006,target,Poke-Drill,0.089s,10,10,1,2,2,1,false
+82,01:14:08.802,target,Poke-Drill,0.541s,55,12,0.218,2.4,11,0.218,false
+83,01:14:09.204,target,Poke-Drill,0.24s,25,10,0.4,2,5,0.4,false
+84,01:14:09.300,target,Poke-Drill,0.048s,6,6,1,1.2,1.2,1,false
+85,01:14:09.884,target,Poke-Drill,0.35s,36,10,0.278,2,7.2,0.278,false
+86,01:14:10.301,target,Poke-Drill,0.168s,18,12,0.667,2.4,3.6,0.667,false
+87,01:14:10.725,target,Poke-Drill,0.292s,30,10,0.333,2,6,0.333,false
+88,01:14:10.845,target,Poke-Drill,0.047s,6,6,1,1.2,1.2,1,false
+89,01:14:11.714,target,Poke-Drill,0.61s,62,6,0.097,1.2,12.4,0.097,false
+90,01:14:12.399,target,Poke-Drill,0.427s,44,11,0.25,2.2,8.8,0.25,false
+91,01:14:12.810,target,Poke-Drill,0.16s,17,6,0.353,1.2,3.4,0.353,false
+92,01:14:13.153,target,Poke-Drill,0.14s,15,11,0.733,2.2,3,0.733,false
+93,01:14:13.730,target,Poke-Drill,0.328s,34,13,0.382,2.6,6.8,0.382,false
+94,01:14:14.804,target,Poke-Drill,0.82s,83,10,0.12,2,16.6,0.12,false
+95,01:14:15.114,target,Poke-Drill,0.052s,6,6,1,1.2,1.2,1,false
+96,01:14:15.703,target,Poke-Drill,0.328s,34,11,0.324,2.2,6.8,0.324,false
+97,01:14:16.125,target,Poke-Drill,0.25s,26,6,0.231,1.2,5.2,0.231,false
+98,01:14:16.214,target,Poke-Drill,0.047s,6,6,1,1.2,1.2,1,false
+99,01:14:17.002,target,Poke-Drill,0.55s,56,6,0.107,1.2,11.2,0.107,false
+100,01:14:17.253,target,Poke-Drill,0.053s,6,6,1,1.2,1.2,1,false
+101,01:14:17.535,target,Poke-Drill,0.101s,11,11,1,2.2,2.2,1,false
+102,01:14:17.603,target,Poke-Drill,0.05s,6,6,1,1.2,1.2,1,false
+103,01:14:18.341,target,Poke-Drill,0.483s,49,6,0.122,1.2,9.8,0.122,false
+104,01:14:18.899,target,Poke-Drill,0.308s,32,10,0.312,2,6.4,0.313,false
+105,01:14:19.631,target,Poke-Drill,0.48s,49,6,0.122,1.2,9.8,0.122,false
+106,01:14:20.110,target,Poke-Drill,0.227s,24,6,0.25,1.2,4.8,0.25,false
+107,01:14:20.634,target,Poke-Drill,0.271s,28,9,0.321,1.8,5.6,0.321,false
+108,01:14:21.140,target,Poke-Drill,0.248s,26,6,0.231,1.2,5.2,0.231,false
+109,01:14:21.501,target,Poke-Drill,0.108s,12,9,0.75,1.8,2.4,0.75,false
+110,01:14:22.002,target,Poke-Drill,0.25s,26,6,0.231,1.2,5.2,0.231,false
+111,01:14:22.404,target,Poke-Drill,0.142s,15,8,0.533,1.6,3,0.533,false
+112,01:14:22.903,target,Poke-Drill,0.242s,25,9,0.36,1.8,5,0.36,false
+113,01:14:23.341,target,Poke-Drill,0.181s,19,6,0.316,1.2,3.8,0.316,false
+114,01:14:23.735,target,Poke-Drill,0.147s,16,6,0.375,1.2,3.2,0.375,false
+115,01:14:24.208,target,Poke-Drill,0.227s,24,8,0.333,1.6,4.8,0.333,false
+116,01:14:25.013,target,Poke-Drill,0.55s,56,8,0.143,1.6,11.2,0.143,false
+117,01:14:25.604,target,Poke-Drill,0.331s,34,12,0.353,2.4,6.8,0.353,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,3504,967,193.398193,700.824341,
+
+Kills:,117
+Deaths:,0
+Fight Time:,33.441002
+Avg TTK:,0
+Damage Done:,193.398193
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,117.0
+Scenario:,Pokeball Auto ww6t
+Hash:,78e9d00a1861b49f7e387252aad8461f
+Game Version:,2.0.5.0
+Challenge Start:,01:13:26.013
+Pause Count:,16
+Pause Duration:,52
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,262.515656
+Resolution Scale,100.0

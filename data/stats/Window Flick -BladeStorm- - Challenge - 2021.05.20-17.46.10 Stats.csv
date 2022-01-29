@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:45:13.024,window_flick,Blade Storm,0.787s,2,1,0.5,150,300,0.5,false
+2,17:45:13.892,window_flick,Blade Storm,0.235s,2,1,0.5,150,300,0.5,false
+3,17:45:15.665,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+4,17:45:17.493,window_flick,Blade Storm,1.57s,4,1,0.25,150,600,0.25,false
+5,17:45:19.363,window_flick,Blade Storm,1.034s,3,1,0.333,150,450,0.333,false
+6,17:45:20.563,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+7,17:45:21.094,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+8,17:45:27.632,window_flick,Blade Storm,6.113s,8,1,0.125,150,1200,0.125,false
+9,17:45:28.450,window_flick,Blade Storm,0.217s,2,1,0.5,150,300,0.5,false
+10,17:45:30.313,window_flick,Blade Storm,0.622s,3,1,0.333,150,450,0.333,false
+11,17:45:30.849,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+12,17:45:31.355,window_flick,Blade Storm,0.001s,1,1,1,150,150,1,false
+13,17:45:38.442,window_flick,Blade Storm,6.139s,7,1,0.143,150,1050,0.143,false
+14,17:45:39.209,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+15,17:45:46.983,window_flick,Blade Storm,6.926s,7,1,0.143,150,1050,0.143,false
+16,17:45:48.717,window_flick,Blade Storm,0s,1,1,1,150,150,1,false
+17,17:45:49.986,window_flick,Blade Storm,0.688s,2,1,0.5,150,300,0.5,false
+18,17:45:52.563,window_flick,Blade Storm,1.959s,4,1,0.25,150,600,0.25,false
+19,17:45:54.273,window_flick,Blade Storm,0.708s,2,1,0.5,150,300,0.5,false
+20,17:45:57.044,window_flick,Blade Storm,1.776s,3,1,0.333,150,450,0.333,false
+21,17:46:00.397,window_flick,Blade Storm,2.877s,3,1,0.333,150,450,0.333,false
+22,17:46:03.310,window_flick,Blade Storm,1.9s,3,1,0.333,150,450,0.333,false
+23,17:46:07.036,window_flick,Blade Storm,1.633s,2,1,0.5,150,300,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Blade Storm,68,23,3450.0,10200.0,
+
+Kills:,23
+Deaths:,0
+Fight Time:,35.185001
+Avg TTK:,0
+Damage Done:,3450.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,23.0
+Scenario:,Window Flick -BladeStorm-
+Hash:,6aa87e0cf3db79947c46066d9d2e2af3
+Game Version:,2.0.4.0
+Challenge Start:,17:45:10.794
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,293.203033
+Resolution Scale,100.0

@@ -1,0 +1,71 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:49:20.560,test360,pistol,1.658s,2,1,0.5,1000,5000,0.2,false
+2,21:49:21.129,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+3,21:49:23.232,test360,pistol,1.486s,3,1,0.333,1000,7500,0.133,false
+4,21:49:25.211,test360,pistol,0.583s,2,1,0.5,1000,5000,0.2,false
+5,21:49:26.323,test360,pistol,0.361s,2,1,0.5,1000,5000,0.2,false
+6,21:49:29.006,test360,pistol,2.039s,3,1,0.333,1000,7500,0.133,false
+7,21:49:30.968,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+8,21:49:31.793,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+9,21:49:33.580,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+10,21:49:34.953,test360,pistol,0.463s,2,1,0.5,1000,5000,0.2,false
+11,21:49:35.709,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+12,21:49:37.835,test360,pistol,1.106s,2,1,0.5,1000,5000,0.2,false
+13,21:49:40.466,test360,pistol,1.419s,4,1,0.25,1000,10000,0.1,false
+14,21:49:43.374,test360,pistol,1.646s,4,1,0.25,1000,10000,0.1,false
+15,21:49:45.249,test360,pistol,0.993s,3,1,0.333,1000,7500,0.133,false
+16,21:49:47.313,test360,pistol,1.376s,4,1,0.25,1000,10000,0.1,false
+17,21:49:48.506,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+18,21:49:49.400,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+19,21:49:50.619,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+20,21:49:51.900,test360,pistol,0.394s,2,1,0.5,1000,5000,0.2,false
+21,21:49:52.876,test360,pistol,0.399s,2,1,0.5,1000,5000,0.2,false
+22,21:49:53.564,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+23,21:49:54.433,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+24,21:49:54.902,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+25,21:49:56.226,test360,pistol,0.85s,3,1,0.333,1000,7500,0.133,false
+26,21:50:05.496,test360,pistol,8.463s,10,1,0.1,1000,25000,0.04,false
+27,21:50:05.959,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+28,21:50:06.973,test360,pistol,0.394s,2,1,0.5,1000,5000,0.2,false
+29,21:50:08.073,test360,pistol,0.407s,2,1,0.5,1000,5000,0.2,false
+30,21:50:08.567,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+31,21:50:09.617,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+32,21:50:10.743,test360,pistol,0.482s,2,1,0.5,1000,5000,0.2,false
+33,21:50:11.725,test360,pistol,0.413s,2,1,0.5,1000,5000,0.2,false
+34,21:50:13.696,test360,pistol,1.35s,4,1,0.25,1000,10000,0.1,false
+35,21:50:15.541,test360,pistol,0.646s,2,1,0.5,1000,5000,0.2,false
+36,21:50:16.459,test360,pistol,0s,1,1,1,1000,2500,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,77,36,36000.0,192500.0,
+
+Kills:,36
+Deaths:,0
+Fight Time:,26.927999
+Avg TTK:,0
+Damage Done:,36000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,108000.0
+Scenario:,Pasu Dodge
+Hash:,c7d02fdfd026c163dfab5484ffbfda9f
+Game Version:,2.0.4.0
+Challenge Start:,21:49:17.828
+
+Input Lag:,0
+Max FPS (config):,160.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,159.808594
+Resolution Scale,100.0

@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:54:50.595,air_close_short,LG,11.023s,883,553,0.626,721.112,1151.431,0.626,false
+2,20:55:03.410,air1_far_short,LG,12.494s,938,553,0.59,721.112,1223.149,0.59,false
+3,20:55:17.396,Bot Profile,LG,13.674s,1029,553,0.537,721.112,1341.809,0.537,false
+4,20:55:28.796,air1F_close_long,LG,11.084s,828,553,0.668,721.112,1079.714,0.668,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,4352,2731,3561.140381,5675.146973,
+
+Kills:,4
+Deaths:,0
+Fight Time:,48.275002
+Avg TTK:,0
+Damage Done:,3561.140381
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,High Ground Tracking Easy
+Hash:,47293afa2b8bacbd1128d751447e6291
+Game Version:,v2.6.4
+Challenge Start:,20:54:38.089
+Pause Count:,7
+Pause Duration:,226
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,371.977386
+Resolution Scale,100.0

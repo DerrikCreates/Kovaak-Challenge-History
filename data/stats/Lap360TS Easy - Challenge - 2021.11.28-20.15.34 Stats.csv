@@ -1,0 +1,85 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:14:37.323,Quaker Bot Long Strafes,LG,1.348s,136,45,0.331,225,680,0.331,false
+2,20:14:38.151,Quaker Bot Static,LG,0.631s,32,22,0.688,77.5,160,0.484,false
+3,20:14:38.890,Quaker Bot Static,LG,0.323s,30,15,0.5,75,150,0.5,false
+4,20:14:40.637,Quaker Bot Long Strafes,LG,1.29s,130,45,0.346,225,650,0.346,false
+5,20:14:41.394,Quaker Bot Static,LG,0.138s,15,15,1,75,75,1,false
+6,20:14:43.108,Quaker Bot Long Strafes,LG,1.138s,115,45,0.391,225,575,0.391,false
+7,20:14:44.717,Quaker Bot Fast Strafes,LG,1.353s,82,25,0.305,125,410,0.305,false
+8,20:14:45.612,Quaker Bot Fast Strafes,LG,0.668s,47,25,0.532,125,235,0.532,false
+9,20:14:46.495,Quaker Bot Static,LG,0.449s,46,15,0.326,75,230,0.326,false
+10,20:14:47.439,Quaker Bot Fast Strafes,LG,0.498s,51,29,0.569,125,255,0.49,false
+11,20:14:48.203,Quaker Bot Static,LG,0.279s,29,15,0.517,75,145,0.517,false
+12,20:14:49.170,Quaker Bot Fast Strafes,LG,0.548s,56,25,0.446,125,280,0.446,false
+13,20:14:50.482,Quaker Bot Fast Strafes,LG,0.739s,75,25,0.333,125,375,0.333,false
+14,20:14:52.906,Quaker Bot Long Strafes,LG,2.165s,207,45,0.217,225,1035,0.217,false
+15,20:14:54.283,Quaker Bot Fast Strafes,LG,1.118s,81,25,0.309,125,405,0.309,false
+16,20:14:56.028,Quaker Bot Long Strafes,LG,1.485s,113,45,0.398,225,565,0.398,false
+17,20:14:57.056,Quaker Bot Static,LG,0.862s,33,15,0.455,75,165,0.455,false
+18,20:14:58.089,Quaker Bot Fast Strafes,LG,0.589s,60,28,0.467,127.5,300,0.425,false
+19,20:14:58.695,Quaker Bot Static,LG,0.49s,30,15,0.5,75,150,0.5,false
+20,20:14:59.154,Quaker Bot Static,LG,0.138s,15,15,1,75,75,1,false
+21,20:15:00.107,Quaker Bot Static,LG,0.347s,36,15,0.417,75,180,0.417,false
+22,20:15:02.233,Quaker Bot Long Strafes,LG,1.763s,160,68,0.425,340,800,0.425,false
+23,20:15:04.188,Quaker Bot Fast Strafes,LG,1.189s,120,25,0.208,125,600,0.208,false
+24,20:15:04.959,Quaker Bot Static,LG,0.529s,29,15,0.517,75,145,0.517,false
+25,20:15:05.417,Quaker Bot Fast Strafes,LG,0.006s,2,2,1,10,10,1,false
+26,20:15:06.015,Quaker Bot Static,LG,0.448s,28,15,0.536,75,140,0.536,false
+27,20:15:09.074,Quaker Bot Long Strafes,LG,2.346s,194,45,0.232,225,970,0.232,false
+28,20:15:10.611,Quaker Bot Long Strafes,LG,0.938s,95,45,0.474,225,475,0.474,false
+29,20:15:11.774,Quaker Bot Long Strafes,LG,0.904s,63,45,0.714,225,315,0.714,false
+30,20:15:13.491,Quaker Bot Fast Strafes,LG,1.115s,106,25,0.236,125,530,0.236,false
+31,20:15:14.840,Quaker Bot Long Strafes,LG,1.098s,98,45,0.459,225,490,0.459,false
+32,20:15:15.825,Quaker Bot Static,LG,0.765s,62,15,0.242,75,310,0.242,false
+33,20:15:16.695,Quaker Bot Static,LG,0.14s,15,15,1,75,75,1,false
+34,20:15:18.661,Quaker Bot Long Strafes,LG,1.448s,146,45,0.308,225,730,0.308,false
+35,20:15:20.916,Quaker Bot Long Strafes,LG,2.002s,156,45,0.288,225,780,0.288,false
+36,20:15:22.696,Quaker Bot Long Strafes,LG,1.358s,137,45,0.328,225,685,0.328,false
+37,20:15:23.377,Quaker Bot Static,LG,0.562s,32,15,0.469,75,160,0.469,false
+38,20:15:24.141,Quaker Bot Static,LG,0.238s,25,15,0.6,75,125,0.6,false
+39,20:15:26.142,Quaker Bot Long Strafes,LG,1.258s,127,45,0.354,225,635,0.354,false
+40,20:15:27.661,Quaker Bot Fast Strafes,LG,1.261s,109,25,0.229,125,545,0.229,false
+41,20:15:28.832,Quaker Bot Fast Strafes,LG,0.918s,66,25,0.379,125,330,0.379,false
+42,20:15:30.026,Quaker Bot Fast Strafes,LG,0.937s,65,28,0.431,127.5,325,0.392,false
+43,20:15:31.133,Quaker Bot Fast Strafes,LG,0.882s,40,25,0.625,125,200,0.625,false
+44,20:15:32.134,Quaker Bot Fast Strafes,LG,0.538s,55,25,0.455,125,275,0.455,false
+45,20:15:33.906,Quaker Bot Fast Strafes,LG,1.046s,106,25,0.236,125,530,0.236,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,3482,1273,6287.5,17410.0,
+
+Kills:,45
+Deaths:,0
+Fight Time:,40.285
+Avg TTK:,0
+Damage Done:,6287.5
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,62.875
+Scenario:,Lap360TS Easy
+Hash:,3fea33558d6ab641bb5764ca09fac846
+Game Version:,v2.6.4
+Challenge Start:,20:14:34.581
+Pause Count:,19
+Pause Duration:,1813
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,291.543121
+Resolution Scale,100.0

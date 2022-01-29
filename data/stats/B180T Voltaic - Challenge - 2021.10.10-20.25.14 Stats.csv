@@ -1,0 +1,88 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:24:16.150,High,B180T LG,0.701s,14,8,0.571,8,14,0.571,false
+2,20:24:16.916,Low,B180T LG,0.159s,4,2,0.5,2,4,0.5,false
+3,20:24:19.103,Mid,B180T LG,1.714s,25,9,0.36,9,25,0.36,false
+4,20:24:20.392,Mid,B180T LG,0.375s,8,5,0.625,5,8,0.625,false
+5,20:24:21.728,Low,B180T LG,0.647s,13,5,0.385,5,13,0.385,false
+6,20:24:22.913,Mid,B180T LG,0.322s,7,5,0.714,5,7,0.714,false
+7,20:24:23.857,Mid,B180T LG,0s,1,1,1,1,1,1,false
+8,20:24:24.600,Mid,B180T LG,0.487s,10,5,0.5,5,10,0.5,false
+9,20:24:25.791,High,B180T LG,0.321s,7,5,0.714,5,7,0.714,false
+10,20:24:27.193,High,B180T LG,0.893s,15,5,0.333,5,15,0.333,false
+11,20:24:28.204,Mid,B180T LG,0.375s,8,5,0.625,5,8,0.625,false
+12,20:24:29.497,High,B180T LG,0.913s,12,5,0.417,5,12,0.417,false
+13,20:24:31.452,Low,B180T LG,1.242s,24,5,0.208,5,24,0.208,false
+14,20:24:32.533,Mid,B180T LG,0.54s,11,5,0.455,5,11,0.455,false
+15,20:24:34.216,Mid,B180T LG,1.135s,22,5,0.227,5,22,0.227,false
+16,20:24:35.327,Low,B180T LG,0.215s,5,5,1,5,5,1,false
+17,20:24:36.489,Low,B180T LG,0.536s,9,5,0.556,5,9,0.556,false
+18,20:24:37.789,Mid,B180T LG,0.375s,8,5,0.625,5,8,0.625,false
+19,20:24:38.934,High,B180T LG,0.487s,10,5,0.5,5,10,0.5,false
+20,20:24:40.680,Low,B180T LG,1.204s,18,9,0.5,9,18,0.5,false
+21,20:24:41.523,Mid,B180T LG,0.269s,6,1,0.167,1,6,0.167,false
+22,20:24:42.349,Mid,B180T LG,0.429s,9,5,0.556,5,9,0.556,false
+23,20:24:43.784,Mid,B180T LG,1.081s,21,5,0.238,5,21,0.238,false
+24,20:24:45.210,Low,B180T LG,1.08s,21,5,0.238,5,21,0.238,false
+25,20:24:46.019,High,B180T LG,0.322s,7,5,0.714,5,7,0.714,false
+26,20:24:47.569,Mid,B180T LG,0.989s,17,5,0.294,5,17,0.294,false
+27,20:24:48.154,Mid,B180T LG,0.268s,6,5,0.833,5,6,0.833,false
+28,20:24:49.584,High,B180T LG,0.539s,11,5,0.455,5,11,0.455,false
+29,20:24:50.800,High,B180T LG,0.594s,12,5,0.417,5,12,0.417,false
+30,20:24:52.193,Mid,B180T LG,0.808s,16,5,0.312,5,16,0.312,false
+31,20:24:52.868,Mid,B180T LG,0.269s,6,5,0.833,5,6,0.833,false
+32,20:24:54.523,High,B180T LG,1.187s,23,5,0.217,5,23,0.217,false
+33,20:24:55.984,Mid,B180T LG,1.013s,18,5,0.278,5,18,0.278,false
+34,20:24:56.958,Mid,B180T LG,0.433s,9,5,0.556,5,9,0.556,false
+35,20:24:58.160,Low,B180T LG,0.862s,17,5,0.294,5,17,0.294,false
+36,20:24:58.933,Low,B180T LG,0.323s,7,5,0.714,5,7,0.714,false
+37,20:24:59.944,Low,B180T LG,0.483s,10,5,0.5,5,10,0.5,false
+38,20:25:00.965,Mid,B180T LG,0.376s,8,5,0.625,5,8,0.625,false
+39,20:25:01.660,Low,B180T LG,0.214s,5,5,1,5,5,1,false
+40,20:25:03.717,Mid,B180T LG,1.688s,28,9,0.321,9,28,0.321,false
+41,20:25:05.421,High,B180T LG,0.795s,13,4,0.308,4,13,0.308,false
+42,20:25:06.580,Mid,B180T LG,0.755s,15,5,0.333,5,15,0.333,false
+43,20:25:07.778,Mid,B180T LG,0.429s,9,5,0.556,5,9,0.556,false
+44,20:25:08.892,High,B180T LG,0.604s,11,2,0.182,2,11,0.182,false
+45,20:25:09.850,Mid,B180T LG,0.487s,10,5,0.5,5,10,0.5,false
+46,20:25:10.875,Mid,B180T LG,0.594s,12,5,0.417,5,12,0.417,false
+47,20:25:11.835,High,B180T LG,0.375s,8,5,0.625,5,8,0.625,false
+48,20:25:13.225,Low,B180T LG,0.809s,16,5,0.312,5,16,0.312,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+B180T LG,601,243,243.0,601.0,
+
+Kills:,48
+Deaths:,0
+Fight Time:,30.716
+Avg TTK:,0
+Damage Done:,243.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,48.600002
+Scenario:,B180T Voltaic
+Hash:,cd53ece206d9f5b1652277d9a389cc85
+Game Version:,v2.6.1
+Challenge Start:,20:24:14.586
+Pause Count:,64
+Pause Duration:,1165
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,348.950867
+Resolution Scale,100.0

@@ -1,0 +1,60 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:07:57.329,regen_dot,Poke-Drill,0.75s,76,50,0.658,50,76,0.658,false
+2,21:07:58.849,regen_dot,Poke-Drill,1.016s,103,65,0.631,65,103,0.631,false
+3,21:08:00.054,regen_dot,Poke-Drill,0.708s,72,50,0.694,50,72,0.694,false
+4,21:08:05.947,regen_dot,Poke-Drill,4.989s,500,257,0.514,257,500,0.514,false
+5,21:08:07.302,regen_dot,Poke-Drill,1.097s,92,55,0.598,55,92,0.598,false
+6,21:08:11.723,regen_dot,Poke-Drill,4.163s,385,171,0.444,171,385,0.444,false
+7,21:08:13.532,regen_dot,Poke-Drill,1.55s,123,75,0.61,75,123,0.61,false
+8,21:08:20.736,regen_dot,Poke-Drill,6.946s,652,300,0.46,300,652,0.46,false
+9,21:08:26.205,regen_dot,Poke-Drill,5.211s,463,252,0.544,252,463,0.544,false
+10,21:08:28.266,regen_dot,Poke-Drill,1.81s,144,95,0.66,95,144,0.66,false
+11,21:08:32.122,regen_dot,Poke-Drill,3.604s,309,170,0.55,170,309,0.55,false
+12,21:08:35.099,regen_dot,Poke-Drill,2.719s,227,150,0.661,150,227,0.661,false
+13,21:08:39.054,regen_dot,Poke-Drill,3.696s,340,181,0.532,181,340,0.532,false
+14,21:08:40.568,regen_dot,Poke-Drill,1.256s,69,54,0.783,54,69,0.783,false
+15,21:08:41.786,regen_dot,Poke-Drill,0.967s,71,50,0.704,50,71,0.704,false
+16,21:08:44.775,regen_dot,Poke-Drill,2.737s,235,140,0.596,140,235,0.596,false
+17,21:08:46.440,regen_dot,Poke-Drill,1.413s,102,80,0.784,80,102,0.784,false
+18,21:08:48.828,regen_dot,Poke-Drill,2.137s,183,100,0.546,100,183,0.546,false
+19,21:08:51.644,regen_dot,Poke-Drill,2.564s,197,104,0.528,104,197,0.528,false
+20,21:08:53.163,regen_dot,Poke-Drill,1.261s,92,53,0.576,53,92,0.576,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4601,2545,2545.0,4601.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,50.594002
+Avg TTK:,0
+Damage Done:,2545.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,20.0
+Scenario:,tamTargetSwitch Smooth
+Hash:,ebaed4d804f7bb0b1fa3961826398e1f
+Game Version:,v2.6.4
+Challenge Start:,21:05:49.877
+Pause Count:,1
+Pause Duration:,701
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.217255
+Resolution Scale,100.0

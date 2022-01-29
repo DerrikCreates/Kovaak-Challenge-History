@@ -1,0 +1,49 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:51:53.863,Pigeon5,pistol,2.175s,3,1,0.333,100,600,0.167,false
+2,18:51:59.496,Pigeon3,pistol,2.823s,7,1,0.143,100,1400,0.071,false
+3,18:52:01.042,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+4,18:52:02.623,Pigeon3,pistol,0.732s,2,1,0.5,100,400,0.25,false
+5,18:52:10.563,Pigeon3,pistol,6.701s,12,1,0.083,100,2400,0.042,false
+6,18:52:14.612,Pigeon3,pistol,2.155s,4,1,0.25,100,800,0.125,false
+7,18:52:16.846,Pigeon2,pistol,1.016s,2,1,0.5,100,400,0.25,false
+8,18:52:20.974,Pigeon5,pistol,2.802s,6,1,0.167,100,1200,0.083,false
+9,18:52:24.914,Pigeon2,pistol,2.172s,5,1,0.2,100,1000,0.1,false
+10,18:52:32.486,Pigeon2,pistol,6.624s,7,1,0.143,100,1400,0.071,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,71,10,1000.0,14200.0,
+LG,0,0,0.0,0.0,
+
+Kills:,10
+Deaths:,0
+Fight Time:,27.200001
+Avg TTK:,0
+Damage Done:,1000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,154.929581
+Scenario:,POPCORN
+Hash:,21f0bc5b7d01c9cc8a25f4e5a195770b
+Game Version:,2.0.5.3
+Challenge Start:,18:51:50.366
+Pause Count:,10
+Pause Duration:,33
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,dot.png
+Crosshair Scale:,0.6
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.549286
+Resolution Scale,100.0

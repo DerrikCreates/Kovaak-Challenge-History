@@ -1,0 +1,48 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:00:51.271,smooth_1,Track Master 100,6.789s,680,600,0.882,600,680,0.882,false
+2,20:01:07.096,smooth_2,Track Master 100,15.566s,1395,1000,0.717,1000,1395,0.717,false
+3,20:01:34.415,smooth_3,Track Master 100,27.062s,2485,900,0.362,900,2485,0.362,false
+4,20:01:52.214,smooth_4,Track Master 100,17.548s,1603,1000,0.624,1000,1603,0.624,false
+5,20:02:17.578,smooth_5,Track Master 100,25.109s,2298,700,0.305,700,2298,0.305,false
+6,20:03:23.941,smooth_6,Track Master 100,66.114s,1665,500,0.3,500,1665,0.3,false
+7,20:03:49.233,smooth_7,Track Master 100,25.04s,2290,700,0.306,700,2290,0.306,false
+8,20:04:19.493,smooth_8,Track Master 100,30.245s,2137,400,0.187,400,2137,0.187,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,14554,5801,5801.0,14554.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,213.473007
+Avg TTK:,0
+Damage Done:,5801.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,837.269104
+Scenario:,Thin Gauntlet
+Hash:,c9ac12b07df37670e1fe392eafd263d9
+Game Version:,v2.6.4
+Challenge Start:,20:04:06.637
+Pause Count:,5
+Pause Duration:,259
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.581848
+Resolution Scale,100.0

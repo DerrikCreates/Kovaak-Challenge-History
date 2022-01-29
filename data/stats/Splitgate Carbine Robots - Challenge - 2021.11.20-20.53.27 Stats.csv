@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:52:29.579,Rocket Flyer Bot,Carbine,1.42s,3,3,1,210,420,0.5,false
+2,20:52:32.644,Sergeant Bot,Carbine,0.859s,3,3,1,210,420,0.5,false
+3,20:52:36.954,Rocket Flyer Bot,Carbine,1.879s,5,3,0.6,210,700,0.3,false
+4,20:52:40.970,Rocket Flyer Bot,Carbine,1.635s,5,3,0.6,210,700,0.3,false
+5,20:52:44.132,Sergeant Bot,Carbine,0.718s,3,3,1,280,420,0.667,false
+6,20:52:47.735,Rocket Flyer Bot,Carbine,1.668s,5,2,0.4,210,700,0.3,false
+7,20:52:54.380,Sergeant Bot,Carbine,4.301s,10,2,0.2,210,1400,0.15,false
+8,20:52:58.896,Rocket Flyer Bot,Carbine,1.792s,5,3,0.6,210,700,0.3,false
+9,20:53:03.688,Sergeant Bot,Carbine,2.621s,7,2,0.286,210,980,0.214,false
+10,20:53:11.370,Sergeant Bot,Carbine,5.605s,14,3,0.214,210,1960,0.107,false
+11,20:53:16.298,Sergeant Bot,Carbine,2.678s,7,3,0.429,210,980,0.214,false
+12,20:53:18.881,Rocket Flyer Bot,Carbine,0.363s,2,2,1,210,280,0.75,false
+13,20:53:23.479,Sergeant Bot,Carbine,2.405s,6,3,0.5,210,840,0.25,false
+14,20:53:27.270,Rocket Flyer Bot,Carbine,1.692s,5,3,0.6,280,700,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Carbine,80,38,3080.0,11200.0,
+
+Kills:,14
+Deaths:,0
+Fight Time:,29.636999
+Avg TTK:,0
+Damage Done:,3080.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,6473.274902
+Score:,3080.0
+Scenario:,Splitgate Carbine Robots
+Hash:,4222a3cd88cf75518f069f152a00bfa5
+Game Version:,v2.6.4
+Challenge Start:,20:52:27.264
+Pause Count:,5
+Pause Duration:,223
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.136566
+Resolution Scale,100.0

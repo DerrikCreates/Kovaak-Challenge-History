@@ -1,0 +1,122 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:25:11.955,XenOrb_bot,LG,0.412s,10,5,0.5,30,60,0.5,false
+2,01:25:12.388,XenOrb_bot,LG,0.185s,5,5,1,30,30,1,false
+3,01:25:13.353,XenOrb_bot,LG,0.69s,16,8,0.5,48,96,0.5,false
+4,01:25:13.953,XenOrb_bot,LG,0.323s,8,5,0.625,30,48,0.625,false
+5,01:25:14.456,XenOrb_bot,LG,0.228s,6,2,0.333,12,36,0.333,false
+6,01:25:14.917,XenOrb_bot,LG,0.181s,5,5,1,30,30,1,false
+7,01:25:15.563,XenOrb_bot,LG,0.365s,9,5,0.556,30,54,0.556,false
+8,01:25:16.161,XenOrb_bot,LG,0.324s,8,5,0.625,30,48,0.625,false
+9,01:25:16.850,XenOrb_bot,LG,0.411s,10,5,0.5,30,60,0.5,false
+10,01:25:18.001,XenOrb_bot,LG,0.874s,20,8,0.4,48,120,0.4,false
+11,01:25:20.296,XenOrb_bot,LG,2.024s,45,10,0.222,60,270,0.222,false
+12,01:25:20.896,XenOrb_bot,LG,0.322s,8,1,0.125,6,48,0.125,false
+13,01:25:21.219,XenOrb_bot,LG,0.044s,2,1,0.5,6,12,0.5,false
+14,01:25:21.910,XenOrb_bot,LG,0.416s,10,5,0.5,30,60,0.5,false
+15,01:25:23.151,XenOrb_bot,LG,0.964s,22,5,0.227,30,132,0.227,false
+16,01:25:24.027,XenOrb_bot,LG,0.598s,14,5,0.357,30,84,0.357,false
+17,01:25:24.626,XenOrb_bot,LG,0.323s,8,5,0.625,30,48,0.625,false
+18,01:25:25.571,XenOrb_bot,LG,0.691s,16,8,0.5,48,96,0.5,false
+19,01:25:25.868,XenOrb_bot,LG,0.047s,2,2,1,12,12,1,false
+20,01:25:26.557,XenOrb_bot,LG,0.412s,10,5,0.5,30,60,0.5,false
+21,01:25:27.107,XenOrb_bot,LG,0.276s,7,5,0.714,30,42,0.714,false
+22,01:25:27.845,XenOrb_bot,LG,0.461s,11,5,0.455,30,66,0.455,false
+23,01:25:28.763,XenOrb_bot,LG,0.642s,15,5,0.333,30,90,0.333,false
+24,01:25:29.639,XenOrb_bot,LG,0.598s,14,5,0.357,30,84,0.357,false
+25,01:25:30.095,XenOrb_bot,LG,0.183s,5,5,1,30,30,1,false
+26,01:25:30.832,XenOrb_bot,LG,0.458s,11,5,0.455,30,66,0.455,false
+27,01:25:31.340,XenOrb_bot,LG,0.228s,6,5,0.833,30,36,0.833,false
+28,01:25:31.893,XenOrb_bot,LG,0.277s,7,5,0.714,30,42,0.714,false
+29,01:25:32.675,XenOrb_bot,LG,0.506s,12,5,0.417,30,72,0.417,false
+30,01:25:34.240,XenOrb_bot,LG,1.289s,29,9,0.31,54,174,0.31,false
+31,01:25:34.652,XenOrb_bot,LG,0.137s,4,1,0.25,6,24,0.25,false
+32,01:25:35.573,XenOrb_bot,LG,0.644s,15,5,0.333,30,90,0.333,false
+33,01:25:36.351,XenOrb_bot,LG,0.505s,12,5,0.417,30,72,0.417,false
+34,01:25:37.134,XenOrb_bot,LG,0.505s,12,5,0.417,30,72,0.417,false
+35,01:25:37.732,XenOrb_bot,LG,0.32s,8,5,0.625,30,48,0.625,false
+36,01:25:38.425,XenOrb_bot,LG,0.413s,10,5,0.5,30,60,0.5,false
+37,01:25:39.251,XenOrb_bot,LG,0.551s,13,5,0.385,30,78,0.385,false
+38,01:25:39.940,XenOrb_bot,LG,0.411s,10,5,0.5,30,60,0.5,false
+39,01:25:40.522,XenOrb_bot,LG,0.322s,8,5,0.625,30,48,0.625,false
+40,01:25:41.047,XenOrb_bot,LG,0.276s,7,5,0.714,30,42,0.714,false
+41,01:25:41.783,XenOrb_bot,LG,0.462s,11,5,0.455,30,66,0.455,false
+42,01:25:42.940,XenOrb_bot,LG,0.881s,20,5,0.25,30,120,0.25,false
+43,01:25:43.911,XenOrb_bot,LG,0.69s,16,5,0.312,30,96,0.312,false
+44,01:25:44.917,XenOrb_bot,LG,0.737s,17,5,0.294,30,102,0.294,false
+45,01:25:45.593,XenOrb_bot,LG,0.413s,10,5,0.5,30,60,0.5,false
+46,01:25:46.022,XenOrb_bot,LG,0.18s,5,5,1,30,30,1,false
+47,01:25:46.575,XenOrb_bot,LG,0.273s,7,5,0.714,30,42,0.714,false
+48,01:25:47.357,XenOrb_bot,LG,0.504s,12,5,0.417,30,72,0.417,false
+49,01:25:47.955,XenOrb_bot,LG,0.322s,8,5,0.625,30,48,0.625,false
+50,01:25:48.737,XenOrb_bot,LG,0.507s,12,5,0.417,30,72,0.417,false
+51,01:25:49.797,XenOrb_bot,LG,0.785s,18,9,0.5,54,108,0.5,false
+52,01:25:50.420,XenOrb_bot,LG,0.415s,10,5,0.5,30,60,0.5,false
+53,01:25:50.945,XenOrb_bot,LG,0.277s,7,5,0.714,30,42,0.714,false
+54,01:25:51.591,XenOrb_bot,LG,0.369s,9,5,0.556,30,54,0.556,false
+55,01:25:52.051,XenOrb_bot,LG,0.184s,5,5,1,30,30,1,false
+56,01:25:52.831,XenOrb_bot,LG,0.504s,12,1,0.083,6,72,0.083,false
+57,01:25:53.386,XenOrb_bot,LG,0.279s,7,5,0.714,30,42,0.714,false
+58,01:25:54.008,XenOrb_bot,LG,0.366s,9,5,0.556,30,54,0.556,false
+59,01:25:54.442,XenOrb_bot,LG,0.185s,5,5,1,30,30,1,false
+60,01:25:55.040,XenOrb_bot,LG,0.321s,8,5,0.625,30,48,0.625,false
+61,01:25:55.591,XenOrb_bot,LG,0.276s,7,5,0.714,30,42,0.714,false
+62,01:25:56.832,XenOrb_bot,LG,0.967s,22,5,0.227,30,132,0.227,false
+63,01:25:57.710,XenOrb_bot,LG,0.598s,14,5,0.357,30,84,0.357,false
+64,01:25:58.630,XenOrb_bot,LG,0.643s,15,5,0.333,30,90,0.333,false
+65,01:25:59.088,XenOrb_bot,LG,0.185s,5,5,1,30,30,1,false
+66,01:25:59.638,XenOrb_bot,LG,0.277s,7,5,0.714,30,42,0.714,false
+67,01:26:00.312,XenOrb_bot,LG,0.459s,11,5,0.455,30,66,0.455,false
+68,01:26:00.835,XenOrb_bot,LG,0.277s,7,5,0.714,30,42,0.714,false
+69,01:26:01.757,XenOrb_bot,LG,0.647s,15,5,0.333,30,90,0.333,false
+70,01:26:02.356,XenOrb_bot,LG,0.323s,8,5,0.625,30,48,0.625,false
+71,01:26:02.796,XenOrb_bot,LG,0.182s,5,5,1,30,30,1,false
+72,01:26:03.210,XenOrb_bot,LG,0.185s,5,5,1,30,30,1,false
+73,01:26:03.643,XenOrb_bot,LG,0.184s,5,5,1,30,30,1,false
+74,01:26:04.288,XenOrb_bot,LG,0.369s,9,5,0.556,30,54,0.556,false
+75,01:26:04.975,XenOrb_bot,LG,0.412s,10,5,0.5,30,60,0.5,false
+76,01:26:06.681,XenOrb_bot,LG,1.426s,32,9,0.281,54,192,0.281,false
+77,01:26:07.230,XenOrb_bot,LG,0.277s,7,1,0.143,6,42,0.143,false
+78,01:26:08.426,XenOrb_bot,LG,0.921s,21,5,0.238,30,126,0.238,false
+79,01:26:08.866,XenOrb_bot,LG,0.232s,6,5,0.833,30,36,0.833,false
+80,01:26:09.346,XenOrb_bot,LG,0.233s,6,5,0.833,30,36,0.833,false
+81,01:26:09.989,XenOrb_bot,LG,0.367s,9,5,0.556,30,54,0.556,false
+82,01:26:10.633,XenOrb_bot,LG,0.366s,9,5,0.556,30,54,0.556,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,899,410,2460.0,5394.0,
+
+Kills:,82
+Deaths:,0
+Fight Time:,37.296001
+Avg TTK:,0.73
+Damage Done:,2460.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,82.0
+Scenario:,xenTargetSwitch
+Hash:,fea83affd1f8f2a9269add984a1ab44b
+Game Version:,v2.7.0
+Challenge Start:,01:25:10.904
+Pause Count:,8
+Pause Duration:,25
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,400
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,296.81781
+Resolution Scale,100.0

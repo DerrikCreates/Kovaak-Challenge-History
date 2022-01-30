@@ -1,0 +1,137 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:50:08.604,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+2,01:50:09.201,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+3,01:50:09.639,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+4,01:50:10.137,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+5,01:50:10.697,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+6,01:50:11.153,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+7,01:50:11.734,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+8,01:50:12.238,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+9,01:50:12.938,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+10,01:50:13.461,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+11,01:50:13.951,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+12,01:50:14.429,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+13,01:50:14.966,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+14,01:50:15.448,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+15,01:50:16.008,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+16,01:50:16.728,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+17,01:50:17.334,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+18,01:50:17.837,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+19,01:50:18.326,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+20,01:50:18.958,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+21,01:50:20.175,vbr_target,rsp_vbr_gun,0.622s,2,1,0.5,1,2,0.5,false
+22,01:50:20.783,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+23,01:50:21.352,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+24,01:50:21.805,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+25,01:50:22.335,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+26,01:50:22.815,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+27,01:50:23.385,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+28,01:50:24.613,vbr_target,rsp_vbr_gun,0.642s,2,1,0.5,1,2,0.5,false
+29,01:50:25.120,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+30,01:50:25.605,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+31,01:50:26.117,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+32,01:50:26.657,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+33,01:50:27.164,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+34,01:50:27.635,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+35,01:50:28.162,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+36,01:50:29.351,vbr_target,rsp_vbr_gun,0.579s,2,1,0.5,1,2,0.5,false
+37,01:50:29.805,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+38,01:50:30.393,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+39,01:50:30.833,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+40,01:50:31.453,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+41,01:50:31.961,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+42,01:50:32.512,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+43,01:50:32.995,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+44,01:50:33.625,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+45,01:50:37.502,vbr_target,rsp_vbr_gun,3.173s,2,1,0.5,1,2,0.5,false
+46,01:50:38.291,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+47,01:50:39.321,vbr_target,rsp_vbr_gun,0.304s,2,1,0.5,1,2,0.5,false
+48,01:50:39.871,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+49,01:50:40.387,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+50,01:50:40.941,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+51,01:50:42.064,vbr_target,rsp_vbr_gun,0.566s,2,1,0.5,1,2,0.5,false
+52,01:50:42.509,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+53,01:50:43.574,vbr_target,rsp_vbr_gun,0.532s,2,1,0.5,1,2,0.5,false
+54,01:50:44.016,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+55,01:50:44.448,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+56,01:50:44.980,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+57,01:50:45.615,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+58,01:50:46.422,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+59,01:50:46.834,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+60,01:50:47.496,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+61,01:50:47.930,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+62,01:50:48.427,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+63,01:50:49.195,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+64,01:50:49.707,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+65,01:50:50.257,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+66,01:50:50.803,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+67,01:50:51.209,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+68,01:50:51.721,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+69,01:50:52.272,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+70,01:50:52.756,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+71,01:50:53.255,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+72,01:50:57.011,vbr_target,rsp_vbr_gun,3.267s,2,1,0.5,1,2,0.5,false
+73,01:50:57.969,vbr_target,rsp_vbr_gun,0.24s,2,1,0.5,1,2,0.5,false
+74,01:50:58.508,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+75,01:50:58.995,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+76,01:50:59.616,vbr_target,rsp_vbr_gun,0.491s,2,1,0.5,1,2,0.5,false
+77,01:51:00.206,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+78,01:51:00.922,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+79,01:51:02.190,vbr_target,rsp_vbr_gun,0.695s,2,1,0.5,1,2,0.5,false
+80,01:51:02.810,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+81,01:51:03.261,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+82,01:51:03.718,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+83,01:51:04.194,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+84,01:51:07.714,vbr_target,rsp_vbr_gun,3.027s,2,1,0.5,1,2,0.5,false
+85,01:51:08.379,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+86,01:51:08.994,vbr_target,rsp_vbr_gun,0.001s,1,1,1,1,1,1,false
+87,01:51:10.104,vbr_target,rsp_vbr_gun,0.489s,2,1,0.5,1,2,0.5,false
+88,01:51:10.664,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+89,01:51:11.234,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+90,01:51:12.334,vbr_target,rsp_vbr_gun,0.529s,2,1,0.5,1,2,0.5,false
+91,01:51:13.626,vbr_target,rsp_vbr_gun,0.662s,2,1,0.5,1,2,0.5,false
+92,01:51:14.151,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+93,01:51:14.728,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+94,01:51:15.349,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+95,01:51:15.901,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+96,01:51:16.367,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+97,01:51:16.887,vbr_target,rsp_vbr_gun,0s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+rsp_vbr_gun,113,97,97.0,113.0,
+
+Kills:,97
+Deaths:,0
+Fight Time:,15.83
+Avg TTK:,0.746
+Damage Done:,97.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,93.0
+Scenario:,1w4t_vbr Raspberry
+Hash:,a16ebad58d167b199aaf323c5fdd5e05
+Game Version:,v2.8.6
+Challenge Start:,01:50:07.856
+Pause Count:,44
+Pause Duration:,361
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,287.749603
+Resolution Scale,100.0

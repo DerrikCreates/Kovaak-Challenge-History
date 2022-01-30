@@ -1,0 +1,84 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:08:19.068,Pasu Semi Dodge,pistol,0.413s,2,2,1,20,40,0.5,false
+2,01:08:20.826,Pasu Semi Dodge,pistol,1.391s,4,2,0.5,20,80,0.25,false
+3,01:08:21.712,Pasu Semi Dodge,pistol,0.309s,2,2,1,20,40,0.5,false
+4,01:08:22.645,Pasu Semi Dodge,pistol,0.426s,2,2,1,20,40,0.5,false
+5,01:08:23.695,Pasu Semi Dodge,pistol,0.496s,2,2,1,20,40,0.5,false
+6,01:08:24.446,Pasu Semi Dodge,pistol,0.359s,2,2,1,20,40,0.5,false
+7,01:08:26.075,Pasu Semi Dodge,pistol,1.18s,4,2,0.5,20,80,0.25,false
+8,01:08:27.106,Pasu Semi Dodge,pistol,0.439s,2,2,1,20,40,0.5,false
+9,01:08:28.284,Pasu Semi Dodge,pistol,0.745s,3,2,0.667,20,60,0.333,false
+10,01:08:29.193,Pasu Semi Dodge,pistol,0.407s,2,2,1,20,40,0.5,false
+11,01:08:29.954,Pasu Semi Dodge,pistol,0.33s,2,2,1,20,40,0.5,false
+12,01:08:30.832,Pasu Semi Dodge,pistol,0.46s,2,2,1,20,40,0.5,false
+13,01:08:31.636,Pasu Semi Dodge,pistol,0.368s,2,2,1,20,40,0.5,false
+14,01:08:32.423,Pasu Semi Dodge,pistol,0.299s,2,2,1,20,40,0.5,false
+15,01:08:33.188,Pasu Semi Dodge,pistol,0.357s,2,2,1,20,40,0.5,false
+16,01:08:34.264,Pasu Semi Dodge,pistol,0.667s,3,2,0.667,20,60,0.333,false
+17,01:08:35.501,Pasu Semi Dodge,pistol,0.732s,3,2,0.667,20,60,0.333,false
+18,01:08:36.609,Pasu Semi Dodge,pistol,0.75s,3,2,0.667,20,60,0.333,false
+19,01:08:37.496,Pasu Semi Dodge,pistol,0.352s,2,2,1,20,40,0.5,false
+20,01:08:40.193,Pasu Semi Dodge,pistol,2.137s,5,3,0.6,30,100,0.3,false
+21,01:08:41.099,Pasu Semi Dodge,pistol,0.495s,3,1,0.333,10,60,0.167,false
+22,01:08:44.250,Pasu Semi Dodge,pistol,2.308s,6,2,0.333,20,120,0.167,false
+23,01:08:45.917,Pasu Semi Dodge,pistol,1.196s,4,2,0.5,20,80,0.25,false
+24,01:08:47.566,Pasu Semi Dodge,pistol,1.01s,3,2,0.667,20,60,0.333,false
+25,01:08:48.424,Pasu Semi Dodge,pistol,0.388s,2,2,1,20,40,0.5,false
+26,01:08:49.901,Pasu Semi Dodge,pistol,1.025s,3,2,0.667,20,60,0.333,false
+27,01:08:53.648,Pasu Semi Dodge,pistol,3.21s,5,3,0.6,30,100,0.3,false
+28,01:08:57.071,Pasu Semi Dodge,pistol,2.908s,6,2,0.333,20,120,0.167,false
+29,01:08:57.551,Pasu Semi Dodge,pistol,0.001s,1,1,1,10,20,0.5,false
+30,01:08:58.786,Pasu Semi Dodge,pistol,0.691s,3,2,0.667,20,60,0.333,false
+31,01:09:00.230,Pasu Semi Dodge,pistol,0.911s,4,2,0.5,20,80,0.25,false
+32,01:09:03.072,Pasu Semi Dodge,pistol,2.146s,5,2,0.4,20,100,0.2,false
+33,01:09:04.050,Pasu Semi Dodge,pistol,0.377s,2,2,1,20,40,0.5,false
+34,01:09:05.103,Pasu Semi Dodge,pistol,0.396s,2,2,1,20,40,0.5,false
+35,01:09:06.742,Pasu Semi Dodge,pistol,1.164s,4,2,0.5,20,80,0.25,false
+36,01:09:07.968,Pasu Semi Dodge,pistol,0.772s,3,2,0.667,20,60,0.333,false
+37,01:09:09.079,Pasu Semi Dodge,pistol,0.668s,3,2,0.667,20,60,0.333,false
+38,01:09:11.811,Pasu Semi Dodge,pistol,2.166s,5,2,0.4,20,100,0.2,false
+39,01:09:12.891,Pasu Semi Dodge,pistol,0.468s,2,2,1,20,40,0.5,false
+40,01:09:13.785,Pasu Semi Dodge,pistol,0.427s,2,2,1,20,40,0.5,false
+41,01:09:15.691,Pasu Semi Dodge,pistol,1.468s,4,2,0.5,20,80,0.25,false
+42,01:09:16.574,Pasu Semi Dodge,pistol,0.308s,2,2,1,20,40,0.5,false
+43,01:09:17.841,Pasu Semi Dodge,pistol,0.752s,3,2,0.667,20,60,0.333,false
+44,01:09:18.646,Pasu Semi Dodge,pistol,0.304s,2,2,1,20,40,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,131,88,880.0,2620.0,
+
+Kills:,44
+Deaths:,0
+Fight Time:,38.175999
+Avg TTK:,1.74
+Damage Done:,880.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,6
+Distance Traveled:,0.0
+Score:,88.0
+Scenario:,tamspeed 2bpes 2-clicks
+Hash:,d38228ef74bf19b11e8f250dc26fa397
+Game Version:,v2.8.6
+Challenge Start:,01:08:17.940
+Pause Count:,13
+Pause Duration:,192
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,364.560883
+Resolution Scale,100.0

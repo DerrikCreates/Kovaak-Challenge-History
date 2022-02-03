@@ -1,0 +1,88 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:58:06.377,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+2,18:58:07.303,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+3,18:58:08.146,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+4,18:58:09.110,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+5,18:58:09.727,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+6,18:58:10.590,Quaker Bot Decay,pistol,0.232s,2,1,0.5,25,100,0.25,false
+7,18:58:11.329,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+8,18:58:14.251,Quaker Bot Decay,pistol,2.128s,3,1,0.333,25,150,0.167,false
+9,18:58:15.073,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+10,18:58:15.896,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+11,18:58:16.748,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+12,18:58:17.517,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+13,18:58:18.272,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+14,18:58:19.091,Quaker Bot Decay,pistol,0.671s,2,1,0.5,25,100,0.25,false
+15,18:58:19.909,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+16,18:58:20.695,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+17,18:58:21.429,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+18,18:58:22.208,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+19,18:58:23.004,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+20,18:58:23.763,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+21,18:58:24.551,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+22,18:58:25.420,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+23,18:58:27.296,Quaker Bot Decay,pistol,1.099s,3,1,0.333,25,150,0.167,false
+24,18:58:29.059,Quaker Bot Decay,pistol,0.805s,2,1,0.5,25,100,0.25,false
+25,18:58:29.851,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+26,18:58:30.660,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+27,18:58:31.302,Quaker Bot Decay,pistol,0.393s,2,1,0.5,25,100,0.25,false
+28,18:58:31.945,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+29,18:58:32.713,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+30,18:58:35.248,Quaker Bot Decay,pistol,1.897s,4,1,0.25,25,200,0.125,false
+31,18:58:36.154,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+32,18:58:36.899,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+33,18:58:37.557,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+34,18:58:38.433,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+35,18:58:39.295,Quaker Bot Decay,pistol,0.202s,2,1,0.5,25,100,0.25,false
+36,18:58:40.085,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+37,18:58:40.741,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+38,18:58:41.554,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+39,18:58:42.336,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+40,18:58:43.151,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+41,18:58:43.947,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+42,18:58:44.628,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+43,18:58:45.449,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+44,18:58:46.296,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+45,18:58:48.097,Quaker Bot Decay,pistol,1.533s,3,1,0.333,25,150,0.167,false
+46,18:58:48.923,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+47,18:58:49.641,Quaker Bot Decay,pistol,0s,1,1,1,25,50,0.5,false
+48,18:58:50.490,Quaker Bot Decay,pistol,0.001s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,62,48,1200.0,3100.0,
+
+Kills:,48
+Deaths:,0
+Fight Time:,8.969
+Avg TTK:,0.935
+Damage Done:,1200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1200.0
+Scenario:,Flux Valorant Reflex Flick
+Hash:,f7deb22b0a984a2bea2b2cb708987a83
+Game Version:,v2.8.6
+Challenge Start:,18:58:05.650
+Pause Count:,19
+Pause Duration:,157
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.66452
+Resolution Scale,100.0

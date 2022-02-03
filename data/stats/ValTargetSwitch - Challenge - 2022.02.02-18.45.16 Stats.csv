@@ -1,0 +1,133 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:44:17.872,Shinji small Bot,pistol,0.199s,3,3,1,30,30,1,false
+2,18:44:18.272,Shinji Bot,pistol,0.2s,3,3,1,30,30,1,false
+3,18:44:18.671,Shinji Bot,pistol,0.2s,3,3,1,30,30,1,false
+4,18:44:19.117,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+5,18:44:19.573,Shinji small Bot,pistol,0.2s,3,3,1,30,30,1,false
+6,18:44:20.017,Shinji Bot,pistol,0.198s,3,3,1,30,30,1,false
+7,18:44:20.621,Shinji small Bot,pistol,0.3s,4,3,0.75,30,40,0.75,false
+8,18:44:22.133,Shinji Bot,pistol,1.212s,9,5,0.556,50,90,0.556,false
+9,18:44:22.832,Shinji small Bot,pistol,0.402s,5,3,0.6,30,50,0.6,false
+10,18:44:23.532,Shinji small Bot,pistol,0.403s,5,1,0.2,10,50,0.2,false
+11,18:44:24.131,Shinji small Bot,pistol,0.3s,4,3,0.75,30,40,0.75,false
+12,18:44:24.830,Shinji small Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+13,18:44:25.533,Shinji small Bot,pistol,0.403s,5,3,0.6,30,50,0.6,false
+14,18:44:26.232,Shinji small Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+15,18:44:26.583,Shinji small Bot,pistol,0.199s,3,3,1,30,30,1,false
+16,18:44:27.031,Shinji small Bot,pistol,0.202s,3,3,1,30,30,1,false
+17,18:44:28.545,Shinji small Bot,pistol,1.214s,9,3,0.333,30,90,0.333,false
+18,18:44:29.956,Shinji Bot,pistol,1.114s,8,4,0.5,40,80,0.5,false
+19,18:44:30.759,Shinji Bot,pistol,0.498s,6,3,0.5,30,60,0.5,false
+20,18:44:31.255,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+21,18:44:31.859,Shinji small Bot,pistol,0.3s,4,2,0.5,20,40,0.5,false
+22,18:44:32.559,Shinji Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+23,18:44:33.255,Shinji small Bot,pistol,0.4s,5,3,0.6,30,50,0.6,false
+24,18:44:33.858,Shinji Bot,pistol,0.3s,4,3,0.75,30,40,0.75,false
+25,18:44:34.359,Shinji Bot,pistol,0.198s,3,3,1,30,30,1,false
+26,18:44:34.908,Shinji Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+27,18:44:35.360,Shinji small Bot,pistol,0.202s,3,3,1,30,30,1,false
+28,18:44:35.909,Shinji small Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+29,18:44:36.359,Shinji small Bot,pistol,0.201s,3,3,1,30,30,1,false
+30,18:44:36.959,Shinji small Bot,pistol,0.3s,4,3,0.75,30,40,0.75,false
+31,18:44:38.722,Shinji small Bot,pistol,1.512s,12,6,0.5,55,120,0.458,false
+32,18:44:38.770,Shinji Bot,pistol,0s,1,1,1,10,10,1,false
+33,18:44:40.486,Shinji small Bot,pistol,1.411s,11,3,0.273,30,110,0.273,false
+34,18:44:41.082,Shinji small Bot,pistol,0.298s,4,3,0.75,30,40,0.75,false
+35,18:44:41.685,Shinji small Bot,pistol,0.298s,4,3,0.75,30,40,0.75,false
+36,18:44:42.485,Shinji Bot,pistol,0.503s,6,3,0.5,30,60,0.5,false
+37,18:44:42.934,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+38,18:44:43.385,Shinji small Bot,pistol,0.202s,3,3,1,30,30,1,false
+39,18:44:43.736,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+40,18:44:44.185,Shinji small Bot,pistol,0.199s,3,3,1,30,30,1,false
+41,18:44:44.684,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+42,18:44:45.183,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+43,18:44:45.685,Shinji Bot,pistol,0.204s,3,3,1,30,30,1,false
+44,18:44:46.186,Shinji Bot,pistol,0.202s,3,3,1,30,30,1,false
+45,18:44:46.685,Shinji Bot,pistol,0.198s,3,3,1,30,30,1,false
+46,18:44:47.183,Shinji Bot,pistol,0.2s,3,3,1,30,30,1,false
+47,18:44:47.634,Shinji small Bot,pistol,0.199s,3,3,1,30,30,1,false
+48,18:44:48.482,Shinji small Bot,pistol,0.601s,7,4,0.571,40,70,0.571,false
+49,18:44:48.985,Shinji small Bot,pistol,0.201s,3,3,1,30,30,1,false
+50,18:44:50.446,Shinji small Bot,pistol,1.213s,9,5,0.556,50,90,0.556,false
+51,18:44:50.496,Shinji small Bot,pistol,0s,1,1,1,10,10,1,false
+52,18:44:51.248,Shinji small Bot,pistol,0.501s,6,3,0.5,30,60,0.5,false
+53,18:44:51.895,Shinji Bot,pistol,0.397s,5,3,0.6,30,50,0.6,false
+54,18:44:52.593,Shinji Bot,pistol,0.398s,5,3,0.6,30,50,0.6,false
+55,18:44:53.197,Shinji Bot,pistol,0.299s,4,2,0.5,20,40,0.5,false
+56,18:44:53.696,Shinji Bot,pistol,0.198s,3,3,1,30,30,1,false
+57,18:44:54.195,Shinji Bot,pistol,0.2s,3,3,1,30,30,1,false
+58,18:44:54.947,Shinji small Bot,pistol,0.502s,6,3,0.5,30,60,0.5,false
+59,18:44:55.497,Shinji small Bot,pistol,0.302s,4,3,0.75,30,40,0.75,false
+60,18:44:56.194,Shinji Bot,pistol,0.398s,5,3,0.6,30,50,0.6,false
+61,18:44:56.746,Shinji Bot,pistol,0.3s,4,4,1,40,40,1,false
+62,18:44:57.048,Shinji Bot,pistol,0.102s,2,2,1,20,20,1,false
+63,18:44:58.458,Shinji Bot,pistol,1.312s,10,6,0.6,60,100,0.6,false
+64,18:44:58.606,Shinji small Bot,pistol,0.101s,2,2,1,20,20,1,false
+65,18:44:59.259,Shinji small Bot,pistol,0.398s,5,3,0.6,30,50,0.6,false
+66,18:44:59.308,Shinji Bot,pistol,0s,1,1,1,10,10,1,false
+67,18:45:00.309,Shinji Bot,pistol,0.703s,8,3,0.375,30,80,0.375,false
+68,18:45:00.959,Shinji Bot,pistol,0.502s,6,3,0.5,30,60,0.5,false
+69,18:45:01.360,Shinji Bot,pistol,0.199s,3,3,1,30,30,1,false
+70,18:45:02.008,Shinji small Bot,pistol,0.399s,5,3,0.6,30,50,0.6,false
+71,18:45:02.709,Shinji Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+72,18:45:03.206,Shinji small Bot,pistol,0.199s,3,3,1,30,30,1,false
+73,18:45:03.809,Shinji Bot,pistol,0.3s,4,3,0.75,30,40,0.75,false
+74,18:45:04.558,Shinji Bot,pistol,0.498s,6,3,0.5,30,60,0.5,false
+75,18:45:05.005,Shinji small Bot,pistol,0.201s,3,3,1,30,30,1,false
+76,18:45:05.706,Shinji small Bot,pistol,0.399s,5,3,0.6,30,50,0.6,false
+77,18:45:06.258,Shinji small Bot,pistol,0.301s,4,3,0.75,30,40,0.75,false
+78,18:45:06.706,Shinji Bot,pistol,0.202s,3,3,1,30,30,1,false
+79,18:45:08.322,Shinji small Bot,pistol,1.314s,10,5,0.5,50,100,0.5,false
+80,18:45:08.723,Shinji small Bot,pistol,0.097s,2,1,0.5,10,20,0.5,false
+81,18:45:09.321,Shinji Bot,pistol,0.301s,4,3,0.75,30,40,0.75,false
+82,18:45:09.774,Shinji Bot,pistol,0.198s,3,3,1,30,30,1,false
+83,18:45:10.423,Shinji small Bot,pistol,0.401s,5,3,0.6,30,50,0.6,false
+84,18:45:10.975,Shinji Bot,pistol,0.301s,4,3,0.75,30,40,0.75,false
+85,18:45:11.375,Shinji small Bot,pistol,0.198s,3,3,1,30,30,1,false
+86,18:45:11.823,Shinji small Bot,pistol,0.198s,3,3,1,30,30,1,false
+87,18:45:12.622,Shinji Bot,pistol,0.5s,6,3,0.5,30,60,0.5,false
+88,18:45:13.423,Shinji Bot,pistol,0.503s,6,3,0.5,30,60,0.5,false
+89,18:45:14.838,Shinji Bot,pistol,1.116s,8,5,0.625,50,80,0.625,false
+90,18:45:15.089,Shinji Bot,pistol,0s,1,1,1,10,10,1,false
+91,18:45:15.640,Shinji small Bot,pistol,0.301s,4,4,1,40,40,1,false
+92,18:45:16.037,Shinji Bot,pistol,0.097s,2,2,1,20,20,1,false
+93,18:45:16.686,Shinji small Bot,pistol,0.4s,5,3,0.6,30,50,0.6,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,410,280,2795.0,4100.0,
+
+Kills:,93
+Deaths:,0
+Fight Time:,35.422001
+Avg TTK:,0.645
+Damage Done:,2795.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,9
+Distance Traveled:,0.0
+Score:,93.0
+Scenario:,ValTargetSwitch
+Hash:,f9f859f50d8a0dc9307bd208213f166b
+Game Version:,v2.8.6
+Challenge Start:,18:44:16.682
+Pause Count:,28
+Pause Duration:,134
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.298248
+Resolution Scale,100.0

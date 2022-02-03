@@ -1,0 +1,85 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:21:23.208,Pasu Semi Dodge,pistol,0.318s,2,2,1,20,40,0.5,false
+2,19:21:24.599,Pasu Semi Dodge,pistol,0.97s,4,2,0.5,20,80,0.25,false
+3,19:21:25.471,Pasu Semi Dodge,pistol,0.336s,2,2,1,20,40,0.5,false
+4,19:21:26.757,Pasu Semi Dodge,pistol,0.783s,3,2,0.667,20,60,0.333,false
+5,19:21:27.524,Pasu Semi Dodge,pistol,0.304s,2,2,1,20,40,0.5,false
+6,19:21:28.357,Pasu Semi Dodge,pistol,0.338s,2,2,1,20,40,0.5,false
+7,19:21:30.123,Pasu Semi Dodge,pistol,1.28s,4,3,0.75,30,80,0.375,false
+8,19:21:31.794,Pasu Semi Dodge,pistol,1.247s,3,2,0.667,20,60,0.333,false
+9,19:21:32.255,Pasu Semi Dodge,pistol,0s,1,1,1,10,20,0.5,false
+10,19:21:33.216,Pasu Semi Dodge,pistol,0.353s,2,2,1,20,40,0.5,false
+11,19:21:34.495,Pasu Semi Dodge,pistol,0.862s,4,2,0.5,20,80,0.25,false
+12,19:21:35.586,Pasu Semi Dodge,pistol,0.555s,3,2,0.667,20,60,0.333,false
+13,19:21:36.922,Pasu Semi Dodge,pistol,0.684s,3,2,0.667,20,60,0.333,false
+14,19:21:37.833,Pasu Semi Dodge,pistol,0.323s,2,2,1,20,40,0.5,false
+15,19:21:39.281,Pasu Semi Dodge,pistol,1.004s,4,2,0.5,20,80,0.25,false
+16,19:21:40.225,Pasu Semi Dodge,pistol,0.297s,2,2,1,20,40,0.5,false
+17,19:21:41.734,Pasu Semi Dodge,pistol,0.884s,4,2,0.5,20,80,0.25,false
+18,19:21:42.544,Pasu Semi Dodge,pistol,0.339s,2,2,1,20,40,0.5,false
+19,19:21:43.962,Pasu Semi Dodge,pistol,0.944s,3,2,0.667,20,60,0.333,false
+20,19:21:45.208,Pasu Semi Dodge,pistol,0.703s,3,2,0.667,20,60,0.333,false
+21,19:21:46.228,Pasu Semi Dodge,pistol,0.343s,2,2,1,20,40,0.5,false
+22,19:21:47.048,Pasu Semi Dodge,pistol,0.361s,2,2,1,20,40,0.5,false
+23,19:21:48.032,Pasu Semi Dodge,pistol,0.551s,3,2,0.667,20,60,0.333,false
+24,19:21:49.326,Pasu Semi Dodge,pistol,0.871s,4,2,0.5,20,80,0.25,false
+25,19:21:50.471,Pasu Semi Dodge,pistol,0.642s,3,2,0.667,20,60,0.333,false
+26,19:21:51.863,Pasu Semi Dodge,pistol,0.796s,3,2,0.667,20,60,0.333,false
+27,19:21:53.155,Pasu Semi Dodge,pistol,0.739s,3,2,0.667,20,60,0.333,false
+28,19:21:54.033,Pasu Semi Dodge,pistol,0.348s,2,2,1,20,40,0.5,false
+29,19:21:54.909,Pasu Semi Dodge,pistol,0.299s,2,2,1,20,40,0.5,false
+30,19:21:56.255,Pasu Semi Dodge,pistol,0.834s,3,2,0.667,20,60,0.333,false
+31,19:21:59.076,Pasu Semi Dodge,pistol,2.377s,6,3,0.5,30,120,0.25,false
+32,19:21:59.569,Pasu Semi Dodge,pistol,0s,1,1,1,10,20,0.5,false
+33,19:22:02.734,Pasu Semi Dodge,pistol,2.599s,6,3,0.5,30,120,0.25,false
+34,19:22:03.349,Pasu Semi Dodge,pistol,0s,1,1,1,10,20,0.5,false
+35,19:22:06.733,Pasu Semi Dodge,pistol,2.712s,7,3,0.429,30,140,0.214,false
+36,19:22:08.255,Pasu Semi Dodge,pistol,1.274s,4,1,0.25,10,80,0.125,false
+37,19:22:09.189,Pasu Semi Dodge,pistol,0.395s,2,2,1,20,40,0.5,false
+38,19:22:13.159,Pasu Semi Dodge,pistol,3.388s,8,3,0.375,30,160,0.188,false
+39,19:22:14.230,Pasu Semi Dodge,pistol,0.316s,2,1,0.5,10,40,0.25,false
+40,19:22:15.427,Pasu Semi Dodge,pistol,0.422s,2,2,1,20,40,0.5,false
+41,19:22:16.629,Pasu Semi Dodge,pistol,0.691s,3,2,0.667,20,60,0.333,false
+42,19:22:17.649,Pasu Semi Dodge,pistol,0.363s,2,2,1,20,40,0.5,false
+43,19:22:19.343,Pasu Semi Dodge,pistol,1.174s,4,2,0.5,20,80,0.25,false
+44,19:22:20.688,Pasu Semi Dodge,pistol,1.027s,4,2,0.5,20,80,0.25,false
+45,19:22:22.089,Pasu Semi Dodge,pistol,0.948s,4,2,0.5,20,80,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,140,91,910.0,2800.0,
+
+Kills:,45
+Deaths:,0
+Fight Time:,35.993999
+Avg TTK:,1.708
+Damage Done:,910.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,90.0
+Scenario:,tamspeed 2bpes 2-clicks
+Hash:,d38228ef74bf19b11e8f250dc26fa397
+Game Version:,v2.8.6
+Challenge Start:,19:21:21.950
+Pause Count:,38
+Pause Duration:,1004
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,351.338379
+Resolution Scale,100.0

@@ -1,0 +1,141 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:07:04.202,voxTS_Visc_V_1 Bot,LG,0.198s,21,20,0.952,100,105,0.952,false
+2,00:07:04.580,voxTS_Visc_V_1 Bot,LG,0.189s,20,20,1,100,100,1,false
+3,00:07:04.930,voxTS_Visc_V_1 Bot,LG,0.188s,20,20,1,100,100,1,false
+4,00:07:06.036,voxTS_Visc_V_1 Bot,LG,0.859s,87,20,0.23,100,435,0.23,false
+5,00:07:06.895,voxTS_Visc_V_2 Bot,LG,0.607s,62,20,0.323,100,310,0.323,false
+6,00:07:07.387,voxTS_Visc_V_2 Bot,LG,0.24s,25,20,0.8,100,125,0.8,false
+7,00:07:08.209,voxTS_Visc_V_3 Bot,LG,0.57s,58,20,0.345,100,290,0.345,false
+8,00:07:08.709,voxTS_Visc_V_1 Bot,LG,0.338s,35,20,0.571,100,175,0.571,false
+9,00:07:09.769,voxTS_Visc_V_2 Bot,LG,0.98s,99,38,0.384,190,495,0.384,false
+10,00:07:09.936,voxTS_Visc_V_2 Bot,LG,0.011s,2,2,1,10,10,1,false
+11,00:07:10.707,voxTS_Visc_V_3 Bot,LG,0.521s,53,20,0.377,100,265,0.377,false
+12,00:07:11.211,voxTS_Visc_V_3 Bot,LG,0.349s,36,20,0.556,100,180,0.556,false
+13,00:07:12.101,voxTS_Visc_V_4 Bot,LG,0.639s,65,35,0.538,175,325,0.538,false
+14,00:07:12.369,voxTS_Visc_V_4 Bot,LG,0.04s,5,5,1,25,25,1,false
+15,00:07:12.920,voxTS_Visc_V_5 Bot,LG,0.451s,46,21,0.457,105,230,0.457,false
+16,00:07:13.250,voxTS_Visc_V_5 Bot,LG,0.218s,23,19,0.826,95,115,0.826,false
+17,00:07:13.590,voxTS_Visc_V_3 Bot,LG,0.189s,20,20,1,100,100,1,false
+18,00:07:14.280,voxTS_Visc_V_6 Bot,LG,0.518s,53,34,0.642,170,265,0.642,false
+19,00:07:14.355,voxTS_Visc_V_6 Bot,LG,0.048s,6,6,1,30,30,1,false
+20,00:07:15.109,voxTS_Visc_V_4 Bot,LG,0.502s,51,20,0.392,100,255,0.392,false
+21,00:07:16.668,voxTS_Visc_V_7 Bot,LG,1.298s,131,27,0.206,135,655,0.206,false
+22,00:07:17.479,voxTS_Visc_V_4 Bot,LG,0.551s,56,26,0.464,130,280,0.464,false
+23,00:07:17.959,voxTS_Visc_V_5 Bot,LG,0.22s,23,7,0.304,35,115,0.304,false
+24,00:07:18.500,voxTS_Visc_V_5 Bot,LG,0.437s,45,20,0.444,100,225,0.444,false
+25,00:07:18.841,voxTS_Visc_V_8 Bot,LG,0.19s,20,20,1,100,100,1,false
+26,00:07:19.567,voxTS_Visc_V_7 Bot,LG,0.58s,59,20,0.339,100,295,0.339,false
+27,00:07:20.051,voxTS_Visc_V_9 Bot,LG,0.273s,28,20,0.714,100,140,0.714,false
+28,00:07:20.489,voxTS_Visc_V_6 Bot,LG,0.19s,20,20,1,100,100,1,false
+29,00:07:21.056,voxTS_Visc_V_2 Bot,LG,0.31s,32,20,0.625,100,160,0.625,false
+30,00:07:21.679,voxTS_Visc_V_10 Bot,LG,0.4s,41,20,0.488,100,205,0.488,false
+31,00:07:22.248,voxTS_Visc_V_7 Bot,LG,0.399s,41,20,0.488,100,205,0.488,false
+32,00:07:22.720,voxTS_Visc_V_3 Bot,LG,0.341s,35,20,0.571,100,175,0.571,false
+33,00:07:23.380,voxTS_Visc_V_8 Bot,LG,0.481s,49,20,0.408,100,245,0.408,false
+34,00:07:23.699,voxTS_Visc_V_8 Bot,LG,0.189s,20,20,1,100,100,1,false
+35,00:07:24.130,voxTS_Visc_V_4 Bot,LG,0.28s,29,20,0.69,100,145,0.69,false
+36,00:07:24.550,voxTS_Visc_V_11 Bot,LG,0.189s,20,20,1,100,100,1,false
+37,00:07:24.890,voxTS_Visc_V_5 Bot,LG,0.191s,20,20,1,100,100,1,false
+38,00:07:25.367,voxTS_Visc_V_9 Bot,LG,0.23s,24,20,0.833,100,120,0.833,false
+39,00:07:25.966,voxTS_Visc_V_6 Bot,LG,0.348s,36,20,0.556,100,180,0.556,false
+40,00:07:26.430,voxTS_Visc_V_12 Bot,LG,0.32s,33,20,0.606,100,165,0.606,false
+41,00:07:26.868,voxTS_Visc_V_7 Bot,LG,0.189s,20,20,1,100,100,1,false
+42,00:07:28.019,voxTS_Visc_V_8 Bot,LG,0.891s,90,37,0.411,185,450,0.411,false
+43,00:07:28.369,voxTS_Visc_V_10 Bot,LG,0.101s,11,3,0.273,15,55,0.273,false
+44,00:07:28.810,voxTS_Visc_V_9 Bot,LG,0.192s,20,20,1,100,100,1,false
+45,00:07:30.407,voxTS_Visc_V_11 Bot,LG,1.343s,135,38,0.281,190,675,0.281,false
+46,00:07:30.930,voxTS_Visc_V_10 Bot,LG,0.27s,28,2,0.071,10,140,0.071,false
+47,00:07:31.406,voxTS_Visc_V_9 Bot,LG,0.22s,23,20,0.87,100,115,0.87,false
+48,00:07:32.096,voxTS_Visc_V_13 Bot,LG,0.439s,45,20,0.444,100,225,0.444,false
+49,00:07:32.612,voxTS_Visc_V_11 Bot,LG,0.359s,37,20,0.541,100,185,0.541,false
+50,00:07:33.020,voxTS_Visc_V_12 Bot,LG,0.19s,20,20,1,100,100,1,false
+51,00:07:33.618,voxTS_Visc_V_6 Bot,LG,0.351s,36,20,0.556,100,180,0.556,false
+52,00:07:34.447,voxTS_Visc_V_12 Bot,LG,0.572s,58,20,0.345,100,290,0.345,false
+53,00:07:34.889,voxTS_Visc_V_7 Bot,LG,0.19s,20,20,1,100,100,1,false
+54,00:07:35.502,voxTS_Visc_V_10 Bot,LG,0.4s,41,20,0.488,100,205,0.488,false
+55,00:07:35.937,voxTS_Visc_V_14 Bot,LG,0.188s,20,20,1,100,100,1,false
+56,00:07:36.370,voxTS_Visc_V_8 Bot,LG,0.267s,28,20,0.714,100,140,0.714,false
+57,00:07:36.931,voxTS_Visc_V_13 Bot,LG,0.388s,40,20,0.5,100,200,0.5,false
+58,00:07:37.369,voxTS_Visc_V_13 Bot,LG,0.187s,20,20,1,100,100,1,false
+59,00:07:37.880,voxTS_Visc_V_14 Bot,LG,0.251s,26,20,0.769,100,130,0.769,false
+60,00:07:38.461,voxTS_Visc_V_14 Bot,LG,0.323s,33,20,0.606,100,165,0.606,false
+61,00:07:39.101,voxTS_Visc_V_15 Bot,LG,0.421s,43,20,0.465,100,215,0.465,false
+62,00:07:39.535,voxTS_Visc_V_15 Bot,LG,0.187s,20,20,1,100,100,1,false
+63,00:07:40.171,voxTS_Visc_V_9 Bot,LG,0.383s,39,20,0.513,100,195,0.513,false
+64,00:07:40.789,voxTS_Visc_V_16 Bot,LG,0.38s,39,20,0.513,100,195,0.513,false
+65,00:07:41.260,voxTS_Visc_V_16 Bot,LG,0.29s,30,20,0.667,100,150,0.667,false
+66,00:07:41.698,voxTS_Visc_V_15 Bot,LG,0.19s,20,20,1,100,100,1,false
+67,00:07:42.528,voxTS_Visc_V_17 Bot,LG,0.638s,65,20,0.308,100,325,0.308,false
+68,00:07:42.968,voxTS_Visc_V_10 Bot,LG,0.191s,20,20,1,100,100,1,false
+69,00:07:43.487,voxTS_Visc_V_18 Bot,LG,0.267s,28,20,0.714,100,140,0.714,false
+70,00:07:44.220,voxTS_Visc_V_17 Bot,LG,0.487s,50,20,0.4,100,250,0.4,false
+71,00:07:44.770,voxTS_Visc_V_16 Bot,LG,0.337s,35,20,0.571,100,175,0.571,false
+72,00:07:45.276,voxTS_Visc_V_18 Bot,LG,0.257s,27,20,0.741,100,135,0.741,false
+73,00:07:45.949,voxTS_Visc_V_17 Bot,LG,0.502s,51,20,0.392,100,255,0.392,false
+74,00:07:46.390,voxTS_Visc_V_11 Bot,LG,0.192s,20,20,1,100,100,1,false
+75,00:07:47.480,voxTS_Visc_V_12 Bot,LG,0.829s,84,20,0.238,100,420,0.238,false
+76,00:07:48.251,voxTS_Visc_V_19 Bot,LG,0.56s,57,20,0.351,100,285,0.351,false
+77,00:07:48.978,voxTS_Visc_V_19 Bot,LG,0.549s,56,20,0.357,100,280,0.357,false
+78,00:07:49.199,voxTS_Visc_V_11 Bot,LG,0.192s,20,20,1,100,100,1,false
+79,00:07:49.417,voxTS_Visc_V_18 Bot,LG,0.193s,20,20,1,100,100,1,false
+80,00:07:50.429,voxTS_Visc_V_19 Bot,LG,0.758s,77,20,0.26,100,385,0.26,false
+81,00:07:51.268,voxTS_Visc_V_12 Bot,LG,0.58s,59,20,0.339,100,295,0.339,false
+82,00:07:52.267,voxTS_Visc_V_20 Bot,LG,0.742s,75,20,0.267,100,375,0.267,false
+83,00:07:52.702,voxTS_Visc_V_13 Bot,LG,0.209s,22,20,0.909,100,110,0.909,false
+84,00:07:53.081,voxTS_Visc_V_13 Bot,LG,0.189s,20,20,1,100,100,1,false
+85,00:07:53.751,voxTS_Visc_V_20 Bot,LG,0.421s,43,20,0.465,100,215,0.465,false
+86,00:07:54.429,voxTS_Visc_V_21 Bot,LG,0.421s,43,20,0.465,100,215,0.465,false
+87,00:07:55.020,voxTS_Visc_V_20 Bot,LG,0.333s,34,20,0.588,100,170,0.588,false
+88,00:07:55.520,voxTS_Visc_V_21 Bot,LG,0.249s,26,20,0.769,100,130,0.769,false
+89,00:07:55.954,voxTS_Visc_V_14 Bot,LG,0.188s,20,20,1,100,100,1,false
+90,00:07:57.069,voxTS_Visc_V_21 Bot,LG,0.862s,87,20,0.23,100,435,0.23,false
+91,00:07:57.769,voxTS_Visc_V_15 Bot,LG,0.44s,45,20,0.444,100,225,0.444,false
+92,00:07:58.330,voxTS_Visc_V_21 Bot,LG,0.312s,32,20,0.625,100,160,0.625,false
+93,00:07:58.840,voxTS_Visc_V_16 Bot,LG,0.289s,30,20,0.667,100,150,0.667,false
+94,00:07:59.278,voxTS_Visc_V_21 Bot,LG,0.201s,21,20,0.952,100,105,0.952,false
+95,00:08:00.141,voxTS_Visc_V_21 Bot,LG,0.741s,75,35,0.467,175,375,0.467,false
+96,00:08:00.575,voxTS_Visc_V_14 Bot,LG,0.187s,20,20,1,100,100,1,false
+97,00:08:00.888,voxTS_Visc_V_17 Bot,LG,0.062s,7,5,0.714,25,35,0.714,false
+98,00:08:01.529,voxTS_Visc_V_15 Bot,LG,0.382s,39,20,0.513,100,195,0.513,false
+99,00:08:01.889,voxTS_Visc_V_21 Bot,LG,0.251s,26,20,0.769,100,130,0.769,false
+100,00:08:02.397,voxTS_Visc_V_21 Bot,LG,0.263s,27,20,0.741,100,135,0.741,false
+101,00:08:02.978,voxTS_Visc_V_18 Bot,LG,0.329s,34,20,0.588,100,170,0.588,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,3914,2024,10120.0,19570.0,
+
+Kills:,101
+Deaths:,0
+Fight Time:,37.837002
+Avg TTK:,0.593
+Damage Done:,10120.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,101.199997
+Scenario:,voxTS Viscose Varied
+Hash:,1918d44d4f05569f3fc3259451992a26
+Game Version:,v2.8.6
+Challenge Start:,00:07:03.260
+Pause Count:,10
+Pause Duration:,117
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,270.722931
+Resolution Scale,100.0

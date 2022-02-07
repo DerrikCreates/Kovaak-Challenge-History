@@ -1,0 +1,97 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:12:42.142,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+2,23:12:43.556,Low,b180 pistol,0.972s,2,1,0.5,50,250,0.2,false
+3,23:12:44.460,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+4,23:12:44.909,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+5,23:12:45.734,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+6,23:12:46.594,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+7,23:12:47.127,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+8,23:12:47.943,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+9,23:12:49.303,Mid,b180 pistol,0.561s,2,1,0.5,50,250,0.2,false
+10,23:12:50.080,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+11,23:12:51.058,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+12,23:12:51.431,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+13,23:12:54.230,High,b180 pistol,1.981s,3,1,0.333,50,375,0.133,false
+14,23:12:55.198,Low,b180 pistol,0.561s,2,1,0.5,50,250,0.2,false
+15,23:12:55.940,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+16,23:12:57.542,Mid,b180 pistol,1.112s,3,1,0.333,50,375,0.133,false
+17,23:12:57.991,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+18,23:12:59.224,Low,b180 pistol,0.794s,3,1,0.333,50,375,0.133,false
+19,23:13:00.228,High,b180 pistol,0.379s,2,1,0.5,50,250,0.2,false
+20,23:13:01.476,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+21,23:13:02.418,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+22,23:13:03.667,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+23,23:13:04.530,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+24,23:13:05.888,Mid,b180 pistol,0.796s,3,1,0.333,50,375,0.133,false
+25,23:13:06.614,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+26,23:13:07.087,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+27,23:13:07.572,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+28,23:13:08.872,Mid,b180 pistol,0.589s,2,1,0.5,50,250,0.2,false
+29,23:13:09.570,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+30,23:13:09.970,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+31,23:13:10.745,Mid,b180 pistol,0.267s,2,1,0.5,50,250,0.2,false
+32,23:13:11.565,Mid,b180 pistol,0.377s,2,1,0.5,50,250,0.2,false
+33,23:13:12.527,Mid,b180 pistol,0.293s,2,1,0.5,50,250,0.2,false
+34,23:13:13.760,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+35,23:13:14.540,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+36,23:13:15.949,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+37,23:13:16.609,Low,b180 pistol,0.327s,2,1,0.5,50,250,0.2,false
+38,23:13:17.921,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+39,23:13:18.311,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+40,23:13:19.084,High,b180 pistol,0.251s,2,1,0.5,50,250,0.2,false
+41,23:13:20.312,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+42,23:13:20.792,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+43,23:13:21.741,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+44,23:13:25.751,Mid,b180 pistol,2.803s,5,1,0.2,50,625,0.08,false
+45,23:13:27.322,Mid,b180 pistol,0.918s,3,1,0.333,50,375,0.133,false
+46,23:13:28.295,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+47,23:13:29.161,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+48,23:13:29.736,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+49,23:13:30.872,Mid,b180 pistol,0.5s,2,1,0.5,50,250,0.2,false
+50,23:13:31.654,High,b180 pistol,0s,1,1,1,50,125,0.4,false
+51,23:13:32.505,Low,b180 pistol,0s,1,1,1,50,125,0.4,false
+52,23:13:33.529,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+53,23:13:35.365,Low,b180 pistol,1.329s,3,1,0.333,50,375,0.133,false
+54,23:13:35.933,Mid,b180 pistol,0.001s,1,1,1,50,125,0.4,false
+55,23:13:36.714,Mid,b180 pistol,0s,1,1,1,50,125,0.4,false
+56,23:13:38.222,High,b180 pistol,1.022s,3,1,0.333,50,375,0.133,false
+57,23:13:39.242,Mid,b180 pistol,0.472s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+b180 pistol,89,57,2850.0,11125.0,
+
+Kills:,57
+Deaths:,0
+Fight Time:,16.306999
+Avg TTK:,1.241
+Damage Done:,2850.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,1
+Distance Traveled:,0.0
+Score:,57.0
+Scenario:,B180 Voltaic
+Hash:,c01cb433518fa3bccf4fb0e7a19d5a0d
+Game Version:,v2.8.6
+Challenge Start:,23:12:40.934
+Pause Count:,6
+Pause Duration:,10
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,344.507843
+Resolution Scale,100.0

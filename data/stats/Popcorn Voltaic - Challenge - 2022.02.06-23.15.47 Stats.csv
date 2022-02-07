@@ -1,0 +1,55 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:14:49.182,Pigeon3,pistol,0s,1,1,1,100,200,0.5,false
+2,23:14:53.499,Pigeon,pistol,3.3s,3,1,0.333,100,600,0.167,false
+3,23:14:55.811,Pigeon2,pistol,1.401s,2,1,0.5,100,400,0.25,false
+4,23:15:01.971,Pigeon3,pistol,4.866s,4,1,0.25,100,800,0.125,false
+5,23:15:06.100,Pigeon4,pistol,2.006s,2,1,0.5,100,400,0.25,false
+6,23:15:07.674,Pigeon5,pistol,0s,1,1,1,100,200,0.5,false
+7,23:15:11.009,Pigeon,pistol,1.493s,2,1,0.5,100,400,0.25,false
+8,23:15:21.333,Pigeon5,pistol,8.632s,5,1,0.2,100,1000,0.1,false
+9,23:15:23.684,Pigeon4,pistol,0s,1,1,1,100,200,0.5,false
+10,23:15:26.574,Pigeon2,pistol,1.578s,2,1,0.5,100,400,0.25,false
+11,23:15:32.605,Pigeon3,pistol,3.005s,3,1,0.333,100,600,0.167,false
+12,23:15:35.785,Pigeon5,pistol,1.861s,2,1,0.5,100,400,0.25,false
+13,23:15:39.061,Pigeon4,pistol,1.664s,2,1,0.5,100,400,0.25,false
+14,23:15:43.881,Pigeon,pistol,2.431s,3,1,0.333,100,600,0.167,false
+15,23:15:46.939,Pigeon4,pistol,2.017s,2,1,0.5,100,400,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,35,15,1500.0,7000.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,34.254002
+Avg TTK:,4
+Damage Done:,1500.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,20
+Distance Traveled:,0.0
+Score:,150.0
+Scenario:,Popcorn Voltaic
+Hash:,62908ae6f6639742639b12843d402799
+Game Version:,v2.8.6
+Challenge Start:,23:14:47.841
+Pause Count:,9
+Pause Duration:,13
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,292.757385
+Resolution Scale,100.0

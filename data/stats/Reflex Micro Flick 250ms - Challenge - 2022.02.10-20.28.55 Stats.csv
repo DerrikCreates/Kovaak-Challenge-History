@@ -1,0 +1,91 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:27:56.389,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,20:27:58.441,target_decay,pistol,1.266s,3,1,0.333,25,150,0.167,false
+3,20:27:59.741,target_decay,pistol,0.515s,2,1,0.5,25,100,0.25,false
+4,20:28:01.053,target_decay,pistol,0.619s,2,1,0.5,25,100,0.25,false
+5,20:28:01.670,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+6,20:28:03.624,target_decay,pistol,1.327s,3,1,0.333,25,150,0.167,false
+7,20:28:05.557,target_decay,pistol,1.278s,3,1,0.333,25,150,0.167,false
+8,20:28:06.184,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,20:28:06.764,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,20:28:07.438,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,20:28:08.068,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+12,20:28:08.653,target_decay,pistol,0.002s,1,1,1,25,50,0.5,false
+13,20:28:10.634,target_decay,pistol,1.349s,3,1,0.333,25,150,0.167,false
+14,20:28:14.619,target_decay,pistol,3.308s,8,1,0.125,25,400,0.062,false
+15,20:28:15.214,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,20:28:16.517,target_decay,pistol,0.647s,2,1,0.5,25,100,0.25,false
+17,20:28:18.494,target_decay,pistol,1.359s,3,1,0.333,25,150,0.167,false
+18,20:28:19.107,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,20:28:19.762,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+20,20:28:21.675,target_decay,pistol,1.272s,3,1,0.333,25,150,0.167,false
+21,20:28:23.667,target_decay,pistol,1.434s,3,1,0.333,25,150,0.167,false
+22,20:28:24.944,target_decay,pistol,0.635s,2,1,0.5,25,100,0.25,false
+23,20:28:25.538,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+24,20:28:26.115,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+25,20:28:26.736,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+26,20:28:28.028,target_decay,pistol,0.933s,3,1,0.333,25,150,0.167,false
+27,20:28:28.613,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+28,20:28:31.241,target_decay,pistol,1.98s,4,1,0.25,25,200,0.125,false
+29,20:28:32.542,target_decay,pistol,0.678s,2,1,0.5,25,100,0.25,false
+30,20:28:33.147,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+31,20:28:33.761,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+32,20:28:35.075,target_decay,pistol,0.65s,2,1,0.5,25,100,0.25,false
+33,20:28:35.674,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+34,20:28:36.978,target_decay,pistol,0.67s,2,1,0.5,25,100,0.25,false
+35,20:28:37.609,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+36,20:28:38.242,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+37,20:28:38.863,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+38,20:28:40.115,target_decay,pistol,0.642s,2,1,0.5,25,100,0.25,false
+39,20:28:40.753,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+40,20:28:41.353,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+41,20:28:42.580,target_decay,pistol,0.622s,2,1,0.5,25,100,0.25,false
+42,20:28:43.225,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+43,20:28:45.813,target_decay,pistol,1.959s,4,1,0.25,25,200,0.125,false
+44,20:28:46.428,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+45,20:28:47.714,target_decay,pistol,0.649s,2,1,0.5,25,100,0.25,false
+46,20:28:48.322,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+47,20:28:50.267,target_decay,pistol,1.327s,3,1,0.333,25,150,0.167,false
+48,20:28:51.539,target_decay,pistol,0.666s,2,1,0.5,25,100,0.25,false
+49,20:28:52.835,target_decay,pistol,0.661s,2,1,0.5,25,100,0.25,false
+50,20:28:53.461,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+51,20:28:54.093,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,96,51,1275.0,4800.0,
+
+Kills:,51
+Deaths:,0
+Fight Time:,26.451
+Avg TTK:,1.175
+Damage Done:,1275.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2709.375
+Scenario:,Reflex Micro Flick 250ms
+Hash:,de876713adc34544fae2f05415d1300f
+Game Version:,v2.8.6
+Challenge Start:,20:27:55.857
+Pause Count:,23
+Pause Duration:,118
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,297.114899
+Resolution Scale,100.0

@@ -1,0 +1,81 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:29:16.138,Reflex Strafing Target L,pistol,2.858s,6,1,0.167,25,300,0.083,false
+2,20:29:17.173,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+3,20:29:17.929,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+4,20:29:20.539,Reflex Strafing Target R,pistol,1.775s,4,1,0.25,25,200,0.125,false
+5,20:29:21.417,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+6,20:29:22.432,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+7,20:29:24.122,Reflex Strafing Target R,pistol,1.017s,3,1,0.333,25,150,0.167,false
+8,20:29:25.000,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+9,20:29:26.878,Reflex Strafing Target L,pistol,0.901s,2,1,0.5,25,100,0.25,false
+10,20:29:27.787,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+11,20:29:28.664,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+12,20:29:29.499,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+13,20:29:30.333,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+14,20:29:34.417,Reflex Strafing Target L,pistol,3.124s,5,1,0.2,25,250,0.1,false
+15,20:29:37.844,Reflex Strafing Target R,pistol,2.505s,6,1,0.167,25,300,0.083,false
+16,20:29:39.572,Reflex Strafing Target L,pistol,0.935s,2,1,0.5,25,100,0.25,false
+17,20:29:41.481,Reflex Strafing Target R,pistol,1.088s,2,1,0.5,25,100,0.25,false
+18,20:29:42.471,Reflex Strafing Target R,pistol,0.001s,1,1,1,25,50,0.5,false
+19,20:29:43.389,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+20,20:29:44.224,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+21,20:29:45.052,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+22,20:29:47.127,Reflex Strafing Target R,pistol,1.09s,2,1,0.5,25,100,0.25,false
+23,20:29:48.909,Reflex Strafing Target R,pistol,0.993s,2,1,0.5,25,100,0.25,false
+24,20:29:50.878,Reflex Strafing Target R,pistol,1.043s,2,1,0.5,25,100,0.25,false
+25,20:29:51.689,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+26,20:29:52.652,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+27,20:29:53.623,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+28,20:29:54.456,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+29,20:29:55.348,Reflex Strafing Target R,pistol,0.001s,1,1,1,25,50,0.5,false
+30,20:29:57.436,Reflex Strafing Target L,pistol,1.388s,3,1,0.333,25,150,0.167,false
+31,20:29:58.272,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+32,20:30:00.286,Reflex Strafing Target L,pistol,1.067s,2,1,0.5,25,100,0.25,false
+33,20:30:01.232,Reflex Strafing Target L,pistol,0.001s,1,1,1,25,50,0.5,false
+34,20:30:02.170,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+35,20:30:03.015,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+36,20:30:03.889,Reflex Strafing Target L,pistol,0.001s,1,1,1,25,50,0.5,false
+37,20:30:04.579,Reflex Strafing Target L,pistol,0.001s,1,1,1,25,50,0.5,false
+38,20:30:05.439,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+39,20:30:08.217,Reflex Strafing Target R,pistol,2.105s,4,1,0.25,25,200,0.125,false
+40,20:30:09.943,Reflex Strafing Target R,pistol,1.007s,3,1,0.333,25,150,0.167,false
+41,20:30:11.806,Reflex Strafing Target R,pistol,0.992s,2,1,0.5,25,100,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,75,41,1025.0,3750.0,
+
+Kills:,41
+Deaths:,0
+Fight Time:,23.893
+Avg TTK:,1.461
+Damage Done:,1025.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,41.0
+Scenario:,Valorant Reflex Flick Strafing
+Hash:,3dc9976006bebf70c2aee2f86cb93c5e
+Game Version:,v2.8.6
+Challenge Start:,20:29:12.486
+Pause Count:,24
+Pause Duration:,119
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,294.088654
+Resolution Scale,100.0

@@ -1,0 +1,168 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:35:31.249,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+2,03:35:32.001,fireworks_target,pistol,0.396s,2,1,0.5,25,100,0.25,false
+3,03:35:32.312,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+4,03:35:32.689,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+5,03:35:33.028,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+6,03:35:33.456,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+7,03:35:33.794,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+8,03:35:34.125,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+9,03:35:34.408,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+10,03:35:34.681,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+11,03:35:34.951,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+12,03:35:35.899,fireworks_target,pistol,0.638s,3,1,0.333,25,150,0.167,false
+13,03:35:36.168,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+14,03:35:36.520,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+15,03:35:36.827,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+16,03:35:37.215,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+17,03:35:38.083,fireworks_target,pistol,0.543s,3,1,0.333,25,150,0.167,false
+18,03:35:38.401,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+19,03:35:38.732,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+20,03:35:39.089,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+21,03:35:39.397,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+22,03:35:39.733,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+23,03:35:40.035,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+24,03:35:40.376,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+25,03:35:40.676,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+26,03:35:40.999,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+27,03:35:41.367,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+28,03:35:41.653,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+29,03:35:42.408,fireworks_target,pistol,0.414s,2,1,0.5,25,100,0.25,false
+30,03:35:42.728,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+31,03:35:44.348,fireworks_target,pistol,1.237s,5,1,0.2,25,250,0.1,false
+32,03:35:44.716,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+33,03:35:45.362,fireworks_target,pistol,0.295s,2,1,0.5,25,100,0.25,false
+34,03:35:45.684,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+35,03:35:45.981,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+36,03:35:46.348,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+37,03:35:46.671,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+38,03:35:47.577,fireworks_target,pistol,0.399s,2,1,0.5,25,100,0.25,false
+39,03:35:48.269,fireworks_target,pistol,0.41s,2,1,0.5,25,100,0.25,false
+40,03:35:48.971,fireworks_target,pistol,0.378s,2,1,0.5,25,100,0.25,false
+41,03:35:49.289,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+42,03:35:49.625,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+43,03:35:49.941,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+44,03:35:50.240,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+45,03:35:50.532,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+46,03:35:50.839,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+47,03:35:51.164,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+48,03:35:51.526,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+49,03:35:52.189,fireworks_target,pistol,0.356s,2,1,0.5,25,100,0.25,false
+50,03:35:52.843,fireworks_target,pistol,0.329s,2,1,0.5,25,100,0.25,false
+51,03:35:53.830,fireworks_target,pistol,0.698s,3,1,0.333,25,150,0.167,false
+52,03:35:54.190,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+53,03:35:54.505,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+54,03:35:55.176,fireworks_target,pistol,0.35s,2,1,0.5,25,100,0.25,false
+55,03:35:55.495,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+56,03:35:55.850,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+57,03:35:56.199,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+58,03:35:56.512,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+59,03:35:56.856,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+60,03:35:57.138,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+61,03:35:57.481,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+62,03:35:57.821,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+63,03:35:58.153,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+64,03:35:58.488,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+65,03:35:58.825,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+66,03:35:59.137,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+67,03:35:59.450,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+68,03:35:59.769,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+69,03:36:00.100,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+70,03:36:00.454,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+71,03:36:00.754,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+72,03:36:01.092,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+73,03:36:01.443,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+74,03:36:02.130,fireworks_target,pistol,0.36s,2,1,0.5,25,100,0.25,false
+75,03:36:02.450,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+76,03:36:02.818,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+77,03:36:03.131,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+78,03:36:03.548,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+79,03:36:04.402,fireworks_target,pistol,0.486s,2,1,0.5,25,100,0.25,false
+80,03:36:05.495,fireworks_target,pistol,0.791s,2,1,0.5,25,100,0.25,false
+81,03:36:05.831,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+82,03:36:06.311,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+83,03:36:06.732,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+84,03:36:07.394,fireworks_target,pistol,0.349s,2,1,0.5,25,100,0.25,false
+85,03:36:07.666,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+86,03:36:08.019,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+87,03:36:08.524,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+88,03:36:08.894,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+89,03:36:09.251,fireworks_target,pistol,0.26s,2,1,0.5,25,100,0.25,false
+90,03:36:09.607,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+91,03:36:10.317,fireworks_target,pistol,0.387s,2,1,0.5,25,100,0.25,false
+92,03:36:11.365,fireworks_target,pistol,0.663s,3,1,0.333,25,150,0.167,false
+93,03:36:12.118,fireworks_target,pistol,0.428s,2,1,0.5,25,100,0.25,false
+94,03:36:12.372,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+95,03:36:13.077,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+96,03:36:13.807,fireworks_target,pistol,0.429s,2,1,0.5,25,100,0.25,false
+97,03:36:14.546,fireworks_target,pistol,0.397s,2,1,0.5,25,100,0.25,false
+98,03:36:14.882,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+99,03:36:15.592,fireworks_target,pistol,0.3s,2,1,0.5,25,100,0.25,false
+100,03:36:16.224,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+101,03:36:16.485,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+102,03:36:16.852,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+103,03:36:17.497,fireworks_target,pistol,0.279s,2,1,0.5,25,100,0.25,false
+104,03:36:18.372,fireworks_target,pistol,0.537s,3,1,0.333,25,150,0.167,false
+105,03:36:19.411,fireworks_target,pistol,0.777s,3,1,0.333,25,150,0.167,false
+106,03:36:19.804,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+107,03:36:20.199,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+108,03:36:20.526,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+109,03:36:21.294,fireworks_target,pistol,0.372s,2,1,0.5,25,100,0.25,false
+110,03:36:22.501,fireworks_target,pistol,0.908s,4,1,0.25,25,200,0.125,false
+111,03:36:22.882,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+112,03:36:23.226,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+113,03:36:23.592,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+114,03:36:24.466,fireworks_target,pistol,0.597s,3,1,0.333,25,150,0.167,false
+115,03:36:24.766,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+116,03:36:25.103,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+117,03:36:25.427,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+118,03:36:25.772,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+119,03:36:26.099,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+120,03:36:26.423,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+121,03:36:26.753,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+122,03:36:27.090,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+123,03:36:27.745,fireworks_target,pistol,0.295s,2,1,0.5,25,100,0.25,false
+124,03:36:28.068,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+125,03:36:28.611,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+126,03:36:28.941,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+127,03:36:29.302,fireworks_target,pistol,0.001s,1,1,1,25,50,0.5,false
+128,03:36:29.724,fireworks_target,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,171,128,3200.0,8550.0,
+
+Kills:,128
+Deaths:,0
+Fight Time:,15.079
+Avg TTK:,0.469
+Damage Done:,3200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2395.321777
+Scenario:,Fireworks Flick Small
+Hash:,c571e7d6d222866531b675f3192ace04
+Game Version:,v2.8.6
+Challenge Start:,03:43:43.346
+Pause Count:,19
+Pause Duration:,547
+
+Input Lag:,0
+Max FPS (config):,298.0
+Sens Scale:,Quake/Source
+Horiz Sens:,1.0
+Vert Sens:,1.0
+DPI:,800
+FOV:,103.0
+FOVScale:,Valorant
+Hide Gun:,false
+Crosshair:,PopDot.png
+Crosshair Scale:,1.0
+Crosshair Color:,00FF00
+Resolution,1920x1080
+Avg FPS,295.716156
+Resolution Scale,100.0
